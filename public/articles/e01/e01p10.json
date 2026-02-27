@@ -1,0 +1,111 @@
+[
+  {
+    "id": "e01p1001",
+    "speaker": "Alice",
+    "content": "The morning after my funeral, my friends and neighbors quietly went back to their busy, busy lives.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1002",
+    "speaker": "Alice",
+    "content": "While some did their cooking. And some did their cleaning. And some did their yoga. Others did their \"homework\"",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1003",
+    "speaker": "Julie",
+    "content": "Hi, I'm Julie. I kicked my soccer ball into your backyard.",
+    "readable": true,
+    "mark": ["kick v.踢，踢腿；", "backyard 后院；后庭"]
+  },
+  {
+    "id": "e01p1004",
+    "speaker": "Mike",
+    "content": "Oh, OK. Well, let's go around and get it.",
+    "readable": true,
+    "mark": [
+      "let's go round/around and get it 咱们过去把它拿过来,可以用于提议去某个地方拿取某样东西等情景中。around 是美式"
+    ]
+  },
+  {
+    "id": "e01p1005",
+    "speaker": "Julie",
+    "content": "His wife died a year ago. He wanted to stay in LA, but there were too many memories. He is renting for tax purposes, but He hopes to buy a place real soon.",
+    "readable": true,
+    "mark": [
+      "tax purposes 纳税目的  tax 税款；负担，重负  purposes 目的，意图；目标，计划",
+      "for other purposes 为了其他目的；for specific purposes为了特定目的",
+      "real soon 真快：表示某事将会很快发生或完成。"
+    ]
+  },
+  {
+    "id": "e01p1006",
+    "speaker": "Susan",
+    "content": "I can't believe you went over there.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1007",
+    "speaker": "Julie",
+    "content": "Hey, I saw you both flirting at the wake. You are obviously into each other. Now that you know he is single, you can ask him out.",
+    "readable": true,
+    "mark": [
+      "you both = you two 你们两个",
+      "flirt 调情；不认真地考虑",
+      "you are into each other 你们喜欢对方"
+    ]
+  },
+  {
+    "id": "e01p1008",
+    "speaker": "Susan",
+    "content": "Julie, I like Mr. Delfino, I do. I just... I don't even know if I'm ready to start dating yet.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1009",
+    "speaker": "Julie",
+    "content": "You need to get back out there. Come on. How long has it been since you had sex? Are you mad that I asked you that?",
+    "readable": true,
+    "mark": [
+      "get back out there 重新开始；继续前进；再次尝试",
+      "How long has it been since... 自从…… 以来已经多久了,回答时通常会用类似 “It's been + 时间段”"
+    ]
+  },
+  {
+    "id": "e01p1010",
+    "speaker": "Susan",
+    "content": "No, I'm just trying to remember. I don't wanna talk to you about my love life anymore. It weirds me out.",
+    "readable": true,
+    "mark": ["wanna 想要（等于 want to）", "It weirds me out 这让我很奇怪"]
+  },
+  {
+    "id": "e01p1011",
+    "speaker": "Julie",
+    "content": "I wouldn't have said anything. It's just...",
+    "readable": true,
+    "mark": [
+      "I wouldn't have said anything. It's just...  我本不想说什么，只是…"
+    ]
+  },
+  {
+    "id": "e01p1012",
+    "speaker": "Susan",
+    "content": "What?",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1013",
+    "speaker": "Julie",
+    "content": "I heard Dad's girlfriend ask if you'd dated anyone since the divorce. And Dad said he doubted it. And then they both laughed.",
+    "readable": true,
+    "mark": [
+      "hear sb do sth 听见某人做某事, 其中do sth是不带 to 的不定式",
+      "Dad said he doubted it. 在间接引语中，当主句的谓语动词是过去时态（said）时，从句中的动词通常也要使用相应的过去时态来保持时态的一致性。"
+    ]
+  }
+]

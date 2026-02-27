@@ -1,0 +1,98 @@
+[
+  {
+    "id": "e02p0701",
+    "speaker": "Eddie",
+    "content": "It's all gone. Everything my ex-husband worked for all those years gone.",
+    "readable": true,
+    "mark": [
+      "It's all gone.全都没了；一切都消失了；全都不见了",
+      "all those years 那些年；这么多年；所有那些年"
+    ]
+  },
+  {
+    "id": "e02p0702",
+    "speaker": "Huber",
+    "content": "Don't worry about clothing. I already started a collection from people in the neighborhood.",
+    "readable": true,
+    "mark": [
+      "clothing n. 衣服 == clothes",
+      "collection n. 收藏品，收集物；募捐；一堆"
+    ]
+  },
+  {
+    "id": "e02p0703",
+    "speaker": "Eddie",
+    "content": "What? I don't want to wear other people's old crap.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0704",
+    "speaker": "Huber",
+    "content": "Eddie, you can be homeless or you can be ungracious. You really can't afford to be both.",
+    "readable": true,
+    "mark": [
+      "ungracious adj. 穿着寒碜；无礼貌的，没规矩的；没有教养的；讨厌的",
+      "gracious adj. 有礼貌的，和蔼的；豪华舒适的，富足安逸的"
+    ]
+  },
+  {
+    "id": "e02p0705",
+    "speaker": "Eddie",
+    "content": "That reminds me. My insurance check still hasn't come yet. Could I stay with you a few more weeks?",
+    "readable": true,
+    "mark": [
+      "That reminds me.这倒提醒我了；那让我想起来了",
+      "insurance n. 保险；保险费；保险业；",
+      "check n. 支票(美式) == cheque(英式)",
+      "a few more weeks 再多几周"
+    ]
+  },
+  {
+    "id": "e02p0706",
+    "speaker": "Huber",
+    "content": "Of course. What kind of Christian would I be if I denied shelter to a friend in need?",
+    "readable": true,
+    "mark": [
+      "What kind of person would I be if ...如果…… 我会是怎样的一个人啊",
+      "What kind of... 是一个疑问词组，在句中作表语，用于询问种类。",
+      "Christian n. 基督徒，信徒",
+      "deny  v. 否认；拒绝承认；拒绝给予",
+      "shelter n. 居所，住处；遮蔽物，庇护处v. 提供庇护，提供保护；躲避，避难",
+      "deny shelter to sb 拒绝为某人提供住所；不给某人提供庇护 (反：offer shelter to sb)",
+      "sb in need 有需要的某人；处于困境中的某人"
+    ]
+  },
+  {
+    "id": "e02p0707",
+    "speaker": "Huber",
+    "content": "Oh, look. Here's something we can salvage. Your measuring cup. We can just scrape off the burnt part and it'll look good as new.",
+    "readable": true,
+    "mark": [
+      "salvage n. 抢救，救援；  v. 打捞，抢救；挽救",
+      "scrape off 刮掉  scrape v.（用小刀等）刮除；（使）刮擦；擦伤，刮坏",
+      "look good as new 看上去完好如新"
+    ]
+  },
+  {
+    "id": "e02p0708",
+    "speaker": "Eddie",
+    "content": "That's not my cup. Mine was plastic.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0709",
+    "speaker": "Huber",
+    "content": "Well, how did it get in here?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0710",
+    "speaker": "Eddie",
+    "content": "I don't know. Who cares? Now, could you put that down and start looking for jewelry?",
+    "readable": true,
+    "mark": null
+  }
+]

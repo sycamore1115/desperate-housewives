@@ -1,0 +1,135 @@
+[
+  {
+    "id": "e01p2101",
+    "speaker": "Susan",
+    "content": "Mrs. Huber, how are you doing?",
+    "readable": true,
+    "mark": ["how are you doing? 肯定回答:I'm doing well"]
+  },
+  {
+    "id": "e01p2102",
+    "speaker": "Huber",
+    "content": "Not too well, I'm afraid. I'm trying to find something to soothe my stomach.",
+    "readable": true,
+    "mark": [
+      "soothe v. 使平静，安抚；减轻，缓和（疼痛）",
+      "stomach n. 胃；腹部；"
+    ]
+  },
+  {
+    "id": "e01p2103",
+    "speaker": "Susan",
+    "content": "It's upset?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2104",
+    "speaker": "Huber",
+    "content": "Yeah. I had the worst macaroni and cheese at the wake. It's been running through me ever since.",
+    "readable": true,
+    "mark": [
+      "It's been running through me ever since. (has) run through 穿过，贯穿",
+      "ever since 强调一直、没完没了用 ever since，只陈述从那时候起用 since then。"
+    ]
+  },
+  {
+    "id": "e01p2105",
+    "speaker": "Huber",
+    "content": "And I need to be at my best. Eddie Britt's son is spending the night tonight.",
+    "readable": true,
+    "mark": [
+      "I need to be at my best 需要处于自己的最佳状态，无论是在身体上、精神上",
+      "I need to be my best 个人的成长和发展，意味着你需要不断努力成为最好的自己。"
+    ]
+  },
+  {
+    "id": "e01p2106",
+    "speaker": "Susan",
+    "content": "He's spending the night?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2107",
+    "speaker": "Huber",
+    "content": "Apparently Eddie is having a gentleman friend over for dinner. and I think she plans on entertaining into the wee hours. if you know what I mean.",
+    "readable": true,
+    "mark": [
+      "apparently adv. 据说，显然；似乎，好像",
+      "have sb over for dinner 邀请某人来家里吃晚饭",
+      "plan on doing sth 计划做某事；打算做某事",
+      "plan on entertaining 计划进行娱乐活动；打算招待（某人）",
+      "into the wee hours 深夜，凌晨 wee adj.极小的；微量的 小便，排尿"
+    ]
+  },
+  {
+    "id": "e01p2108",
+    "speaker": "Huber",
+    "content": "Oh, here's some antacid, have you ever tried this?",
+    "readable": true,
+    "mark": ["antacid n. 抗酸剂，解酸药"]
+  },
+  {
+    "id": "e01p2109",
+    "speaker": "Susan",
+    "content": "I can't believe it. This can't be happening. Mike can't like Eddie better than me. He just can't.",
+    "readable": true,
+    "mark": ["like A better than B. = prefer A to B. 比起 B 更喜欢 A"]
+  },
+  {
+    "id": "e01p2110",
+    "speaker": "Julie",
+    "content": "You don't know what's going on. Maybe they're just having dinner. You're right, they're doing it.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2111",
+    "speaker": "Susan",
+    "content": "Eddie? Hello? Anybody home? I need to borrow sugar.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2112",
+    "speaker": "Alice",
+    "content": "And just like that, the possibility Susan had clung to, the maybe of Mike Delfino, was gone forever.",
+    "readable": true,
+    "mark": [
+      "cling -> clung v.抓住，抱紧；粘住；坚持，坚信；坚守 cling to 坚持,依附",
+      "the possibility Susan had clung to, the maybe of Mike Delfino, was gone forever. 苏珊一直坚持的可能性，迈克·德尔菲诺的可能性，永远消失了。",
+      "was gone 这里gone不是过去分词，而是**形容词**。不及物动词是没有被动语态的。",
+      "**如果是被动语态：** 通常可以加上 \"by someone\"。**如果是系表结构（形容词）：** 加上 \"by someone\" 会很奇怪。"
+    ]
+  },
+  {
+    "id": "e01p2113",
+    "speaker": "Alice",
+    "content": "And despite the precariousness of her situation, Susan took a moment to mourn her loss.",
+    "readable": true,
+    "mark": [
+      "despite prep. 尽管，即使；Despite the rain, we went out. 尽管下雨，我们还是出去了。",
+      "precariousness n. 不安全；不稳定",
+      "the precariousness of her situation == her precarious situation",
+      "mourn v. 悼念，哀悼；对……感到痛心（遗憾）"
+    ]
+  },
+  {
+    "id": "e01p2114",
+    "speaker": "Alice",
+    "content": "It didn't take Susan long to realize, this was just not her night.",
+    "readable": true,
+    "mark": [
+      "It takes sb + 时间 + to do sth  做某事花费某人多长时间",
+      "this was just not her night. 今晚就是不属于她；她今晚诸事不顺"
+    ]
+  },
+  {
+    "id": "e01p2115",
+    "speaker": "Eddie",
+    "content": "Is somebody out there? Oh my god! That's smoke.",
+    "readable": true,
+    "mark": []
+  }
+]

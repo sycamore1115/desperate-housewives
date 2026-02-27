@@ -1,0 +1,192 @@
+[
+  {
+    "id": "e01p1701",
+    "speaker": "waiter",
+    "content": "All right, I'll go put in your orders, And I'll be right back with your drinks and your plates for the salad bar.",
+    "readable": true,
+    "mark": [
+      "alright: [俚]=all right 好的",
+      "I'll go put in your orders 我去给你点餐 go和put in构成一种自然的口语表达结构，go强调动作的趋向，去（做某事）的感觉。put in 提交；提出；放入",
+      "I'll be right back 我马上回来：表示暂时离开，很快就会回来。",
+      "plate n. 盘，碟；一盘（食物）；"
+    ]
+  },
+  {
+    "id": "e01p1702",
+    "speaker": "Bree",
+    "content": "Andrew, Danielle, napkins?",
+    "readable": true,
+    "mark": ["napkin 餐巾纸"]
+  },
+  {
+    "id": "e01p1703",
+    "speaker": "Andrew",
+    "content": "They have video games. Could we go play until our food gets here?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1704",
+    "speaker": "Bree",
+    "content": "Andrew, this is family time.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1705",
+    "speaker": "Rex",
+    "content": "Go ahead and play.",
+    "readable": true,
+    "mark": ["go ahead 前进，继续：继续进行；继续前进"]
+  },
+  {
+    "id": "e01p1706",
+    "speaker": "Bree",
+    "content": "I know that you think I'm angry about coming here, but I'm not.",
+    "readable": true,
+    "mark": [
+      "be angry about doing sth对做某事感到生气 == be mad at doing sth",
+      "a change of pace 改变步调：改变日常生活或工作，尝试新事物避免单调乏味",
+      "Saltimbocca 意式煎小牛肉火腿卷"
+    ]
+  },
+  {
+    "id": "e01p1707",
+    "speaker": "Bree",
+    "content": "You and the kids wanted a change of pace, something fun, I get it.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1708",
+    "speaker": "Bree",
+    "content": "Probably we'll want something healthier tomorrow night, though. I'm thinking about chicken saltimbocca.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1709",
+    "speaker": "Rex",
+    "content": "I want a divorce. I just can't live in this detergent commercial anymore.",
+    "readable": true,
+    "mark": [
+      "detergent 洗涤剂，去污剂",
+      "commercial 商业的，商务的；",
+      "detergent commercial 清洁剂广告，这是一种隐喻"
+    ]
+  },
+  {
+    "id": "e01p1710",
+    "speaker": "waiter",
+    "content": "The salad bar's right over there. Help yourself.",
+    "readable": true,
+    "mark": ["Help yourself 请自便"]
+  },
+  {
+    "id": "e01p1711",
+    "speaker": "Bree",
+    "content": "Um, I think I'll go get your salad for you.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1712",
+    "speaker": "Huber",
+    "content": "Bree Van De Kamp.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1713",
+    "speaker": "Bree",
+    "content": "Oh. Hello, Mrs. Huber.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1714",
+    "speaker": "Huber",
+    "content": "We didn't get a chance to talk at Mary Alice's wake. How are you doing?",
+    "readable": true,
+    "mark": ["get a chance to do sth 得到一个做某事的机会"]
+  },
+  {
+    "id": "e01p1715",
+    "speaker": "Alice",
+    "content": "Bree longed to share the truth about her husband's painful betrayal, but sadly for Bree, admitting defeat was not an option.",
+    "readable": true,
+    "mark": [
+      "long to 渴望",
+      "betrayal n.背叛，出卖",
+      "admit （勉强）承认；招认，招供；准许进入（某处）；接纳，接收",
+      "defeat v./n.失败，战败；战胜，击败"
+    ]
+  },
+  {
+    "id": "e01p1716",
+    "speaker": "Bree",
+    "content": "Great. Everything is just great.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1717",
+    "speaker": "Bree",
+    "content": "Ok, well, I got you the honey mustard dressing. The ranch looked just a little bit suspect.",
+    "readable": true,
+    "mark": [
+      "honey mustard dressing 蜂蜜芥末酱 mustard n.芥末酱；芥末黄，深黄色 dressing n.（拌制色拉用的）调料；馅，填料 Tomato dressing番茄调味酱",
+      "ranch 大农场，大牧场 ranch dressing 牧场沙拉酱",
+      "a little bit 稍微；一点点；少量 < a little",
+      "suspect adj.不可靠的，不可信的 v.猜想，认为 n. 嫌疑犯，可疑分子",
+      "The ranch looked just a little bit suspect. 这个田园酱看起来有点不新鲜了"
+    ]
+  },
+  {
+    "id": "e01p1718",
+    "speaker": "Rex",
+    "content": "Are we going to talk about what I said?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1719",
+    "speaker": "Bree",
+    "content": "If you think I'm going to discuss the dissolution of my marriage in a place where the restrooms are labeled \"chicks\" and \"dudes\", you're out of your mind.",
+    "readable": true,
+    "mark": [
+      "dissolution 分解，溶解；（议会等的）解散；",
+      "in a place where ... 定语从句，对a place 进行限定和描述，说明是怎样的地方",
+      "chicks 雏鸟，小鸡；少女，小妞儿 dudes 家伙，小子",
+      "you're out of your mind 你疯了"
+    ]
+  },
+  {
+    "id": "e01p1720",
+    "speaker": "Rex",
+    "content": "What's in this?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1721",
+    "speaker": "Bree",
+    "content": "What do you mean, What's in this? It's salad.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1722",
+    "speaker": "Rex",
+    "content": "With onion. You put onion in my salad.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1723",
+    "speaker": "Bree",
+    "content": "No, I didn't. Oh wait…",
+    "readable": false,
+    "mark": []
+  }
+]

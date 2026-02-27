@@ -1,0 +1,117 @@
+[
+  {
+    "id": "e01p1901",
+    "speaker": "Rex",
+    "content": "I can't believe you tried to kill me.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1902",
+    "speaker": "Bree",
+    "content": "Yes, well, I feel bad about that. I told you, Mrs. Huber came over and I got distracted. It was a mistake.",
+    "readable": true,
+    "mark": [
+      "I feel bad about that. 我对此感到很难过",
+      "distract v. 使分心，使转移注意力 distracted adj. 注意力分散的，心烦意乱的"
+    ]
+  },
+  {
+    "id": "e01p1903",
+    "speaker": "Rex",
+    "content": "Since when do you make mistakes?",
+    "readable": true,
+    "mark": ["since when 从什么时候开始"]
+  },
+  {
+    "id": "e01p1904",
+    "speaker": "Bree",
+    "content": "What's that supposed to mean?",
+    "readable": true,
+    "mark": [
+      "what's that supposed to mean 你这话到底什么意思？那是什么意思 suppose v.推断，料想，猜想；假设，假定，设想；预期，需要 be supposed to应该"
+    ]
+  },
+  {
+    "id": "e01p1905",
+    "speaker": "Rex",
+    "content": "It means I'm sick of you being so damn perfect all the time.",
+    "readable": true,
+    "mark": [
+      "sick of 厌倦 sick of sb doing sth（对某人做某事感到厌烦） Sick of sth（对某事感到厌烦）",
+      "damn 该死，见鬼",
+      "all the time 一直，始终"
+    ]
+  },
+  {
+    "id": "e01p1906",
+    "speaker": "Rex",
+    "content": "I'm sick of the bizarre way your hair doesn't move.",
+    "readable": true,
+    "mark": ["bizarre adj.奇异的，古怪的"]
+  },
+  {
+    "id": "e01p1907",
+    "speaker": "Rex",
+    "content": "I'm sick of you making our bed in the morning before I've even used the bathroom.",
+    "readable": true,
+    "mark": [
+      "make bed 整理床铺",
+      "在做 B 这件事之前，A 这件事必须先发生（或者还没发生）时，通常使用现在完成时来强调 A 这件事的完成状态",
+      "use the bathroom. 上厕所"
+    ]
+  },
+  {
+    "id": "e01p1908",
+    "speaker": "Rex",
+    "content": "You're the plastic suburban housewife with her pearls and spatula, who says things like \"we owe the Henderson's a dinner.\"",
+    "readable": true,
+    "mark": [
+      "You're the plastic suburban housewife with her pearls and spatula, who says things like \"we owe the Henderson's a dinner.\" 你就像一个人造的乡村主妇，带着珍珠拿着抹刀，然后说着：“我们欠亨德森一家一顿饭。”",
+      "Henderson's 当我们提到一家人时，通常会在姓氏后面加上 's 来表示所有格。",
+      "plastic n.塑料；信用卡；adj.塑料制的；人造的，不自然的；可塑的",
+      "suburban adj.郊区的，城郊的；平淡乏味的，乡气的，平庸的",
+      "pearl n.珍珠",
+      "spatula n.（调和、涂抹用）抹刀，小铲",
+      "owe v.欠（钱），负账；应该做，应给予；欠（人情）；归因于，归功于"
+    ]
+  },
+  {
+    "id": "e01p1909",
+    "speaker": "Rex",
+    "content": "Where's the woman I fell in love with. Who used to burn the toast and drink milk out of the carton? and laugh?",
+    "readable": true,
+    "mark": [
+      "burn the toast 把吐司烤焦 toast n.烤面包片，吐司；干杯，祝酒，敬酒",
+      "carton n.硬纸盒，塑料盒，特指装牛奶、果汁那种比较薄的盒子 Drink milk out of the carton. cardboard n. 硬纸板，纸板箱"
+    ]
+  },
+  {
+    "id": "e01p1910",
+    "speaker": "Rex",
+    "content": "I need her, not this cold, perfect thing you've become.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1911",
+    "speaker": "Bree",
+    "content": "These need water.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1912",
+    "speaker": "Alice",
+    "content": "Bree sobbed quietly in the restroom for five minutes, but her husband never knew.",
+    "readable": true,
+    "mark": ["sob v. 啜泣，抽噎；哭诉"]
+  },
+  {
+    "id": "e01p1913",
+    "speaker": "Alice",
+    "content": "Because when Bree finally emerged, she was perfect.",
+    "readable": true,
+    "mark": []
+  }
+]

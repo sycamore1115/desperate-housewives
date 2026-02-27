@@ -1,0 +1,138 @@
+[
+  {
+    "id": "e01p0301",
+    "speaker": "Alice",
+    "content": "Gabrielle Solis who lives down the block brought a spicy paella.",
+    "readable": true,
+    "mark": [
+      "block 大块，一块；街区；大楼 down the block 在街区的尽头",
+      "paella （西班牙的）肉菜饭 spicy paella"
+    ]
+  },
+  {
+    "id": "e01p0302",
+    "speaker": "Alice",
+    "content": "Since her modeling days in New York, Gabrielle had developed a taste for rich food and rich men.",
+    "readable": true,
+    "mark": [
+      "develop a taste for 培养对……的喜好：逐渐形成对某种事物的兴趣或喜爱。"
+    ]
+  },
+  {
+    "id": "e01p0303",
+    "speaker": "Alice",
+    "content": "Carlos, who worked in mergers and acquisitions, proposed on their third date.",
+    "readable": true,
+    "mark": [
+      "work in mergers and acquisitions 从事兼并与收购业务 merger （公司、组织的）合并acquisition 学得；获取；购买，添置；收购，购置的产业",
+      "propose 求婚； 提议，建议"
+    ]
+  },
+  {
+    "id": "e01p0304",
+    "speaker": "Alice",
+    "content": "Gabrielle was touched when tears welled up in his eyes.",
+    "readable": true,
+    "mark": ["be touched 被感动", "well up 涌出"]
+  },
+  {
+    "id": "e01p0305",
+    "speaker": "Alice",
+    "content": "But she soon discovered this happened every time Carlos closed a big deal.",
+    "readable": true,
+    "mark": ["close a deal 达成交易"]
+  },
+  {
+    "id": "e01p0306",
+    "speaker": "Alice",
+    "content": "Gabrielle liked her paella piping hot.",
+    "readable": true,
+    "mark": ["piping hot 滚烫的 piping 管道系统；尖声；笛声"]
+  },
+  {
+    "id": "e01p0307",
+    "speaker": "Alice",
+    "content": "However, her relationship with her husband was considerably cooler.",
+    "readable": true,
+    "mark": ["considerably 非常，相当多地"]
+  },
+  {
+    "id": "e01p0308",
+    "speaker": "Carlos",
+    "content": "If you talk to Al Mason at this thing, I want you to casually mention how much I paid for your necklace.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0309",
+    "speaker": "Gabrielle",
+    "content": "Why don't I just pin the receipt to my chest?",
+    "readable": true,
+    "mark": [
+      "pin 钉住，别住; 别针，大头针",
+      "receipt 发票，收据; 收到，接收",
+      "chest 胸部，胸膛  pin the receipt to my chest"
+    ]
+  },
+  {
+    "id": "e01p0310",
+    "speaker": "Carlos",
+    "content": "He let me know how much he paid for his wife's new convertible.",
+    "readable": true,
+    "mark": ["convertible 活动顶篷式汽车；可换证券；可转换的，可兑换的"]
+  },
+  {
+    "id": "e01p0311",
+    "speaker": "Carlos",
+    "content": "Look, just work it into the conversation.",
+    "readable": true,
+    "mark": [
+      "work it into the conversation. 把它融入谈话中。",
+      "work into 添加，包含; 混合，搅拌; 逐渐使处于"
+    ]
+  },
+  {
+    "id": "e01p0312",
+    "speaker": "Gabrielle",
+    "content": "There's no way I can just work that in, Carlos.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0313",
+    "speaker": "Carlos",
+    "content": "Why not? At the Donahue party, everyone was talking mutual funds. And you found a way to mention you slept with half the Yankee outfield.",
+    "readable": true,
+    "mark": [
+      "mutual funds 共同基金",
+      "Yankee 美国佬，美国人；洋基队（美国棒球队名）",
+      "outfield 外场；边境；偏远的田园"
+    ]
+  },
+  {
+    "id": "e01p0314",
+    "speaker": "Gabrielle",
+    "content": "I'm telling you, it came up in the context of the conversation.",
+    "readable": true,
+    "mark": [
+      "I'm telling you 我告诉你：表示强调，用于向对方强调某个观点或事实。",
+      "come up 提出，想出; 接近，靠近;升职，晋升;发生，出现;失败，没有结果",
+      "in the context of 在…背景下；在…情境中",
+      "in the context of the conversation 在对话的上下文中"
+    ]
+  },
+  {
+    "id": "e01p0315",
+    "speaker": "Carlos",
+    "content": "Hey, people are starting to stare. Can you keep your voice down, please?",
+    "readable": true,
+    "mark": ["stare 凝视，盯着看"]
+  },
+  {
+    "id": "e01p0316",
+    "speaker": "Gabrielle",
+    "content": "Absolutely, We wouldn't want them to think we're not happy.",
+    "readable": true,
+    "mark": []
+  }
+]

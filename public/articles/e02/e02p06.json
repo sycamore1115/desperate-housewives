@@ -1,0 +1,121 @@
+[
+  {
+    "id": "e02p0601",
+    "speaker": "Susan",
+    "content": "I didn't realize anybody was going to be out here. I just sort of rolled out of bed.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0602",
+    "speaker": "Mike",
+    "content": "I'm sure you look fine. Oh, Bongo, stop. Sorry, he scares easy.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0603",
+    "speaker": "Susan",
+    "content": "No, it's fine. I get it.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0604",
+    "speaker": "Mike",
+    "content": "I didn't mean to disturb you. I'll see you later.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0605",
+    "speaker": "Susan",
+    "content": "Do you want to have dinner with me?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0606",
+    "speaker": "Mike",
+    "content": "Just the two of us?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0607",
+    "speaker": "Susan",
+    "content": "Well, and Julie. It's a thing we do when somebody new moves into the neighborhood, we invite them over for a home-cooked meal. Sort of a tradition.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0608",
+    "speaker": "Mike",
+    "content": "I thought you said you were a lousy cook.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0609",
+    "speaker": "Susan",
+    "content": "Well, I order takeout.",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p0610",
+    "speaker": "Mike",
+    "content": "You invite them over for home cooking and give them takeout?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0611",
+    "speaker": "Susan",
+    "content": "Yeah, it's sort of a new tradition. I'm working out the kinks.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0612",
+    "speaker": "Mike",
+    "content": "I'll tell you what. How about I cook? And you guys come over to my place. Friday night at six?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0613",
+    "speaker": "Susan",
+    "content": "Oh, great. I'll be there. By, Bongo.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0614",
+    "speaker": "Mike",
+    "content": "Julie!  Mike Delfino just invited us to dinner Friday night.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0615",
+    "speaker": "Susan",
+    "content": "He did? Cool.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0616",
+    "speaker": "Mike",
+    "content": "But only I'm going because you're gonna come down with something semi-serious that requires bed rest and fluids.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0617",
+    "speaker": "Alice",
+    "content": "Julie was glad Susan was rekindling her love life. Of course, she was unaware of her mother's recent track record with fire.",
+    "readable": true,
+    "mark": null
+  }
+]

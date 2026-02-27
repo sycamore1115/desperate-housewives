@@ -1,0 +1,158 @@
+[
+  {
+    "id": "e01p2401",
+    "speaker": "Susan",
+    "content": "I brought some champagne. I thought we should have a toast.",
+    "readable": true,
+    "mark": ["champagne n. 香槟酒；香槟色", "have a toast 举杯祝酒"]
+  },
+  {
+    "id": "e01p2402",
+    "speaker": "Alice",
+    "content": "The next day my friends came together to pack away my clothes, my personal belongings and what was left of my life.",
+    "readable": true,
+    "mark": [
+      "pack away 收起; 存放  pack v. （把……）打包，收拾（行李）；包装，装箱；",
+      "personal belongings 个人物品"
+    ]
+  },
+  {
+    "id": "e01p2403",
+    "speaker": "Susan",
+    "content": "All right, ladies, lift'em up. To Mary Alice, a good friend and neighbor. Wherever you are, we hope you've found peace.",
+    "readable": true,
+    "mark": ["lift them up 抬起他们(举杯) lift v.提起，举起；n.电梯，升降机"]
+  },
+  {
+    "id": "e01p2404",
+    "speaker": "Lynette/Gabrielle/Bree",
+    "content": "To Mary Alice.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p2405",
+    "speaker": "Lynette",
+    "content": "Let's get the show on the road.",
+    "readable": true,
+    "mark": ["get the show on the road 开始行动，开始进行"]
+  },
+  {
+    "id": "e01p2406",
+    "speaker": "Gabrielle",
+    "content": "You guys, check out Mary Alice's clothes. Size 8? Ha! She always told me she was a size 6. Guess we found the skeleton in her closet.",
+    "readable": true,
+    "mark": [
+      "check out 检查; 借出; 结账; 退房",
+      "the skeleton in her closet 在英语中如果说某人的壁橱里有个骷髅skeleton, 意思就是这个人有难言之隐，有不可告人的家丑或秘密",
+      "Everyone has a skeleton in the closet. 每个人都有不可告人的秘密。",
+      "skeleton n. 骨骼，骨架；梗概，提纲；"
+    ]
+  },
+  {
+    "id": "e01p2407",
+    "speaker": "Alice",
+    "content": "Not quite, Gabrielle, not quite.",
+    "readable": true,
+    "mark": [
+      "not quite 不完全但稍微：不是完全准确或符合预期，但在某种程度上接近。"
+    ]
+  },
+  {
+    "id": "e01p2408",
+    "speaker": "Gabrielle",
+    "content": "What's that.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p2409",
+    "speaker": "Bree",
+    "content": "It's a letter addressed to Mary Alice.",
+    "readable": true,
+    "mark": [
+      "a letter addressed to 一封写给某人的信 == a letter with sb's name on it"
+    ]
+  },
+  {
+    "id": "e01p2410",
+    "speaker": "Alice",
+    "content": "How ironic. To have something I tried so desperately to keep secret treated so casually.",
+    "readable": true,
+    "mark": [
+      "ironic adj. 反语的，讽刺的；How ironic. 真够讽刺的",
+      "To have something (I tried so desperately to keep secret), treated so casually. 我拼命想要保守的秘密，却被如此随意地对待",
+      "It is + [形容词 / 名词] + to have something + done. 通常用来表达一种感受。",
+      "desperately adv. 绝望地，拼命地，不顾一切地；非常，极其",
+      "casually adv. 随意地，漫不经心地；临时地；偶然地"
+    ]
+  },
+  {
+    "id": "e01p2411",
+    "speaker": "Lynette",
+    "content": "What are you doing? That's private.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2412",
+    "speaker": "Gabrielle",
+    "content": "It's open. What's the big deal?",
+    "readable": true,
+    "mark": ["What's the big deal? 有什么大不了的？"]
+  },
+  {
+    "id": "e01p2413",
+    "speaker": "Letter",
+    "content": "I know what you did. It make me sick. I'm going to tell.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p2414",
+    "speaker": "Susan",
+    "content": "What does this mean?",
+    "readable": true,
+    "mark": [
+      "What does this mean? 这是什么意思？更侧重于单纯地询问意思，较为客观。",
+      "What’s that supposed to mean?更多包含说话者的主观情绪，对含义有所质疑。"
+    ]
+  },
+  {
+    "id": "e01p2415",
+    "speaker": "Lynette",
+    "content": "I don't know. But check out the postmark.",
+    "readable": true,
+    "mark": ["postmark n. 邮戳"]
+  },
+  {
+    "id": "e01p2416",
+    "speaker": "Bree",
+    "content": "Oh, my god. She got it the day she died.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2417",
+    "speaker": "Gabrielle",
+    "content": "Do you think this is why she ... ?",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p2418",
+    "speaker": "Alice",
+    "content": "I'm so sorry, girls. I never wanted you to be burdened with this.",
+    "readable": true,
+    "mark": [
+      "burden n. 负担，责任；负重，负荷；be burdened with 背负着；承担着"
+    ]
+  },
+  {
+    "id": "e01p2419",
+    "speaker": "Susan",
+    "content": "Oh, Mary Alice, what did you do?",
+    "readable": true,
+    "mark": []
+  }
+]

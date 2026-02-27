@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
+const episodes = [
+  {
+    id: 1,
+    title: "第一集",
+  },
+  {
+    id: 2,
+    title: "第二集",
+  },
+];
+// TODO 单页面应用是怎么做跳转的？
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <header>绝望主妇第一季台词本</header>
+      <div>
+        {episodes.map((episode) => (
+          <p key={episode.id}>{episode.title}</p>
+        ))}
+      </div>
     </div>
   );
 }

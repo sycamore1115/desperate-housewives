@@ -1,0 +1,160 @@
+[
+  {
+    "id": "e01p0101",
+    "speaker": "Alice",
+    "content": "My name is Mary Alice Young.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0102",
+    "speaker": "Alice",
+    "content": "When you read this morning's paper, you may come across an article about the unusual day I had last week.",
+    "readable": true,
+    "mark": ["come across 偶然遇见 come across an article"]
+  },
+  {
+    "id": "e01p0103",
+    "speaker": "Alice",
+    "content": "Normally, there's never anything newsworthy about my life, but that all changed last Thursday.",
+    "readable": true,
+    "mark": [
+      "newsworthy 有新闻价值的 there's never anything newsworthy about my life."
+    ]
+  },
+  {
+    "id": "e01p0104",
+    "speaker": "Alice",
+    "content": "Of course, everything seemed quite normal at first.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0105",
+    "speaker": "Alice",
+    "content": "I made breakfast for my family,",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0106",
+    "speaker": "Alice",
+    "content": "I performed my chores.",
+    "readable": true,
+    "mark": [
+      "chore n.家庭杂务，杂活；累活，苦差事 I performed my chores. 我做了我的家务"
+    ]
+  },
+  {
+    "id": "e01p0107",
+    "speaker": "Alice",
+    "content": "I completed my projects.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0108",
+    "speaker": "Alice",
+    "content": "I ran my errands.",
+    "readable": true,
+    "mark": [
+      "ran errands 跑腿，办事  I ran my errands. “我办了点事。” 或者 “我处理了一些琐事。”"
+    ]
+  },
+  {
+    "id": "e01p0109",
+    "speaker": "Alice",
+    "content": "In truth, I spent the day as I spent every other day, quietly polishing the routine of my life until it gleamed with perfection.",
+    "readable": true,
+    "mark": [
+      "In truth 真实地，说实话，事实上",
+      "polish 擦亮；改进",
+      "routine 常规，惯例",
+      "gleam 发微光，闪烁；显得光洁明亮 until it gleamed with perfection. 直至完美"
+    ]
+  },
+  {
+    "id": "e01p0110",
+    "speaker": "Alice",
+    "content": "That's why it was so astonishing when I decided to go to my hallway closet and retrieve a revolver that had never been used.",
+    "readable": true,
+    "mark": [
+      "astonish 使吃惊，使惊讶 That's why it was so astonishing...",
+      "hallway closet走廊壁橱 hallway 门厅，走廊；过道 closet 壁橱，储藏室",
+      "retrieve 找回，收回",
+      "revolver 左轮手枪；旋转器"
+    ]
+  },
+  {
+    "id": "e01p0111",
+    "speaker": "Alice",
+    "content": "My body was discovered by my neighbor, Mrs. Martha Huber, who'd been startled by a strange popping sound.",
+    "readable": true,
+    "mark": ["startle 使吓一跳，使惊奇She startled by a strange popping sound."]
+  },
+  {
+    "id": "e01p0112",
+    "speaker": "Alice",
+    "content": "Her curiosity aroused, Mrs. Huber tried to think of a reason for dropping in on me unannounced.",
+    "readable": true,
+    "mark": [
+      "curiosity 好奇心，求知欲",
+      "arouse 引起，激起；叫醒 Her curiosity aroused.",
+      "think of a reason 想出一个理由",
+      "drop in on sb unannounced. 不请自来 drop in on sb 突然拜访某人 unannounced  突然的；未经宣布的；未通知的"
+    ]
+  },
+  {
+    "id": "e01p0113",
+    "speaker": "Alice",
+    "content": "After some initial hesitation, she decided to return the blender she had borrowed from me six months before.",
+    "readable": true,
+    "mark": [
+      "initial adj. 开始的，最初的；",
+      "hesitation 犹豫，不情愿",
+      "blender 搅拌机"
+    ]
+  },
+  {
+    "id": "e01p0114",
+    "speaker": "Huber",
+    "content": "It's my neighbor. I think she's been shot. There's blood everywhere. ",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0115",
+    "speaker": "Huber",
+    "content": "Yes, you've got to send an ambulance. you've got to send one right now.",
+    "readable": true,
+    "mark": ["have got to 不得不，必须", "ambulance 救护车"]
+  },
+  {
+    "id": "e01p0116",
+    "speaker": "Alice",
+    "content": "And for a moment, Mrs. Huber stood motionless in her kitchen, grief-stricken by this senseless tragedy. ",
+    "readable": true,
+    "mark": [
+      "motionless 静止的；不运动的 stood motionless 站立不动",
+      "grief-stricken 极度悲伤的 grief 悲伤，悲痛 stricken 受灾的，患病的",
+      "senseless 愚蠢的；无知觉的；无意识的",
+      "tragedy n. 悲惨事件，惨剧；悲剧（作品）；不幸，遗憾；"
+    ]
+  },
+  {
+    "id": "e01p0117",
+    "speaker": "Alice",
+    "content": "But, only for a moment.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0118",
+    "speaker": "Huber",
+    "content": "If there was one thing Mrs. Huber was known for, It was her ability to look on the bright side.",
+    "readable": true,
+    "mark": [
+      "bright 明亮的；鲜艳的；聪明的；欢快的，有活力的；光明的，有希望的；"
+    ]
+  }
+]

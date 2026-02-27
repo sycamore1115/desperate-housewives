@@ -1,0 +1,108 @@
+[
+  {
+    "id": "e01p1501",
+    "speaker": "John",
+    "content": "You know what I don't get?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1502",
+    "speaker": "Gabrielle",
+    "content": "What?",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1503",
+    "speaker": "John",
+    "content": "Why you married Mr. Solis.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1504",
+    "speaker": "Gabrielle",
+    "content": "Well, he promised to give me everything I've ever wanted.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1505",
+    "speaker": "John",
+    "content": "And did he?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1506",
+    "speaker": "Gabrielle",
+    "content": "Yes.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1507",
+    "speaker": "John",
+    "content": "Then why aren't you happy?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1508",
+    "speaker": "Gabrielle",
+    "content": "Turns out I wanted all the wrong things.",
+    "readable": true,
+    "mark": ["Turns out 结果是，原来是这样"]
+  },
+  {
+    "id": "e01p1509",
+    "speaker": "John",
+    "content": "So do you love him?",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1510",
+    "speaker": "Gabrielle",
+    "content": "I do.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1511",
+    "speaker": "John",
+    "content": "Well, then, why are we here? Why are we doing this?",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1512",
+    "speaker": "Gabrielle",
+    "content": "Because I don't wanna wake up one morning with a sudden urge to blow my brains out.",
+    "readable": true,
+    "mark": [
+      "one morning 某一天早晨；有一天早上",
+      "urge 强烈的欲望，冲动；推动力；敦促，催促，力劝",
+      "blow 猛击，打击",
+      "blow my brains out 打爆我的头"
+    ]
+  },
+  {
+    "id": "e01p1513",
+    "speaker": "John",
+    "content": "Hey, can I have a drag?",
+    "readable": true,
+    "mark": [
+      "have a drag 比较口语化的短语，抽一口（烟）",
+      "drag v. 拖，拽；生拉硬拽，强迫；费劲地移动；拖沓；用鼠标拖动"
+    ]
+  },
+  {
+    "id": "e01p1514",
+    "speaker": "Gabrielle",
+    "content": "Absolutely not. You are much too young to smoke.",
+    "readable": true,
+    "mark": ["Absolutely not 绝对不；当然不；绝不"]
+  }
+]

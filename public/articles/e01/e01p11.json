@@ -1,0 +1,182 @@
+[
+  {
+    "id": "e01p1101",
+    "speaker": "Susan",
+    "content": "Hi, Mike. I brought you a litter house-warming gift. I probably should've brought something by earlier, but...",
+    "readable": true,
+    "mark": ["bring sb sth 给某人带来某物，双宾结构", "by earlier 早些时候的"]
+  },
+  {
+    "id": "e01p1102",
+    "speaker": "Mike",
+    "content": "Actually, you're the first neighborhood to stop by.",
+    "readable": true,
+    "mark": [
+      "you're the first one to do sth 你是第一个做某事的人",
+      "stop by 顺便拜访"
+    ]
+  },
+  {
+    "id": "e01p1103",
+    "speaker": "Susan",
+    "content": "Really?",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1104",
+    "speaker": "Alice",
+    "content": "Susan knew she was lucky. An eligible bachelor had moved onto Wisteria Lane. and she was the first to find out.",
+    "readable": true,
+    "mark": [
+      "eligible 符合条件的，合格的；（婚姻）合适的，合意的",
+      "bachelor 未婚男子，单身汉；学士",
+      "find out 发现，查明"
+    ]
+  },
+  {
+    "id": "e01p1105",
+    "speaker": "Alice",
+    "content": "But she also knew that good news travels quickly.",
+    "readable": true,
+    "mark": ["Good news travels quickly 好事传千里"]
+  },
+  {
+    "id": "e01p1106",
+    "speaker": "Eddie",
+    "content": "Hello, there.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1107",
+    "speaker": "Alice",
+    "content": "Eddie Britt was the most predatory divorcee in a five-block radius",
+    "readable": true,
+    "mark": [
+      "predatory adj. 捕食性的，食肉的；掠夺性的，弱肉强食的",
+      "divorcee 离了婚的人",
+      "radius 半径；半径范围，周围",
+      "in a + 数量词 + radius（of...）在…… 半径范围内；描述某个区域范围"
+    ]
+  },
+  {
+    "id": "e01p1108",
+    "speaker": "Alice",
+    "content": "Her conquests were numerous, varied and legendary.",
+    "readable": true,
+    "mark": [
+      "conquest 掠夺物 征服，占领；占领地，征服的土地；克服，攻克；爱情的俘虏",
+      "numerous 众多的，许多的",
+      "varied 各种各样的，形形色色的；多变的；杂色的",
+      "legendary 非常有名的，大名鼎鼎的；传说（中）的"
+    ]
+  },
+  {
+    "id": "e01p1109",
+    "speaker": "Eddie",
+    "content": "I hope I'm not interrupting. You must be Mike Delfino. Hi, I'm Eddie Britt. I live over there. Welcome to Wisteria Lane.",
+    "readable": true,
+    "mark": ["over there 方位副词短语，在那边；在那里"]
+  },
+  {
+    "id": "e01p1110",
+    "speaker": "Alice",
+    "content": "Susan had met the enemy. And she was a slut.",
+    "readable": true,
+    "mark": [
+      "enemy 敌人，反对者；敌国，敌军；大敌，危害物",
+      "slut 荡妇；懒妇；母狗"
+    ]
+  },
+  {
+    "id": "e01p1111",
+    "speaker": "Mike",
+    "content": "Thank you. What's this?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1112",
+    "speaker": "Eddie",
+    "content": "Sausage puttanesca. It's just something I threw together.",
+    "readable": true,
+    "mark": [
+      "Sausage 香肠腊肠 puttanesca 普塔内斯卡（酱），是一种源自意大利那不勒斯的经典意面酱Sausage puttanesca 茄汁香肠",
+      "throw together 快速组装，没有精度"
+    ]
+  },
+  {
+    "id": "e01p1113",
+    "speaker": "Mike",
+    "content": "Thanks, Eddie. That's great. I'd invite you both in, but I was sort of in the middle of something.",
+    "readable": true,
+    "mark": [
+      "invite sb in 邀请某人进来",
+      "sort of 有点儿 sorta: [美俚](=sort of)",
+      "in the middle of something 中途忙于做某事"
+    ]
+  },
+  {
+    "id": "e01p1114",
+    "speaker": "Susan",
+    "content": "I'm late for an appointment anyway.",
+    "readable": true,
+    "mark": [
+      "be late for 做某事迟到；赶不上……",
+      "appointment 约会，约定；任命，委派；职务，职位；家具，陈设",
+      "anyway 不管怎样，无论如何；而且，加之；尽管，即使这样；对了，好吧"
+    ]
+  },
+  {
+    "id": "e01p1115",
+    "speaker": "Eddie",
+    "content": "No problem, I just wanted to say hi.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1116",
+    "speaker": "Alice",
+    "content": "And just like that, the race for Mike Delfino had begun.",
+    "readable": true,
+    "mark": [
+      "race n. 赛跑，速度竞赛；竞争，角逐；v. （和……）比赛，参加比赛；",
+      "the race for 为…… 而进行的竞争"
+    ]
+  },
+  {
+    "id": "e01p1117",
+    "speaker": "Alice",
+    "content": "For a moment, Susan wondered if her rivalry with Eddie would remain friendly.",
+    "readable": true,
+    "mark": [
+      "rivalry 竞争，较量",
+      "would更倾向于对未来情况的猜测，could 侧重于对当下可能性的疑惑"
+    ]
+  },
+  {
+    "id": "e01p1118",
+    "speaker": "Alice",
+    "content": "But she was reminded that when it came to men - women don't fight fair.",
+    "readable": true,
+    "mark": [
+      "when it came to sb/sth 当涉及到……；当谈到……；一提到……，通常用于引出某个特定的话题",
+      "fight fair 公平竞争"
+    ]
+  },
+  {
+    "id": "e01p1119",
+    "speaker": "Eddie",
+    "content": "Oh, Mike. I heard you're a plumber. Do you think you could stop by later tonight and take a look at my pipes?",
+    "readable": true,
+    "mark": ["take a look at sth 仔细检查某物"]
+  },
+  {
+    "id": "e01p1120",
+    "speaker": "Mike",
+    "content": "Sure.",
+    "readable": false,
+    "mark": []
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "e01p2001",
+    "speaker": "Gabrielle",
+    "content": "I found my earrings. We can go now.",
+    "readable": true,
+    "mark": ["earring n. 耳环，耳饰"]
+  },
+  {
+    "id": "e01p2002",
+    "speaker": "Carlos",
+    "content": "Was John here today?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2003",
+    "speaker": "Gabrielle",
+    "content": "Well, yeah.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p2004",
+    "speaker": "Carlos",
+    "content": "The lawn hasn't been mowed. I've had it. We're getting a real gardener.",
+    "readable": true,
+    "mark": [
+      "lawn n. 草坪，草地",
+      "mow v. 刈，割（草）",
+      "I've had it 我受够了"
+    ]
+  },
+  {
+    "id": "e01p2005",
+    "speaker": "Gabrielle",
+    "content": "Why?",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p2006",
+    "speaker": "Carlos",
+    "content": "Are you deaf? I just said he's not doing his job.",
+    "readable": true,
+    "mark": ["deaf adj.聋的；置若罔闻的"]
+  },
+  {
+    "id": "e01p2007",
+    "speaker": "Gabrielle",
+    "content": "It's dark. You just can't see that the lawn has been mowed.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2008",
+    "speaker": "Carlos",
+    "content": "It hasn't been. Feel this grass.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2009",
+    "speaker": "Gabrielle",
+    "content": "I'm not feeling the grass. Let's just get going. Come on, we're late.",
+    "readable": true,
+    "mark": [
+      "Let's just get going 咱们这就出发吧",
+      "Let’s just keep going. 我们继续走吧 / 继续做吧"
+    ]
+  },
+  {
+    "id": "e01p2010",
+    "speaker": "Carlos",
+    "content": "There's Tanaka. Time for me to go into my dance.",
+    "readable": true,
+    "mark": [
+      "Time for me to go into my dance. 该是我上场的时候了，我觉得可以说 Time for me to do my thing. 或者 It’s my turn. 更常用"
+    ]
+  },
+  {
+    "id": "e01p2011",
+    "speaker": "Gabrielle",
+    "content": "Good luck, sweetheart. Excuse me. You see that man just walked away? Can you make sure he has a drink in his hand all night long.",
+    "readable": true,
+    "mark": ["all night long 整夜地，通宵地"]
+  },
+  {
+    "id": "e01p2012",
+    "speaker": "valet",
+    "content": "Yes, Ma'am.",
+    "readable": true,
+    "mark": ["valet n. 贴身男仆；用车的人；伺候客人停车"]
+  }
+]

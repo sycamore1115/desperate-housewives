@@ -1,0 +1,106 @@
+[
+  {
+    "id": "e01p0901",
+    "speaker": "Lynette",
+    "content": "Ease up, you little vampire.",
+    "readable": true,
+    "mark": ["ease up 减轻, 轻点", "vampire 吸血鬼"]
+  },
+  {
+    "id": "e01p0902",
+    "speaker": "Mrs. Huber",
+    "content": "Lynette, I've been looking all over for you. Are you aware of what your sons are doing?",
+    "readable": true,
+    "mark": [
+      "all over 到处都是；遍布全身 look all over for you",
+      "Are you aware of 你是否意识到... Are you aware that"
+    ]
+  },
+  {
+    "id": "e01p0903",
+    "speaker": "Kid",
+    "content": "Cannonball!",
+    "readable": true,
+    "mark": ["cannonball 炮弹"]
+  },
+  {
+    "id": "e01p0904",
+    "speaker": "Lynette",
+    "content": "Stop! What are you doing? We are at a wake.",
+    "readable": true,
+    "mark": [
+      "wake v. 唤醒，醒来；唤起，激起；守夜，为……守灵 n.（葬礼前后的）守夜，守灵；"
+    ]
+  },
+  {
+    "id": "e01p0905",
+    "speaker": "Kid",
+    "content": "When we got here, You said we could go in the pool.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0906",
+    "speaker": "Lynette",
+    "content": "I said you could go by the pool. Do you have your swimsuits on?",
+    "readable": true,
+    "mark": [
+      "swimsuit 游泳衣",
+      "have clothes on 表示 “穿着衣服”，强调身上有衣物穿着的状态。"
+    ]
+  },
+  {
+    "id": "e01p0907",
+    "speaker": "Kid",
+    "content": "Yeah, we put them on under our clothes just before we left.",
+    "readable": true,
+    "mark": ["have clothes on 表示 “穿着衣服”，强调身上有衣物穿着的状态。"]
+  },
+  {
+    "id": "e01p0908",
+    "speaker": "Lynette",
+    "content": "You three planned this? All right. That's it. Get out. I am your mother. You have to do what I say. Come on.",
+    "readable": true,
+    "mark": ["That's it 就是这样"]
+  },
+  {
+    "id": "e01p0909",
+    "speaker": "Kid",
+    "content": "We wanna swim and you can't stop us!",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0910",
+    "speaker": "Lynette",
+    "content": "Think I won't get in this pool and just grab you? Get out! Get over here.",
+    "readable": true,
+    "mark": ["grab 攫取，抓住；", "get over here 到这里来"]
+  },
+  {
+    "id": "e01p0911",
+    "speaker": "Lynette",
+    "content": "Paul, we have to leave now. Once again, I am so sorry for your loss.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0912",
+    "speaker": "Alice",
+    "content": "Lynette shouldn't have been so concerned about my husband. ",
+    "readable": true,
+    "mark": ["be concerned about 关心；担忧；挂念"]
+  },
+  {
+    "id": "e01p0913",
+    "speaker": "Alice",
+    "content": "He had other things on his mind. Things below the surface.",
+    "readable": true,
+    "mark": [
+      "on his mind 某人心里惦记着、牵挂着、担心着的事情 exist in one's mind（存在于某人的脑海中）",
+      "in his mind 在某人的脑海里、在某人的思维之中 form in one's mind（在某人脑海中形成）",
+      "I had other things on my mind.",
+      "below the surface 在表面之下"
+    ]
+  }
+]

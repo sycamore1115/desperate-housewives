@@ -1,0 +1,147 @@
+[
+  {
+    "id": "e01p0401",
+    "speaker": "Alice",
+    "content": "Bree Van De Kamp who lives next door, brought baskets of muffins she baked from scratch.",
+    "readable": true,
+    "mark": [
+      "next door 隔壁",
+      "basket 篮子",
+      "muffin 小松糕；英国松饼",
+      "bake from scratch 从头开始烘焙：指食品完全从基础原料开始制作，而不是使用预先制作好的混合物或面团。bake 烤，烘，焙；炎热，灼热；炙烤，受晒",
+      "scratch v./n. 挠，轻抓；划痕，划伤；from scratch 从零开始"
+    ]
+  },
+  {
+    "id": "e01p0402",
+    "speaker": "Alice",
+    "content": "Bree was known for her cooking.",
+    "readable": true,
+    "mark": ["be known for 因……而众所周知"]
+  },
+  {
+    "id": "e01p0403",
+    "speaker": "Alice",
+    "content": "And for making her own clothes.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0404",
+    "speaker": "Alice",
+    "content": "And for doing her own gardening.",
+    "readable": true,
+    "mark": ["do gardening 做园艺"]
+  },
+  {
+    "id": "e01p0405",
+    "speaker": "Alice",
+    "content": "And for reupholstering her own furniture.",
+    "readable": true,
+    "mark": ["reupholstering furniture 翻新家具 reupholster 重装椅面"]
+  },
+  {
+    "id": "e01p0406",
+    "speaker": "Alice",
+    "content": "Yes, Bree's many talents were known throughout the neighborhood.",
+    "readable": true,
+    "mark": ["throughout prep./adv. 遍及，到处；自始至终，贯穿整个时期"]
+  },
+  {
+    "id": "e01p0407",
+    "speaker": "Alice",
+    "content": "And everyone on Wisteria Lane thought of Bree as the perfect wife and mother.",
+    "readable": true,
+    "mark": ["think of sb as 把某人看作是……；认为某人是……"]
+  },
+  {
+    "id": "e01p0408",
+    "speaker": "Alice",
+    "content": "Everyone, that is, except her own family.",
+    "readable": true,
+    "mark": ["that is 即；就是说；换言之"]
+  },
+  {
+    "id": "e01p0409",
+    "speaker": "Paul",
+    "content": "Bree, you shouldn't have gone to all this trouble.",
+    "readable": true,
+    "mark": [
+      "you shouldn’t have gone to all this trouble. 你本不该费这么大周折的",
+      "回答：It was no trouble at all. 这根本不麻烦",
+      "shouldn't have + 过去分词结构用于表示过去本不应该做某事，但实际上做了",
+      "go to trouble 做额外的工作：指做一些会给自己带来额外工作的事情。"
+    ]
+  },
+  {
+    "id": "e01p0410",
+    "speaker": "Bree",
+    "content": "It was no trouble at all.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0411",
+    "speaker": "Bree",
+    "content": "Now, the basket with the red ribbon is filled with desserts for your guests.",
+    "readable": true,
+    "mark": [
+      "ribbon 丝带，绸带",
+      "be filled with 充满，装满,被……填满 == be full of"
+    ]
+  },
+  {
+    "id": "e01p0412",
+    "speaker": "Bree",
+    "content": "But the one with the blue ribbon is just for you and Zachary.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0413",
+    "speaker": "Bree",
+    "content": "It's got rolls, muffins, breakfast type things.",
+    "readable": true,
+    "mark": [
+      "'s got = has got = has 拥有、具有",
+      "rolls 面包卷; 滚动（roll 的复数）；捆；",
+      "breakfast type things 早餐类的东西"
+    ]
+  },
+  {
+    "id": "e01p0414",
+    "speaker": "Bree",
+    "content": "Well, the least I could do is make sure you boys had a decent meal to look forward to in the morning.",
+    "readable": true,
+    "mark": [
+      "least 最低程度地；最少，至少 一点儿；最少的",
+      "the least I could do is... 我至少能做的是……；我最起码可以做的是……",
+      "The least I could do is (to) make sure (that) you boys had a decent meal.",
+      "1. make sure前省略了to，不定式短语作表语时，如果主语部分含有实义动词（这里是do），可省略 to。",
+      "2. 从句中用had，与前面的could在时态上保持一致，这种表达是站在过去的角度，讲述过去觉得自己至少能做的事是确保孩子们吃上像样的饭。也可改成 would have.",
+      "decent 像样的，尚好的；得体的，合宜的；",
+      "look forward to 期待：对未来某事的期待和兴奋。"
+    ]
+  },
+  {
+    "id": "e01p0415",
+    "speaker": "Bree",
+    "content": "I know you're out of your minds with grief.",
+    "readable": true,
+    "mark": ["out of your minds with grief. 因为悲伤而失去理智"]
+  },
+  {
+    "id": "e01p0416",
+    "speaker": "Paul",
+    "content": "Yes, we are.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0417",
+    "speaker": "Bree",
+    "content": "Of course, I will need the baskets back once you're done.",
+    "readable": true,
+    "mark": []
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "e01p1601",
+    "speaker": "Susan",
+    "content": "How would you feel about me using your child support payments for plastic surgery?",
+    "readable": true,
+    "mark": [
+      "How would you feel about sb doing sth 询问某人对其他人做某事的感受看法",
+      "use sth for sth 使用某物来做某事；把某物用于某事",
+      "child support payments 儿童抚养费",
+      "plastic surgery 整形外科",
+      "plastic 塑料制的；人造的，不自然的； 塑料",
+      "surgery 外科手术"
+    ]
+  },
+  {
+    "id": "e01p1602",
+    "speaker": "Julie",
+    "content": "Stop being so nervous. You're just asking him out to dinner. It's no big deal.",
+    "readable": true,
+    "mark": [
+      "Stop being so nervous 别那么紧张了，是一个常用的祈使句，用于劝慰、安抚他人 ==  Don't be so nervous  nervous 神经紧张的，担忧的",
+      "It's no big deal 没什么大不了的；没关系；小事一桩"
+    ]
+  },
+  {
+    "id": "e01p1603",
+    "speaker": "Susan",
+    "content": "You're right. So is that your project for school? You know, when I was in fifth grade, I made the White House out of sugar cubes.",
+    "readable": true,
+    "mark": [
+      "in fifth grade 五年级",
+      "make sth out of sth 用…… 制作……；从…… 中制造出……",
+      "sugar cube 糖块"
+    ]
+  },
+  {
+    "id": "e01p1604",
+    "speaker": "Julie",
+    "content": "Stop stalling and go. Before Mike figures out he can do better.",
+    "readable": true,
+    "mark": [
+      "Stop stalling and go 别磨蹭了，走吧",
+      "stall v. 熄火，抛锚；故意拖延；暂缓，搁置，停顿； n.货摊，贩卖处，咨询台；",
+      "figure out 弄清楚，弄明白"
+    ]
+  },
+  {
+    "id": "e01p1605",
+    "speaker": "Susan",
+    "content": "Tell me again why I fought for custody of you.",
+    "readable": true,
+    "mark": [
+      "fight for 为……而战，而奋斗",
+      "custody 监护，监护权；监禁，拘留；保管，保护"
+    ]
+  },
+  {
+    "id": "e01p1606",
+    "speaker": "Julie",
+    "content": "You were using me to hurt Dad.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1607",
+    "speaker": "Susan",
+    "content": "Oh, that's right.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1608",
+    "speaker": "Susan",
+    "content": "Are you busy?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1609",
+    "speaker": "Mike",
+    "content": "No, not at all. What's up?",
+    "readable": true,
+    "mark": ["What's up? <非正式>你好，出了什么事"]
+  },
+  {
+    "id": "e01p1610",
+    "speaker": "Susan",
+    "content": "Well, I just was wondering if there was any chance that you... I just wanted to ask if... Eddie. What are you...?",
+    "readable": true,
+    "mark": [
+      "I was wondering if there was any chance that 询问是否有机会做某事等"
+    ]
+  },
+  {
+    "id": "e01p1611",
+    "speaker": "Eddie",
+    "content": "I was making ambrosia, And I made too much so I thought I'd bring some over to Mike. What's going on?",
+    "readable": true,
+    "mark": [
+      "ambrosia 特别美味的食物；神的食物",
+      "I thought I'd... = I thought I would...我原打算 / 我当时会……",
+      "bring some over to sb 带些…给某人",
+      "What's going on? 发生了什么：用于询问当前的情况或事件。"
+    ]
+  },
+  {
+    "id": "e01p1612",
+    "speaker": "Mike",
+    "content": "Susan was just going to ask me something.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1613",
+    "speaker": "Susan",
+    "content": "I have a clog. And you're a plumber, right? The clog's in the pipe.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1614",
+    "speaker": "Mike",
+    "content": "Yeah. That's usually where they are.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1615",
+    "speaker": "Susan",
+    "content": "Well, I've got one.",
+    "readable": true,
+    "mark": ["I've got one 我有一个"]
+  },
+  {
+    "id": "e01p1616",
+    "speaker": "Mike",
+    "content": "OK, let me get my tools.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1617",
+    "speaker": "Susan",
+    "content": "Now? You want to come over now? You have company.",
+    "readable": true,
+    "mark": [
+      "come over 过来：指随意拜访或到访。",
+      "company 陪伴，同伴；宾客  公司",
+      "You have company 你有客人了 / 有人陪你了 / 家里来客人了"
+    ]
+  },
+  {
+    "id": "e01p1618",
+    "speaker": "Eddie",
+    "content": "I don't mind.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1619",
+    "speaker": "Mike",
+    "content": "Just give me two minutes. I'll be right over.",
+    "readable": true,
+    "mark": [
+      "I’ll be right there. （我马上就到那里。）—— *侧重于到达那个地点。*",
+      "I’ll be right over. （我马上就过去。）—— *侧重于**移动**的动作。*right over 立刻，马上",
+      "I’m on my way. （我在路上了。）"
+    ]
+  },
+  {
+    "id": "e01p1620",
+    "speaker": "Susan",
+    "content": "That's it. Just stuff the hair down there.",
+    "readable": true,
+    "mark": [
+      "That's it. 就是这样；正是如此 / 够了；行了 / 完成了；结束了",
+      "stuff v. 塞进，填进；填满，装满 n. 东西，物品"
+    ]
+  },
+  {
+    "id": "e01p1621",
+    "speaker": "Julie",
+    "content": "I stuffed it. It's not enough to clog it.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1622",
+    "speaker": "Susan",
+    "content": "Here, look, Put in this peanut butter and this cooking oil. And these olives.",
+    "readable": true,
+    "mark": [
+      "peanut butter 花生酱 peanut 花生，花生米 butter 黄油，牛油；水果酱"
+    ]
+  },
+  {
+    "id": "e01p1623",
+    "speaker": "Julie",
+    "content": "Mom, I'm telling you, it's not working.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1624",
+    "speaker": "Susan",
+    "content": "Oh, god. That's him. How am I going to stop up the sink?",
+    "readable": true,
+    "mark": [
+      "How am I going to do sth 我该怎么样去做...",
+      "stop up the sink 堵住水槽 sink n.水槽，水池 v.下沉，沉没；这里 up= completely，就像drink up (喝光) 或 \"eat up\" (吃光) 一样，\"stop up\" 意思是 \"stop completely\" (彻底堵死)。"
+    ]
+  },
+  {
+    "id": "e01p1625",
+    "speaker": "Mike",
+    "content": "Well, here's your problem. Looks like somebody stuffed a bunch of popsicle sticks down here.",
+    "readable": true,
+    "mark": [
+      "a bunch of 一束；一串",
+      "popsicle 棒冰",
+      "stick n. 枯枝，枝条；条状物，棍状物 v.粘，贴；刺，戳，插；"
+    ]
+  },
+  {
+    "id": "e01p1626",
+    "speaker": "Susan",
+    "content": "I've told Julie a million times not to play in the kitchen. Kids, you know.",
+    "readable": true,
+    "mark": ["a million times 一百万次"]
+  }
+]

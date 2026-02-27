@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>绝望主妇 | 口语精学</title>
+    <style>
+        /* 全局样式：复古温柔色调，适配所有设备 */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #f9f6f0;
+            /* 复古米白底色，不刺眼 */
+            color: #333;
+            line-height: 1.8;
+            padding: 20px 0;
+        }
+
+        /* 顶部标题栏 */
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 0 20px;
+        }
+
+        .header h1 {
+            color: #5d4037;
+            /* 复古棕，呼应剧里的暖调 */
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            letter-spacing: 1px;
+        }
+
+        .header p {
+            color: #795548;
+            font-size: 15px;
+            opacity: 0.8;
+        }
+
+        /* 主体容器：居中，控制宽度 */
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* 台词卡片：每句一个卡片，hover有质感 */
+        .line-card {
+            background-color: #fff;
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(93, 64, 55, 0.1);
+            transition: all 0.3s ease;
+            position: relative;
+            /* 用于角标定位 */
+        }
+
+        .line-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(93, 64, 55, 0.15);
+        }
+
+        /* 播放按钮：复古样式，不突兀 */
+        .play-btn {
+            background-color: #d7ccc8;
+            color: #5d4037;
+            border: none;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+        }
+
+        .play-btn:hover {
+            background-color: #5d4037;
+            color: #fff;
+        }
+
+        /* 双语对照样式：英文复古衬线，中文清晰 */
+        .en-line {
+            font-family: 'Times New Roman', Times, serif;
+            /* 英文衬线，贴合美剧质感 */
+            font-size: 18px;
+            color: #2d2d2d;
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+
+        .cn-line {
+            font-size: 16px;
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        /* 长句换行：自动换行，不拥挤 */
+        .en-line,
+        .cn-line,
+        .speaker,
+        .note-content {
+            white-space: pre-wrap;
+            word-break: break-word;
+        }
+
+        /* 底部小提示 */
+        .footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 20px;
+            color: #795548;
+            font-size: 14px;
+            opacity: 0.7;
+        }
+
+        /* 响应式：手机端适配 */
+        @media (max-width: 500px) {
+            .header h1 {
+                font-size: 24px;
+            }
+
+            .line-card {
+                padding: 20px 15px;
+            }
+
+            .en-line {
+                font-size: 16px;
+            }
+
+            .cn-line,
+            .speaker,
+            .note-content {
+                font-size: 13px;
+            }
+
+            .speaker {
+                padding: 2px 6px;
+                top: 10px;
+                right: 10px;
+            }
+        }
+
+        /* 说话人角标样式：右上角，简约不突兀 */
+        .speaker {
+            color: #5d4037;
+            font-size: 12px;
+            font-weight: 500;
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background-color: #f9f6f0;
+            padding: 3px 8px;
+            border-radius: 4px;
+            border: 1px solid #d7ccc8;
+            z-index: 1;
+            /* 确保在卡片上层，不被遮挡 */
+        }
+
+        /* 下拉图标及备注样式 */
+        .price-note {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 10px;
+        }
+
+        /* 好看的下拉图标（3种可选，当前用复古箭头） */
+        .price-icon {
+            color: #5d4037;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.2s ease;
+        }
+
+        .price-icon:hover {
+            color: #795548;
+            transform: translateY(1px);
+            /*  hover轻微下移，更有交互感 */
+        }
+
+        /* 备注显示时，图标旋转180度（优化体验） */
+        .price-icon.active {
+            transform: rotate(180deg);
+        }
+
+        .note-content {
+            display: none;
+            /* 默认隐藏备注 */
+            margin-top: 8px;
+            padding: 8px 12px;
+            background-color: #f9f6f0;
+            border-radius: 6px;
+            color: #666;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+
+        .note-content.show {
+            display: block;
+            /* 点击显示备注 */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Desperate Housewives</h1>
+        <p>口语精学 · 一句英文一句中文</p>
+    </div>
+
+    <div class="container" id="lineContainer">
+        <!-- 台词卡片示例1：可复制多份替换内容 -->
+        <div class="line-card" data-audio="./audio/DH_S01E01_01.mp3">
+            <div class="speaker">Bree Van de Kamp</div> <!-- 角标样式，去掉多余文字 -->
+            <button class="play-btn">▶</button>
+            <div class="en-line">It's a thing we do when somebody new moves into the neighborhood, we invite them over
+                for a home-cooked meal.</div>
+            <div class="cn-line">这是我们的惯例，每当有新邻居搬进来，我们都会请他们来家里吃顿家常菜。</div>
+            <div class="price-note">
+                <!-- 推荐复古下拉图标（1. 简约箭头，最贴合） -->
+                <span class="price-icon" onclick="toggleNote(this)">▼</span>
+                <!-- 可选图标2：圆润下拉 ▼ （替换上面的▼即可） -->
+                <!-- <span class="price-icon" onclick="toggleNote(this)">⌄</span> -->
+                <!-- 可选图标3：复古小三角 ▼ （替换上面的▼即可） -->
+                <!-- <span class="price-icon" onclick="toggleNote(this)">▾</span> -->
+                <div class="note-content">备注：Bree 作为紫藤街最注重礼仪的主妇，说这句话时语气温和有礼，体现她的处事风格，适合模仿日常礼貌邀请的语调。</div>
+            </div>
+        </div>
+
+        <!-- 台词卡片示例2 -->
+        <div class="line-card" data-audio="./audio/DH_S01E01_02.mp3">
+            <div class="speaker">Lynette Scavo</div>
+            <button class="play-btn">▶</button>
+            <div class="en-line">It's sort of a new tradition. I'm working out the kinks.</div>
+            <div class="cn-line">这算是个新传统。我还在慢慢调整完善细节。</div>
+            <div class="price-note">
+                <span class="price-icon" onclick="toggleNote(this)">▼</span>
+                <div class="note-content">备注：Lynette 性格直爽，这句话语气随意自然，带有轻微的自嘲，适合模仿日常闲聊时的松弛语调，注意中间的自然停顿。</div>
+            </div>
+        </div>
+
+        <!-- 台词卡片示例3 -->
+        <div class="line-card" data-audio="./audio/DH_S01E01_03.mp3">
+            <div class="speaker">Susan Mayer</div>
+            <button class="play-btn">▶</button>
+            <div class="en-line">He had dealt with problems ranging from substance abuse to infidelity, to domestic
+                violence.</div>
+            <div class="cn-line">他处理过各种各样的问题，从药物滥用、不忠，到家庭暴力。</div>
+            <div class="price-note">
+                <span class="price-icon" onclick="toggleNote(this)">▼</span>
+                <div class="note-content">备注：Susan 说这句话时语气严肃，带有同情，列举问题时节奏清晰，适合模仿正式且带有情绪的叙述语调，注意from...to...的连读。</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>怕什么真理无穷，进一寸有一寸的欢喜 🍀</p>
+    </div>
+
+    <script>
+        // 语音播放功能（和你之前的逻辑一致，无需修改）
+        let currentAudio = null;
+        // 给所有播放按钮绑定点击事件
+        document.querySelectorAll('.play-btn').forEach(btn => {
+            btn.addEventListener('click', function () {
+                // 获取当前卡片的音频路径
+                const audioSrc = this.closest('.line-card').dataset.audio;
+                // 停止上一个正在播放的音频
+                if (currentAudio) {
+                    currentAudio.pause();
+                    // 重置播放按钮文本
+                    document.querySelectorAll('.play-btn').forEach(b => b.textContent = '▶');
+                }
+                // 播放当前音频
+                currentAudio = new Audio(audioSrc);
+                currentAudio.play();
+                // 切换按钮文本为暂停
+                this.textContent = '❚❚';
+                // 音频播放结束，重置按钮
+                currentAudio.addEventListener('ended', () => {
+                    this.textContent = '▶';
+                });
+            });
+        });
+
+        // 可选：添加"点击卡片任意位置播放音频"（增强体验）
+        document.querySelectorAll('.line-card').forEach(card => {
+            card.addEventListener('click', function (e) {
+                // 点击的不是播放按钮、下拉图标时，触发播放按钮点击
+                if (!e.target.classList.contains('play-btn') && !e.target.classList.contains('price-icon')) {
+                    this.querySelector('.play-btn').click();
+                }
+            });
+        });
+
+        // 下拉图标点击显示/隐藏备注功能（增加图标旋转效果）
+        function toggleNote(el) {
+            const note = el.nextElementSibling;
+            note.classList.toggle('show');
+            el.classList.toggle('active'); // 备注显示时，图标旋转180度
+            // 点击其他图标时，关闭当前打开的备注+重置图标
+            document.querySelectorAll('.price-icon').forEach(icon => {
+                if (icon !== el) {
+                    icon.nextElementSibling.classList.remove('show');
+                    icon.classList.remove('active');
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>

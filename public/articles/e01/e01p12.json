@@ -1,0 +1,196 @@
+[
+  {
+    "id": "e01p1201",
+    "speaker": "Gabrielle",
+    "content": "You can't order me around like I am a child. No, no. I'm not going.",
+    "readable": true,
+    "mark": ["order around 指挥"]
+  },
+  {
+    "id": "e01p1202",
+    "speaker": "Carlos",
+    "content": "It's business. Tanaka expects everyone to bring their wives.",
+    "readable": true,
+    "mark": ["expect sb to do sth  期望某人做某事"]
+  },
+  {
+    "id": "e01p1203",
+    "speaker": "Gabrielle",
+    "content": "Every time I'm around that man, he tries to grab my ass.",
+    "readable": true,
+    "mark": ["be around sb 在某人身边；在某人周围；", "grab v. 攫取，抓住；"]
+  },
+  {
+    "id": "e01p1204",
+    "speaker": "Carlos",
+    "content": "I made over $200,000 doing business with him last year. If he wants to grab your ass, you let him.",
+    "readable": true,
+    "mark": [
+      "do business with 与……做生意",
+      "200,000 two hundred thousand",
+      "make money doing sth 通过做某事赚钱。 doing sth 是现在分词短作方式状语，用来表示赚钱的方式。"
+    ]
+  },
+  {
+    "id": "e01p1205",
+    "speaker": "Carlos",
+    "content": "John!",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1206",
+    "speaker": "John",
+    "content": "Mr. Solis, you scared me.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1207",
+    "speaker": "Carlos",
+    "content": "Why is that bush still there? You were supposed to dig it up last week.",
+    "readable": true,
+    "mark": [
+      "bush 灌木，灌木丛；",
+      "be supposed to 被期望做某事;应该做某事;被允许做某事",
+      "dig up 挖掘，发掘"
+    ]
+  },
+  {
+    "id": "e01p1208",
+    "speaker": "John",
+    "content": "I didn't have time last week.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1209",
+    "speaker": "Carlos",
+    "content": "I don't want to hear your excuses. Just take care of it.",
+    "readable": true,
+    "mark": ["excuses 借口，理由 原谅；为……辩解"]
+  },
+  {
+    "id": "e01p1210",
+    "speaker": "Gabrielle",
+    "content": "I really hate the way you talk to me.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1211",
+    "speaker": "Carlos",
+    "content": "And I really hate that I spent $15,000 on your diamond necklace that you couldn’t live without.",
+    "readable": true,
+    "mark": [
+      "spend + 时间/金钱 + on + 事物/活动 表示在某事物或某项活动上花费了多少时间或者金钱。spend...in doing sth 强调花费时间或金钱去做某件事的这个行为过程",
+      "diamond 钻石",
+      "couldn’t live without 没有…… 就无法生活"
+    ]
+  },
+  {
+    "id": "e01p1212",
+    "speaker": "Carlos",
+    "content": " But I'm learning to deal with it. So, can I tell Tanaka we'll be there tomorrow night?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1213",
+    "speaker": "Gabrielle",
+    "content": "John, we have bandages, top shelf in the kitchen.",
+    "readable": true,
+    "mark": [
+      "bandage 绷带",
+      "top shelf 顶级货架top shelf in the kitchen 厨房的顶层架子"
+    ]
+  },
+  {
+    "id": "e01p1214",
+    "speaker": "John",
+    "content": "Thanks, Mrs. Solis.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1215",
+    "speaker": "Gabrielle",
+    "content": "Fine, I'll go. But I'm keeping my back pressed against the wall the entire time.",
+    "readable": true,
+    "mark": [
+      "press against 紧贴，压在……上 对抗，与……竞争",
+      "against the wall 靠着墙；倚着墙 / 处于困境；走投无路",
+      "keep + 宾语 + 宾语补足语: 使…… 保持（某种状态）pressed 过去分词作宾语补足语，用于补充说明宾语 “my back” 所处的状态。过去分词作宾语补足语常用来表示被动或完成的意义，在这里后背是被外力（自身的行为或者其他客观因素等）压在墙上的，所以用过去分词形式很合适。",
+      "the entire time 整个期间；自始至终 == all the time"
+    ]
+  },
+  {
+    "id": "e01p1216",
+    "speaker": "Carlos",
+    "content": "See, now this is what a marriage is all about. Compromise.",
+    "readable": true,
+    "mark": [
+      "all about 关于一切",
+      "This is what ... is all about 这就是…… 的全部内涵；这就是…… 的意义所在；这就是…… 的关键之处",
+      "Compromise 折中，妥协；"
+    ]
+  },
+  {
+    "id": "e01p1217",
+    "speaker": "Gabrielle",
+    "content": "Is your finger OK?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1218",
+    "speaker": "John",
+    "content": "Yeah, it's just a small cut.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1219",
+    "speaker": "Gabrielle",
+    "content": "Let me see. Mm.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1220",
+    "speaker": "John",
+    "content": "You know, Mrs. Solis, I really like it when we hook up, but you know, I gotta get my work done and I can't afford to lose this job.",
+    "readable": true,
+    "mark": [
+      "hook up 连接 搭讪 提供帮助 hook 钩住，挂住",
+      "gotta == got to 必须，不得不",
+      "get sth done 使某事被做；让某事得以完成",
+      "afford 买得起；有（时间）做某事；承担得起；"
+    ]
+  },
+  {
+    "id": "e01p1221",
+    "speaker": "Gabrielle",
+    "content": "This table was hand-carved. Carlos had it imported from Italy. It cost him $23,000.",
+    "readable": true,
+    "mark": [
+      "hand-carved 手工雕刻的",
+      "cost → cost → cost 花费",
+      "have sth imported from somewhere 让某物从某地进口；使某物从某地被进口"
+    ]
+  },
+  {
+    "id": "e01p1222",
+    "speaker": "John",
+    "content": "You want to do it on the table this time?",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1223",
+    "speaker": "Gabrielle",
+    "content": "Absolutely.",
+    "readable": false,
+    "mark": []
+  }
+]

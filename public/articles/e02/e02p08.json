@@ -1,0 +1,52 @@
+[
+  {
+    "id": "e02p0801",
+    "speaker": "Alice",
+    "content": "Dr. Albert Goldfine was the most accomplished marriage counselor in the city.",
+    "readable": true,
+    "mark": [
+      "accomplished adj. 熟练的，才华高的；娴于社交的；v. 完成，实现（accomplish 的过去式和过去分词）"
+    ]
+  },
+  {
+    "id": "e02p0802",
+    "speaker": "Alice",
+    "content": "He had dealt with problems ranging from substance abuse to infidelity, to domestic violence.",
+    "readable": true,
+    "mark": [
+      "range from ... to ... 范围从……到……",
+      "substance abuse 吸毒,物质滥用  substance n. 物质，材料；主旨；重要性；真实性，可信性；毒品；财产；实质， abuse v/n. 虐待；滥用，辜负；辱骂",
+      "infidelity n. 无信仰，不信神；背信；不忠行为，婚外情",
+      "domestic violence 家庭暴力"
+    ]
+  },
+  {
+    "id": "e02p0803",
+    "speaker": "Alice",
+    "content": "Yes, Dr. Goldfine thought he had seen it all. And then he met the Van De Kamp’s.",
+    "readable": true,
+    "mark": ["see it all 看尽一切"]
+  },
+  {
+    "id": "e02p0804",
+    "speaker": "Bree",
+    "content": "Hi. I'm Bree. And this is my husband Rex. And I brought you some homemade potpourri.",
+    "readable": true,
+    "mark": [
+      "homemade adj. 自制的，家里做的；国产的",
+      "potpourri n. 百花香；混合物；杂曲；大杂烩"
+    ]
+  },
+  {
+    "id": "e02p0805",
+    "speaker": "Rex",
+    "content": "The answer is yes. You're about to make a fortune off us.",
+    "readable": true,
+    "mark": [
+      "The answer is yes. 答案是肯定的",
+      "be about to 即将要做某事",
+      "make a fortune off us 从我们身上赚大钱  make sth off sb 从某人身上抢走某物  make a fortune 发财，赚大钱",
+      "fortune n. 时运，命运；好运，机遇；财富，巨款；未来，前途"
+    ]
+  }
+]

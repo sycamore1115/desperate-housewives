@@ -1,0 +1,143 @@
+[
+  {
+    "id": "e01p0601",
+    "speaker": "Mary Alice",
+    "content": "So, what did Carl say when you confronted him?",
+    "readable": true,
+    "mark": ["confront 面对，面临；正视，处理；对峙，对抗；对质，当面对证"]
+  },
+  {
+    "id": "e01p0602",
+    "speaker": "Susan",
+    "content": "You'll love this. He said \"It doesn't mean anything, It was just sex.\"",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0603",
+    "speaker": "Bree",
+    "content": "Ah, yes, page one of the philanderer's handbook.",
+    "readable": true,
+    "mark": ["philanderer 花花公子", "handbook 手册，指南"]
+  },
+  {
+    "id": "e01p0604",
+    "speaker": "Susan",
+    "content": "Yeah, and then he got this Zen look on his face, and he said, \"you know, Susan, most men live lives of quiet desperation.\"",
+    "readable": true,
+    "mark": ["zen look 禅意造型：一种简约、自然、平静的外表造型  zen 禅；禅宗"]
+  },
+  {
+    "id": "e01p0605",
+    "speaker": "Lynette",
+    "content": "Please tell me you punched him.",
+    "readable": true,
+    "mark": ["punch v. 用拳猛击（某人或某物）n. 一拳，一击；"]
+  },
+  {
+    "id": "e01p0606",
+    "speaker": "Susan",
+    "content": "No, I said, \"Really? And what do most women live? lives of noisy fulfillment?\"",
+    "readable": true,
+    "mark": [
+      "fulfillment n. 履行；实行；满足",
+      "lives of noisy fulfillment 充满喧嚣的满足感的生活"
+    ]
+  },
+  {
+    "id": "e01p0607",
+    "speaker": "Mary Alice",
+    "content": "Hmm, good for you.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0608",
+    "speaker": "Susan",
+    "content": "I mean, of all people, did he have to bang his secretary? I had that woman over for brunch.",
+    "readable": true,
+    "mark": [
+      "bang 猛敲，砰然重击；猛摔；很响地使劲关上；与……性交；砰砰作响",
+      "have sb over for... 邀请某人过来（做某事），for后面通常接名词，说明邀请的目的"
+    ]
+  },
+  {
+    "id": "e01p0609",
+    "speaker": "Gabrielle",
+    "content": "It's like my grandmother always said an erect penis doesn't have a conscience.",
+    "readable": true,
+    "mark": [
+      "conscience 良知，良心；内疚，愧疚 have a conscience. 有良知；有良心"
+    ]
+  },
+  {
+    "id": "e01p0610",
+    "speaker": "Lynette",
+    "content": "Even the limp ones aren't that ethical.",
+    "readable": true,
+    "mark": ["ethical 道德的，伦理的；合乎道德的；"]
+  },
+  {
+    "id": "e01p0611",
+    "speaker": "Bree",
+    "content": "This is half the reason I joined the NRA. ",
+    "readable": true,
+    "mark": [
+      "half the reason 一半原因；部分原因",
+      "NRA National Rifle Association 全国枪支协会 Rifle 步枪，来复枪；步枪队"
+    ]
+  },
+  {
+    "id": "e01p0612",
+    "speaker": "Bree",
+    "content": "Well, when Rex started going to those medical conferences, I want it in the back of his mind that he has a loving wife at home with a loaded Smith & Wesson.",
+    "readable": true,
+    "mark": [
+      "conference （大型、正式的）会议，研讨会；（小型正式的）商讨，讨论；体育协会（或联合会）",
+      "in the back of one's mind 在某人的潜意识里；在某人脑海深处",
+      "Smith & Wesson 枪支【Smith&Wesson(史密斯威森 )公司以制造手枪闻名于世，其制造生产的产品遍布各阶层】"
+    ]
+  },
+  {
+    "id": "e01p0613",
+    "speaker": "Mary Alice",
+    "content": "Lynnie, Tom's always away on business. Do you ever worry he might?",
+    "readable": true,
+    "mark": ["be away on business 出差；因公外出"]
+  },
+  {
+    "id": "e01p0614",
+    "speaker": "Lynette",
+    "content": "Oh, please, the man's got me pregnant 3 times in 4 years. I wish he was having sex with someone else.",
+    "readable": true,
+    "mark": ["get sb. + adj. 使某人处于某种状态"]
+  },
+  {
+    "id": "e01p0615",
+    "speaker": "Bree",
+    "content": "So, Susan, is he gonna stop seeing that woman?",
+    "readable": true,
+    "mark": ["gonna 即将，将要（即 going to）"]
+  },
+  {
+    "id": "e01p0616",
+    "speaker": "Susan",
+    "content": "I don't know. I'm sorry, you guys, I just don't know how I'm gonna survive this.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0617",
+    "speaker": "Mary Alice",
+    "content": "Listen to me, We all have moments of desperation.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0618",
+    "speaker": "Mary Alice",
+    "content": "But if we can face them head on, that's when we find out just how strong we really are.",
+    "readable": true,
+    "mark": ["face them head on 直面困难  head on 迎面地"]
+  }
+]

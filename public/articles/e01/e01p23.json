@@ -1,0 +1,84 @@
+[
+  {
+    "id": "e01p2301",
+    "speaker": "Mike",
+    "content": "Wow! What happened?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2302",
+    "speaker": "Alice",
+    "content": "And suddenly there he was, like a phoenix rising from the ashes.",
+    "readable": true,
+    "mark": [
+      "a phoenix rising from the ashes 凤凰浴火重生 phoenix n. 凤凰，不死鸟；rise from 起源于;从……中恢复 ash n.灰；灰烬",
+      "rise：不及物动词: 上升；升起；增加；提高；起床；起立，强调主语自身位置的上升或数量、水平等的增加，不需要借助外力。rose--risen; rising",
+      "raise：及物动词: 举起；提高；筹集；养育；饲养，强调通过外力使某物上升或使某事发生，需要有一个宾语来表示动作的对象。raised; raising"
+    ]
+  },
+  {
+    "id": "e01p2303",
+    "speaker": "Susan",
+    "content": "Mike! I thought you were... Where were you?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2304",
+    "speaker": "Mike",
+    "content": "I just got back from the movies. Eddie had a fire, huh?",
+    "readable": true,
+    "mark": ["get back from the movies 看完电影回来"]
+  },
+  {
+    "id": "e01p2305",
+    "speaker": "Susan",
+    "content": "Yeah, but she's fine now. Everything's fine now.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2306",
+    "speaker": "Alice",
+    "content": "And just like that, Susan was happy. Life was suddenly full of possibilities.",
+    "readable": true,
+    "mark": [
+      "be full of possibilities 充满可能性  possibility n. 可能，可能性；"
+    ]
+  },
+  {
+    "id": "e01p2307",
+    "speaker": "Alice",
+    "content": "Not to mention a few unexpected surprises.",
+    "readable": true,
+    "mark": [
+      "not to mention 更不用说、何况、此外还有",
+      "unexpected adj.想不到的，意外的"
+    ]
+  },
+  {
+    "id": "e01p2308",
+    "speaker": "Mike",
+    "content": "It's me.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p2309",
+    "speaker": "Man",
+    "content": "Do you have anything yet?",
+    "readable": true,
+    "mark": [
+      "Do you have anything yet? 你有结果了吗？你搞定了吗？",
+      "在这种疑问句和否定句里，yet = 到现在为止。"
+    ]
+  },
+  {
+    "id": "e01p2310",
+    "speaker": "Mike",
+    "content": "No, nothing yet. But don't worry. I'm definitely getting closer.",
+    "readable": true,
+    "mark": ["definitely adv. 肯定地，当然；明确地，确定地 get closer 靠近"]
+  }
+]

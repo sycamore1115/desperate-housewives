@@ -1,0 +1,77 @@
+[
+  {
+    "id": "e01p2201",
+    "speaker": "Huber",
+    "content": "She left candles unattended in the den. The paramedic said she was lucky. She could've been killed.",
+    "readable": true,
+    "mark": [
+      "candle n. 蜡烛；旧烛光",
+      "unattended adj. 无人看管的，无人照料的；未被注意的，未被处理的； attend v. 随同，陪同；伴随；出席，参加；注意，专心；处理，照料；致力于",
+      "den n. 兽穴；窝点；活动室，休闲室",
+      "paramedic n. 护理人员",
+      "当 \"could've\" 后面紧跟一个辅音（比如 been, died, hurt）时，那个 /v/ 的音往往会被 “吃掉” 或者 “同化”，直接从 \"d\" 滑到后面的辅音。"
+    ]
+  },
+  {
+    "id": "e01p2202",
+    "speaker": "Lynette",
+    "content": "She ran out with nothing on. She was having sex with some guy when the fire started.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2203",
+    "speaker": "Gabrielle",
+    "content": "What happened to him?",
+    "readable": true,
+    "mark": ["What happened 特殊，不用did happen"]
+  },
+  {
+    "id": "e01p2204",
+    "speaker": "Lynette",
+    "content": "He got smoke inhalation. He's at the hospital.",
+    "readable": true,
+    "mark": [
+      "inhalation n. 吸入，吸入法；吸入剂，吸入物 smoke inhalation 烟雾吸入伤害",
+      "in the hospital（住院）at the hospital（在医院）"
+    ]
+  },
+  {
+    "id": "e01p2205",
+    "speaker": "Bree",
+    "content": "Susan, are you all right? You look awful.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2206",
+    "speaker": "Susan",
+    "content": "I'm fine. I just feel really bad for Eddie.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2207",
+    "speaker": "Gabrielle",
+    "content": "Oh, honey, don't worry about Eddie. She's a strong lady.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p2208",
+    "speaker": "Lynette",
+    "content": "Absolutely. She'll get through this. She'll find a way to survive.",
+    "readable": true,
+    "mark": [
+      "get through 完成; 熬过",
+      "find a way to survive 找到生存之道；设法生存下去"
+    ]
+  },
+  {
+    "id": "e01p2209",
+    "speaker": "Bree",
+    "content": "We all do.",
+    "readable": true,
+    "mark": ["We all do 我们所有人都这样做；我们全都如此"]
+  }
+]

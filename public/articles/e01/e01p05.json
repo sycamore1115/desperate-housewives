@@ -1,0 +1,116 @@
+[
+  {
+    "id": "e01p0501",
+    "speaker": "Alice",
+    "content": "Susan Mayer, who lives across the street, brought macaroni and cheese.",
+    "readable": true,
+    "mark": ["across the street 在街对面或者到达街对面", "macaroni 通心粉"]
+  },
+  {
+    "id": "e01p0502",
+    "speaker": "Alice",
+    "content": "Her husband, Carl, always teased her about her macaroni, saying it was the only thing she knew how to cook and she rarely made it well.",
+    "readable": true,
+    "mark": [
+      "tease 取笑，嘲笑；逗弄  tease her about her work",
+      "rarely 罕有，很少；"
+    ]
+  },
+  {
+    "id": "e01p0503",
+    "speaker": "Alice",
+    "content": "It was too salty the night she and Carl moved into their house.",
+    "readable": true,
+    "mark": ["salty 咸的，含盐的"]
+  },
+  {
+    "id": "e01p0504",
+    "speaker": "Alice",
+    "content": "It was too watery the night she found lipstick on Carl's shirt.",
+    "readable": true,
+    "mark": [
+      "watery 水的；淡的；湿的；松软的",
+      "lipstick 口红，唇膏 lip 嘴唇  stick 粘，贴；"
+    ]
+  },
+  {
+    "id": "e01p0505",
+    "speaker": "Alice",
+    "content": "She burned it the night Carl told her he was leaving her for his secretary.",
+    "readable": true,
+    "mark": [
+      "burn 燃烧，消耗；烧坏，烧毁，烧焦；过去式和过去分词：burnt或burned",
+      "secretary 秘书"
+    ]
+  },
+  {
+    "id": "e01p0506",
+    "speaker": "Alice",
+    "content": "A year had passed since the divorce.",
+    "readable": true,
+    "mark": ["divorce 离婚"]
+  },
+  {
+    "id": "e01p0507",
+    "speaker": "Alice",
+    "content": "Susan has started to think how nice it would be to have a man in her life.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0508",
+    "speaker": "Alice",
+    "content": "Even one who would make fun of her cooking.",
+    "readable": true,
+    "mark": [
+      "Even one who... 即使是一个……的人，如Even one who has a lot of experience may make mistakes",
+      "make fun of 嘲笑，取笑"
+    ]
+  },
+  {
+    "id": "e01p0509",
+    "speaker": "Julie",
+    "content": "Mom, why would someone kill themselves?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0510",
+    "speaker": "Susan",
+    "content": "Well, sometimes people are so unhappy, they think that's the only way they can solve their problems.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0511",
+    "speaker": "Julie",
+    "content": "But Mrs. Young always seemed happy.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0512",
+    "speaker": "Susan",
+    "content": "Yeah, sometimes people pretend to be one way on the outside when they're totally different on the inside.",
+    "readable": true,
+    "mark": ["pretend to be 假装是"]
+  },
+  {
+    "id": "e01p0513",
+    "speaker": "Julie",
+    "content": "Are you meaning, like, how dad's girlfriend is always smiling, says nice things, but deep down, you just know she's a bitch.",
+    "readable": true,
+    "mark": [
+      "are you meaning... 询问对方是不是在指某件事 == Do you mean",
+      "says nice things 说好听的话",
+      "deep down 实际上；在心底"
+    ]
+  },
+  {
+    "id": "e01p0514",
+    "speaker": "Susan",
+    "content": "I don't like that word, Julie. But, yeah, that's a great example.",
+    "readable": true,
+    "mark": []
+  }
+]

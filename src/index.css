@@ -1,13 +1,193 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family:
+    source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.paragraph {
+  position: relative;
+  display: flex;
+  background-color: antiquewhite;
+  margin: 10px 0;
+  padding: 5px 20px;
+  display: grid;
+  grid-template-columns: 60px 1fr 60px;
+  cursor: pointer;
+}
+.more {
+  justify-self: end;
+  align-self: self-end;
+  /* background-color: aquamarine; */
+  /* padding: 5px; */
+  /* border-radius: 10px; */
+}
+.mark {
+  width: 100%;
+  grid-column: 1 / -1;
+  padding-bottom: 5px;
+  padding: 8px 12px;
+  background-color: #f9f6f0;
+  border-radius: 6px;
+}
+.audio-icon {
+  /* justify-self: center; */
+  align-self: center;
+  /* width: 24px;
+  height: 24px; */
+}
+
+/* 全局样式：复古温柔色调，适配所有设备 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #f9f6f0;
+  /* 复古米白底色，不刺眼 */
+  color: #333;
+  line-height: 1.8;
+  padding: 20px 0;
+}
+
+/* 顶部标题栏 */
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+  padding: 0 20px;
+}
+
+.header h1 {
+  color: #5d4037;
+  /* 复古棕，呼应剧里的暖调 */
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  letter-spacing: 1px;
+}
+
+.header p {
+  color: #795548;
+  font-size: 15px;
+  opacity: 0.8;
+}
+
+/* 主体容器：居中，控制宽度 */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* 台词卡片：每句一个卡片，hover有质感 */
+.line-card {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px rgba(93, 64, 55, 0.1);
+  transition: all 0.3s ease;
+}
+
+.line-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(93, 64, 55, 0.15);
+}
+
+/* 播放按钮：复古样式，不突兀 */
+.play-btn {
+  background-color: #d7ccc8;
+  color: #5d4037;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 16px;
+  cursor: pointer;
+  /* margin-bottom: 15px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  margin-bottom: 10px;
+}
+
+.play-btn:hover {
+  background-color: #5d4037;
+  color: #fff;
+}
+
+/* 双语对照样式：英文复古衬线，中文清晰 */
+.en-line {
+  font-family: "Times New Roman", Times, serif;
+  /* 英文衬线，贴合美剧质感 */
+  font-size: 18px;
+  color: #2d2d2d;
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+.cn-line {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.6;
+}
+
+/* 长句换行：自动换行，不拥挤 */
+.en-line,
+.cn-line {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+/* 底部小提示 */
+.footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  color: #795548;
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+/* 响应式：手机端适配 */
+@media (max-width: 500px) {
+  .header h1 {
+    font-size: 24px;
+  }
+
+  .line-card {
+    padding: 20px 15px;
+  }
+
+  .en-line {
+    font-size: 16px;
+  }
+
+  .cn-line {
+    font-size: 15px;
+  }
+}
+.speaker {
+  color: #5d4037;
+  font-size: 12px;
+  font-weight: 500;
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  background-color: #f9f6f0;
+  padding: 3px 8px;
+  border-radius: 4px;
+  border: 1px solid #d7ccc8;
+  z-index: 1;
 }

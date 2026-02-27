@@ -1,0 +1,180 @@
+[
+  {
+    "id": "e01p0201",
+    "speaker": "Alice",
+    "content": "I was laid to rest on a Monday.",
+    "readable": true,
+    "mark": [
+      "lay 安放，放置；铺放，铺设；下（蛋），产（卵） -> laid -> laid",
+      "lay to rest 安葬，埋葬; 结束，解决; 使平静，使安心"
+    ]
+  },
+  {
+    "id": "e01p0202",
+    "speaker": "Alice",
+    "content": "After the funeral, all the residents of Wisteria Lane came to pay their respects.",
+    "readable": true,
+    "mark": [
+      "funeral 葬礼，丧礼",
+      "resident n.居民 adj. 居住的，居留的 residence n. 住宅，住所",
+      "Wisteria Lane 紫藤巷   wisteria 紫藤   lane 小路",
+      "pay one's respects 表示敬意"
+    ]
+  },
+  {
+    "id": "e01p0203",
+    "speaker": "Alice",
+    "content": "And, as people do in these situations, they brought food.",
+    "readable": true,
+    "mark": [
+      "as people do 在强调行为的普遍性和习惯性时，“as people do” 更为合适；而在强调模仿或效仿他人行为时，“like people do” 更为贴切。"
+    ]
+  },
+  {
+    "id": "e01p0204",
+    "speaker": "Alice",
+    "content": "Lynette Scavo brought fried chicken.",
+    "readable": true,
+    "mark": ["fried chicken 炸鸡"]
+  },
+  {
+    "id": "e01p0205",
+    "speaker": "Alice",
+    "content": "Lynette had a great family recipe for fried chicken.",
+    "readable": true,
+    "mark": ["recipe 烹饪法，食谱；诀窍，秘诀；原因；"]
+  },
+  {
+    "id": "e01p0206",
+    "speaker": "Alice",
+    "content": "Of course, she didn't cook much while she was moving up the corporate ladder. She didn't have the time.",
+    "readable": true,
+    "mark": [
+      "move up the corporate ladder 向上爬梯子：指在公司或组织中逐步晋升到更高的职位或地位。",
+      "corporate 公司的；法人的；共同的，全体的",
+      "ladder 梯子；（职位晋升的）阶梯",
+      "while 强调两个动作同时进行，而 when 强调两个动作的先后顺序。"
+    ]
+  },
+  {
+    "id": "e01p0207",
+    "speaker": "Alice",
+    "content": "But when her doctor announced Lynette was pregnant, her husband Tom had an idea.",
+    "readable": true,
+    "mark": ["pregnant adj. 怀孕的，妊娠的"]
+  },
+  {
+    "id": "e01p0208",
+    "speaker": "Alice",
+    "content": "Why not quit your job? Kids do better with stay-at-home moms. So it would be so much less stressful.",
+    "readable": true,
+    "mark": ["Why not...? 口语省略句=Why don't you...?"]
+  },
+  {
+    "id": "e01p0209",
+    "speaker": "Alice",
+    "content": "But this was not the case.",
+    "readable": true,
+    "mark": ["not the case. 不是这样的"]
+  },
+  {
+    "id": "e01p0210",
+    "speaker": "Alice",
+    "content": "In fact, Lynette's life had become so hectic, she was now forced to get her fried chicken from the fast-food restaurant.",
+    "readable": true,
+    "mark": ["hectic 繁忙的，忙乱的；", "be forced to 被迫"]
+  },
+  {
+    "id": "e01p0211",
+    "speaker": "Alice",
+    "content": "Lynette would've appreciated the irony if she'd stopped to think about it.",
+    "readable": true,
+    "mark": [
+      "appreciate 欣赏，鉴赏；理解，明白；感谢，感激；升值，增值",
+      "irony （出乎意料的）奇异可笑之处，具有讽刺意味的情况；反语，讽刺",
+      "Lynette would've appreciated the irony if she'd stopped to think about it. 如果勒奈特当时停下来思考一下，她就会体会到其中的讽刺意味了",
+      "would have done + if 从句 had done 结构，描述与过去事实相反的假设"
+    ]
+  },
+  {
+    "id": "e01p0212",
+    "speaker": "Alice",
+    "content": "But she couldn't. she didn't have the time.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0213",
+    "speaker": "Lynette",
+    "content": "No, you are going to behave today. I am not going to be humiliated in front of the entire neighborhood. And, just so you know how serious I am...",
+    "readable": true,
+    "mark": [
+      "behave 行为，表现；起反应，起作用；守规矩，举止得体",
+      "humiliate 羞辱，使蒙羞",
+      "entire 全部的，整个的；完全的，绝对的",
+      "serious 严重的，危急的；认真的，严肃的；重要的，须重视的",
+      "just so you know 只是让你知道"
+    ]
+  },
+  {
+    "id": "e01p0214",
+    "speaker": "Boy",
+    "content": "What's that?",
+    "readable": true,
+    "mark": []
+  },
+
+  {
+    "id": "e01p0215",
+    "speaker": "Lynette",
+    "content": "Santa's cell-phone number.",
+    "readable": true,
+    "mark": []
+  },
+
+  {
+    "id": "e01p0216",
+    "speaker": "Boy",
+    "content": "How did you get that?",
+    "readable": true,
+    "mark": []
+  },
+
+  {
+    "id": "e01p0217",
+    "speaker": "Lynette",
+    "content": "I know someone who knows someone who knows an elf.",
+    "readable": true,
+    "mark": ["elf （神话故事中的）小精灵，小妖精"]
+  },
+
+  {
+    "id": "e01p0218",
+    "speaker": "Lynette",
+    "content": "And if any of you acts up, so help me, I will call Santa. I will tell him you want socks for Christmas.",
+    "readable": true,
+    "mark": [
+      "act up 行为不端，调皮捣蛋；功能失常，出毛病；恶化，加重",
+      "so help me 发誓，诚心诚意"
+    ]
+  },
+
+  {
+    "id": "e01p0219",
+    "speaker": "Lynette",
+    "content": "Are you willing to risk that?",
+    "readable": true,
+    "mark": []
+  },
+
+  {
+    "id": "e01p0220",
+    "speaker": "Lynette",
+    "content": "OK, let's get this over with.",
+    "readable": true,
+    "mark": [
+      "Let's get this over with 让我们赶快结束这一切吧",
+      "get it over with 尽快完成某事，特别是为了让不愉快的事情尽快过去"
+    ]
+  }
+]

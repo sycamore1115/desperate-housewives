@@ -1,0 +1,97 @@
+[
+  {
+    "id": "e01p0801",
+    "speaker": "Susan",
+    "content": "I wouldn't eat that if I were you.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0802",
+    "speaker": "Susan",
+    "content": "I made it. Trust me. Hey, do you have a death wish?",
+    "readable": true,
+    "mark": [
+      "Do you have a death wish? 对当下明显的危险、鲁莽行为发出质问",
+      "death wish 死亡愿望"
+    ]
+  },
+  {
+    "id": "e01p0803",
+    "speaker": "Mike",
+    "content": "No, I just refuse to believe that anybody can screw up macaroni and cheese.",
+    "readable": true,
+    "mark": [
+      "refuse to believe 不相信：拒绝相信某事或某人所说的话。",
+      "screw up 搞砸 screw 螺丝 screw it up"
+    ]
+  },
+  {
+    "id": "e01p0804",
+    "speaker": "Mike",
+    "content": "Oh my god. How did you...? It tastes like it's burnt and undercooked.",
+    "readable": true,
+    "mark": [
+      "burnt 烧坏的，烧伤的  burn 烧，燃烧，消耗",
+      "undercooked 煎（或烤、炸）得火候不足的；煮得欠熟的"
+    ]
+  },
+  {
+    "id": "e01p0805",
+    "speaker": "Susan",
+    "content": "Yeah, I get that a lot. Here you go.",
+    "readable": true,
+    "mark": [
+      "I get that a lot 我经常听到（别人这么说）；这种情况我碰到很多次了；我常常遇到这样的事",
+      "Here you go 给你；拿去吧；递给别人东西时说"
+    ]
+  },
+  {
+    "id": "e01p0806",
+    "speaker": "Mike",
+    "content": "Thanks, I'm Mike Delfino. I just started renting the Sims' house next door.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0807",
+    "speaker": "Susan",
+    "content": "Susan Mayer. I live across the street.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0808",
+    "speaker": "Mike",
+    "content": "Oh yeah, Mrs. Huber told me about you, said you illustrate children's books.",
+    "readable": true,
+    "mark": [
+      "illustrate 加插图于；说明，阐明；illustrate a story为一个故事配图"
+    ]
+  },
+  {
+    "id": "e01p0809",
+    "speaker": "Susan",
+    "content": "Yeah, I'm very big with the under-five set. What do you do?",
+    "readable": true,
+    "mark": [
+      "be big with...  “受…… 欢迎；在…… 群体中很吃得开”",
+      "the under-5 set. 五岁以下的群体== under the age of 5.",
+      "What do you do 你是做什么工作的"
+    ]
+  },
+  {
+    "id": "e01p0810",
+    "speaker": "Mike",
+    "content": "Plumber. So if you ever have a clog... or something.",
+    "readable": true,
+    "mark": ["plumber 水管工人，水电工", "clog 阻塞，堵塞"]
+  },
+  {
+    "id": "e01p0811",
+    "speaker": "Susan",
+    "content": "Now that everybody's seen that I brought something. I should probably just throw this out.",
+    "readable": true,
+    "mark": []
+  }
+]

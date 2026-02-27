@@ -1,0 +1,182 @@
+[
+  {
+    "id": "e01p1301",
+    "speaker": "Danielle",
+    "content": "Why can't we ever have normal soup?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1302",
+    "speaker": "Bree",
+    "content": "Danielle, there is nothing abnormal about basil puree.",
+    "readable": true,
+    "mark": ["basil puree 罗勒汤  basil 罗勒属植物 puree 浓汤；果泥；菜泥"]
+  },
+  {
+    "id": "e01p1303",
+    "speaker": "Danielle",
+    "content": "Just once, couldn't we have a soup that people have heard of? Like French onion or navy bean.",
+    "readable": true,
+    "mark": [
+      "couldn't we do sth?  我们难道不能做某事吗？",
+      "hear of 知道，了解",
+      "French onion soup 法式洋葱汤",
+      "navy bean 白芸豆 navy 海军；深蓝色；舰队"
+    ]
+  },
+  {
+    "id": "e01p1304",
+    "speaker": "Bree",
+    "content": "First of all, your father can't eat onions. He's deathly allergic. And I won't even dignify your navy bean suggestion. So, how's the Ossobuco?",
+    "readable": true,
+    "mark": [
+      "deathly 致命的，极其，非常",
+      "allergic 对……过敏的；过敏引起的，过敏性的；对……极其反感的",
+      "I won't even... even是一个副词，一般放在助动词（如 won't）之后，实义动词之前。",
+      "dignify 使有尊严，使高贵；使显得堂皇，抬高……的身价",
+      "dignify a suggestion 表示认真对待、郑重考虑某个建议，给予该建议足够的尊重或认可，使其显得重要、值得关注，而不是轻易忽视它。",
+      "Ossobuco 经典的意大利菜肴，烩牛膝或炖小牛膝"
+    ]
+  },
+  {
+    "id": "e01p1305",
+    "speaker": "Andrew",
+    "content": "It's OK.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1306",
+    "speaker": "Bree",
+    "content": "It's OK? Andrew, I spent 3 hours cooking this meal. How do you think it makes me feel when you say \"it's OK\" in that sullen tone?",
+    "readable": true,
+    "mark": [
+      "How do you think it makes me feel when... 你认为当…的时候，这让我有怎样的感受？",
+      "in that sullen tone 用那种闷闷不乐的/阴沉的语气",
+      "sullen 愠怒的，不高兴的；（天气）阴沉的；沉闷的",
+      "tone 语气，腔调，口吻；气氛，基调，风格"
+    ]
+  },
+  {
+    "id": "e01p1307",
+    "speaker": "Andrew",
+    "content": "Who asked you to spend 3 hours on dinner?",
+    "readable": true,
+    "mark": ["who asked you to do sth? 谁让你做某事的？"]
+  },
+  {
+    "id": "e01p1308",
+    "speaker": "Bree",
+    "content": "Excuse me?",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1309",
+    "speaker": "Andrew",
+    "content": "Tim Harper's mom gets home from work, pops open a can of pork and beans, and boom, they're eating, everyone's happy.",
+    "readable": true,
+    "mark": [
+      "get home 回家 get home from work 下班回家",
+      "pops 砰砰声 boom 梆梆声",
+      "pork and beans 猪肉豆 pork 猪肉"
+    ]
+  },
+  {
+    "id": "e01p1310",
+    "speaker": "Bree",
+    "content": "You'd rather I serve pork and beans?",
+    "readable": true,
+    "mark": [
+      "would rather that 宁愿；宁可，其后的从句常用虚拟语气；此处serve是一般现在时，表达现在或将来的一种意愿情况"
+    ]
+  },
+  {
+    "id": "e01p1311",
+    "speaker": "Danielle",
+    "content": "Apologize now. I am begging.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1312",
+    "speaker": "Andrew",
+    "content": "I'm saying, do you always have to serve cuisine? Can't we ever just have food?",
+    "readable": true,
+    "mark": ["cuisine 这里指经过精心准备、具有特定烹饪风格或特色的菜肴"]
+  },
+  {
+    "id": "e01p1313",
+    "speaker": "Bree",
+    "content": "Are you doing drugs?",
+    "readable": true,
+    "mark": [
+      "Are you doing drugs? 你在吸毒吗？ do drugs 吸食毒品",
+      "Are you drugging? 你正在给…… 下药吗"
+    ]
+  },
+  {
+    "id": "e01p1314",
+    "speaker": "Andrew",
+    "content": "What?",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e01p1315",
+    "speaker": "Bree",
+    "content": "Change in behavior is one of the warning signs, and you have been as fresh as paint for the last six months.",
+    "readable": true,
+    "mark": [
+      "as fresh as paint 状态良好，看起来新鲜  paint 油漆，涂料；绘画颜料"
+    ]
+  },
+  {
+    "id": "e01p1316",
+    "speaker": "Bree",
+    "content": "That certainly would explain why you're always locked in the bathroom.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1317",
+    "speaker": "Danielle",
+    "content": "Trust me, that is not what he is doing.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1318",
+    "speaker": "Andrew",
+    "content": "Shut up. Mom, I'm not the one with the problem here, alright? You're the one always acting like she's running for mayor of Stepford.",
+    "readable": true,
+    "mark": [
+      "You’re the one doing sth 你才是那个正在做某事的人 == you’re the one who is doing sth",
+      "run for 参选，寻求，逃离",
+      "mayor 镇长，市长",
+      "Stepford 地名：斯特福德市"
+    ]
+  },
+  {
+    "id": "e01p1319",
+    "speaker": "Bree",
+    "content": "Rex, Seeing as you're the head of this household, I would really appreciate you saying something.",
+    "readable": true,
+    "mark": [
+      "Seeing as 既然，鉴于",
+      "the head of this household 一家之主",
+      "household 家庭，一家人；家务；王室",
+      "appreciate 欣赏，鉴赏；理解，明白；感谢，感激；升值，增值",
+      "would appreciate sb doing sth 希望某人做某事；会感激某人做某事",
+      "I would really appreciate you saying something. == I would really appreciate it if you said something."
+    ]
+  },
+  {
+    "id": "e01p1320",
+    "speaker": "Rex",
+    "content": "Pass the salt?",
+    "readable": true,
+    "mark": []
+  }
+]

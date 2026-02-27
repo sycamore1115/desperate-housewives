@@ -1,0 +1,84 @@
+[
+  {
+    "id": "e01p0701",
+    "speaker": "Bree",
+    "content": "Susan, I was just saying Paul wants us to go over on Friday.",
+    "readable": true,
+    "mark": [
+      "go over 通过，穿过;转变，改变;通过，获得认可;被接受，受欢迎;查看，检查"
+    ]
+  },
+  {
+    "id": "e01p0702",
+    "speaker": "Bree",
+    "content": "He needs us to go through Mary Alice's closet and help pack up her things.",
+    "readable": true,
+    "mark": [
+      "go through closet 翻衣柜",
+      "pack up 收拾，整理",
+      "help (to) do sth  “帮忙做某事”。这里的 “to” 可以省略"
+    ]
+  },
+  {
+    "id": "e01p0703",
+    "speaker": "Bree",
+    "content": "He said he can't face doing it by himself.",
+    "readable": true,
+    "mark": ["face doing sth 意思是 “面对 / 面临做某事” = be faced with"]
+  },
+  {
+    "id": "e01p0704",
+    "speaker": "Susan",
+    "content": "If Mary Alice was having problems, she should have come to us. She should've let us help her.",
+    "readable": true,
+    "mark": [
+      "If she was having problems, she should have come to us. if 条件句的虚拟, 假设过去, 从句使用了过去进行时来表示假设，主句用情态动词 should + have done"
+    ]
+  },
+  {
+    "id": "e01p0705",
+    "speaker": "Gabrielle",
+    "content": "What kinds of problems could she have had?",
+    "readable": true,
+    "mark": [
+      "What kinds of problems could she have had  “What kinds of” 表示 “什么样的；哪类；哪些种类的”，后面通常接可数名词的复数形式 have had 现在完成时 have/has done"
+    ]
+  },
+  {
+    "id": "e01p0706",
+    "speaker": "Gabrielle",
+    "content": "She was healthy, had a great home, a nice family, her life was... Our life.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p0707",
+    "speaker": "Gabrielle",
+    "content": "No. If Mary Alice was having some sort of crisis, we'd have known.",
+    "readable": true,
+    "mark": [
+      "some sort of 某种类型的",
+      "crisis 危机，紧要关头；决定性时刻，关键时刻",
+      "we'd have known 虚拟语气 We would have known."
+    ]
+  },
+  {
+    "id": "e01p0708",
+    "speaker": "Gabrielle",
+    "content": "She lives 50 feet away, for God's sake.",
+    "readable": true,
+    "mark": [
+      "50 feet away 50 英尺远",
+      "for God's sake 看在上帝面上 sake 利益，好处；目的"
+    ]
+  },
+  {
+    "id": "e01p0709",
+    "speaker": "Susan",
+    "content": "Gabby, the woman killed herself. Something must've been going on.",
+    "readable": true,
+    "mark": [
+      "Something must've been going on 一定发生了什么事 going on 进行，发生 what's going on"
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "id": "e01p1401",
+    "speaker": "Alice",
+    "content": "3 days after my funeral, Lynette replaced her grief with a much more useful emotion - Indignation.",
+    "readable": true,
+    "mark": [
+      "replace sth with sth 用…… 替换……；以…… 取代……",
+      "indignation 愤愤不平，义愤"
+    ]
+  },
+  {
+    "id": "e01p1402",
+    "speaker": "Lynette",
+    "content": "Tom, this is my fifth message and you still haven't called me back. Well, you must be having a lot of fun on your business trip, I can only imagine.",
+    "readable": true,
+    "mark": ["I can only imagine 我只能想象；我只能设想"]
+  },
+  {
+    "id": "e01p1403",
+    "speaker": "Lynette",
+    "content": "Well, guess what? The kids and I want to have some fun, too. So unless you call me back by noon, We are getting on a plane and joining you.",
+    "readable": true,
+    "mark": [
+      "guess what? 猜猜看；你猜怎么着",
+      "by noon 到中午之前",
+      "get on a plane 登上飞机；上飞机"
+    ]
+  },
+  {
+    "id": "e01p1404",
+    "speaker": "Lynette",
+    "content": "Not now, honey. Mommy's threatening Daddy. Where are your brothers?",
+    "readable": true,
+    "mark": ["threaten v. 威胁，恐吓；危及"]
+  },
+  {
+    "id": "e01p1405",
+    "speaker": "Klein",
+    "content": "Lynette Scavo?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1406",
+    "speaker": "Lynette",
+    "content": "Crap. Natalie Klein. I don't believe it.",
+    "readable": true,
+    "mark": ["crap 胡扯，废话；蹩脚货，废物；"]
+  },
+  {
+    "id": "e01p1407",
+    "speaker": "Klein",
+    "content": "Lynette. How long has it been?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1408",
+    "speaker": "Lynette",
+    "content": "Years. How are you? How's the firm?",
+    "readable": true,
+    "mark": ["firm 公司，商行；"]
+  },
+  {
+    "id": "e01p1409",
+    "speaker": "Klein",
+    "content": "Good. Everyone misses you. We all say if you hadn't quit, you'd be running the place by now.",
+    "readable": true,
+    "mark": [
+      "虚拟语气：过去完成时hadn’t done表示 “与过去事实相反的假设，would be doing现在进行时的虚拟。",
+      "be running the place 管理这个地方"
+    ]
+  },
+  {
+    "id": "e01p1410",
+    "speaker": "Klein",
+    "content": "So, how's domestic life? Don't you just love being a mom?",
+    "readable": true,
+    "mark": ["domestic 家用的，家庭的； 国内的，本国的；"]
+  },
+  {
+    "id": "e01p1411",
+    "speaker": "Alice",
+    "content": "And there it was, the question that Lynette always dreaded.",
+    "readable": true,
+    "mark": ["dread 畏惧，担心；"]
+  },
+  {
+    "id": "e01p1412",
+    "speaker": "Alice",
+    "content": "For those who asked it, only one answer was acceptable. So Lynette responded as she always did. She lied.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e01p1413",
+    "speaker": "Lynette",
+    "content": "Well, to be honest, It's the best job I've ever had.",
+    "readable": true,
+    "mark": [
+      "to be honest 老实说；说实话",
+      "It's the best job I've ever had. 这是我做过的最好的工作。",
+      "It's the best job I've never had. 这是我从未有过的最好的工作。",
+      "这两句话的区别在于，第一句话是对已经拥有的工作的评价，而第二句话是对尚未拥有的工作的期望。"
+    ]
+  }
+]
