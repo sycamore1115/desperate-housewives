@@ -33,7 +33,7 @@ function Part({ episode = "01", part = "24" }) {
         setError(err.message); // 捕获错误
         setLoading(false); // 关闭加载状态
       });
-  }, []); // 空依赖数组：仅组件挂载时执行一次
+  }, [jsonFilePath]); // 空依赖数组：仅组件挂载时执行一次
 
   // 渲染加载、错误、数据状态
   if (loading) return <div>加载中...</div>;
