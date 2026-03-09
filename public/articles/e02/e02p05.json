@@ -1,0 +1,155 @@
+[
+  {
+    "id": "e02p0501",
+    "speaker": "Carlos",
+    "content": "I know you're awake.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0502",
+    "speaker": "Gabrielle",
+    "content": "I know you're a jerk.",
+    "readable": true,
+    "mark": ["jerk n. 傻瓜，坏蛋"]
+  },
+  {
+    "id": "e02p0503",
+    "speaker": "Carlos",
+    "content": "Dinner with Tanaka ran long. I'm sorry.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0504",
+    "speaker": "Gabrielle",
+    "content": "You know, Carlos, I didn't marry you so I could have dinner by myself 6 times a week.",
+    "readable": true,
+    "mark": [
+      "I didn't marry you so I could have dinner by myself. 我嫁给你可不是为了一周有六天都自己一个人吃晚饭。",
+      "主语 +  don't /didn't + 动作 + so (that) +  主语 +  （不希望发生的）结果 / 状态翻译时，一律译为：我做某事，才不是为了…",
+      "I didn't do A so I could do B，是英语里表达 **“我做 A，才不是为了 B”** 的经典句式。"
+    ]
+  },
+  {
+    "id": "e02p0505",
+    "speaker": "Gabrielle",
+    "content": "You know how bored I was today? I came this close to actually cleaning the house.",
+    "readable": true,
+    "mark": [
+      "come close to doing sth 差点做某事；接近做某事。在这里，“to” 是一个介词，而不是不定式符号，所以后面要接动名词形式（doing）。"
+    ]
+  },
+  {
+    "id": "e02p0506",
+    "speaker": "Carlos",
+    "content": "Don't be that way. I got you a gift.",
+    "readable": true,
+    "mark": ["Don't be that way 别这样"]
+  },
+  {
+    "id": "e02p0507",
+    "speaker": "Gabrielle",
+    "content": "Nope. You're not going to buy your way out of this one.",
+    "readable": true,
+    "mark": ["buy your way out of sth 通过花钱的方式从…中脱身；靠花钱来摆脱…"]
+  },
+  {
+    "id": "e02p0508",
+    "speaker": "Carlos",
+    "content": "It's a good gift.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0509",
+    "speaker": "Gabrielle",
+    "content": "Is that white gold?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0510",
+    "speaker": "Carlos",
+    "content": "Yeah. Put it on and then make love to me.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0511",
+    "speaker": "Gabrielle",
+    "content": "I'm not in the mood. But we could stay up and talk.",
+    "readable": true,
+    "mark": ["in the mood 心情好，有兴致", "stay up 熬夜"]
+  },
+  {
+    "id": "e02p0512",
+    "speaker": "Carlos",
+    "content": "When a man buys a woman expensive jewelry, there are many things he may want in return, for future reference, conversation ain't one of them.",
+    "readable": true,
+    "mark": [
+      "in return 作为回报",
+      "for future reference 供以后参考 reference n. 提及，谈到；参考，查阅；引言，引文；",
+      "ain't 不是；没有非正式的缩写，通常用于英语口语中，是am not、is not、are not、has not 或 have not的缩写形式。"
+    ]
+  },
+  {
+    "id": "e02p0513",
+    "speaker": "Carlos",
+    "content": "Hey, that was a joke. What the hell is wrong with you?",
+    "readable": true,
+    "mark": [
+      "What the hell is wrong with you? 你到底怎么回事？hell n. 地狱；苦难的经历"
+    ]
+  },
+  {
+    "id": "e02p0514",
+    "speaker": "Gabrielle",
+    "content": "Let go of me.",
+    "readable": true,
+    "mark": [
+      "Let go of me 放开我 let me go更强调我想要离开的意愿，而let go of me更强调你应该放开我的动作。"
+    ]
+  },
+  {
+    "id": "e02p0515",
+    "speaker": "Carlos",
+    "content": "You've been acting like a nightmare for a month. What's wrong? I can't fix it unless you tell me.",
+    "readable": true,
+    "mark": [
+      "have been doing 现在完成进行时：一直在做某事：表示过去某个时间点开始做某事，并一直持续到现在。",
+      "nightmare n. 噩梦；可怕的经历"
+    ]
+  },
+  {
+    "id": "e02p0516",
+    "speaker": "Gabrielle",
+    "content": "It's not exciting anymore, Carlos.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0517",
+    "speaker": "Carlos",
+    "content": "So what am I supposed to do?",
+    "readable": true,
+    "mark": ["what am I supposed to do? 我应该做什么？我该怎么办？"]
+  },
+  {
+    "id": "e02p0518",
+    "speaker": "Gabrielle",
+    "content": "I don't know. Be the way you used to be. Surprise me. Take my breath away.",
+    "readable": true,
+    "mark": [
+      "Be the way you used to be 做回你曾经的样子",
+      "take one’s breath away 使大吃一惊 breath: 呼吸"
+    ]
+  },
+  {
+    "id": "e02p0519",
+    "speaker": "Carlos",
+    "content": "Okay.",
+    "readable": false,
+    "mark": []
+  }
+]

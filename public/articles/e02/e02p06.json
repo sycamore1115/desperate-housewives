@@ -4,14 +4,17 @@
     "speaker": "Susan",
     "content": "I didn't realize anybody was going to be out here. I just sort of rolled out of bed.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "was going to 过去将来时 would + 动词原形 / was/were going to + 动词原形",
+      "roll out of bed （睡眼惺忪地）从床上翻身起来，一骨碌从床上爬起来"
+    ]
   },
   {
     "id": "e02p0602",
     "speaker": "Mike",
     "content": "I'm sure you look fine. Oh, Bongo, stop. Sorry, he scares easy.",
     "readable": true,
-    "mark": null
+    "mark": ["he scares easy 他很容易受到惊吓"]
   },
   {
     "id": "e02p0603",
@@ -25,7 +28,10 @@
     "speaker": "Mike",
     "content": "I didn't mean to disturb you. I'll see you later.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "mean to 打算，计划",
+      "disturb v. 打扰，妨碍；使焦虑，使烦恼；移动，弄乱"
+    ]
   },
   {
     "id": "e02p0605",
@@ -39,28 +45,33 @@
     "speaker": "Mike",
     "content": "Just the two of us?",
     "readable": true,
-    "mark": null
+    "mark": ["Just the two of us (the可以省略) 就我们两个"]
   },
   {
     "id": "e02p0607",
     "speaker": "Susan",
     "content": "Well, and Julie. It's a thing we do when somebody new moves into the neighborhood, we invite them over for a home-cooked meal. Sort of a tradition.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "It's a thing we do when... 这是我们在…时会做的事",
+      "home-cooked meal 家常菜",
+      "sort of a tradition 算是一种传统",
+      "sort of 有点儿，有几分;口语化的表达"
+    ]
   },
   {
     "id": "e02p0608",
     "speaker": "Mike",
     "content": "I thought you said you were a lousy cook.",
     "readable": true,
-    "mark": null
+    "mark": ["lousy adj. 差劲的；不擅长的"]
   },
   {
     "id": "e02p0609",
     "speaker": "Susan",
     "content": "Well, I order takeout.",
-    "readable": false,
-    "mark": null
+    "readable": true,
+    "mark": ["takeout n. 外卖", "order takeout 点外卖"]
   },
   {
     "id": "e02p0610",
@@ -74,20 +85,28 @@
     "speaker": "Susan",
     "content": "Yeah, it's sort of a new tradition. I'm working out the kinks.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "I'm working out the kinks. 我正在解决小问题、磨合。实施新的事物时会遇到一些小问题或需要调整的地方，就会用到这个短语来表示自己正在努力解决这些状况，使事情能够顺利进行",
+      "work out 解决，算出，制定",
+      "kink n. 奇想；扭结；蜷缩"
+    ]
   },
   {
     "id": "e02p0612",
     "speaker": "Mike",
     "content": "I'll tell you what. How about I cook? And you guys come over to my place. Friday night at six?",
     "readable": true,
-    "mark": null
+    "mark": [
+      "I'll tell you what. 我有个主意",
+      "come over to my place 来我家",
+      "Friday night at six 周五晚上六点"
+    ]
   },
   {
     "id": "e02p0613",
     "speaker": "Susan",
     "content": "Oh, great. I'll be there. By, Bongo.",
-    "readable": true,
+    "readable": false,
     "mark": null
   },
   {
@@ -101,7 +120,7 @@
     "id": "e02p0615",
     "speaker": "Susan",
     "content": "He did? Cool.",
-    "readable": true,
+    "readable": false,
     "mark": null
   },
   {
@@ -109,13 +128,22 @@
     "speaker": "Mike",
     "content": "But only I'm going because you're gonna come down with something semi-serious that requires bed rest and fluids.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "come down with 染上（疾病）",
+      "semi-serious 比较严重的（semi-: 部分的）",
+      "bed rest and fluids 卧床休息和补液"
+    ]
   },
   {
     "id": "e02p0617",
     "speaker": "Alice",
     "content": "Julie was glad Susan was rekindling her love life. Of course, she was unaware of her mother's recent track record with fire.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "rekindle v. 重新点燃 kindle v. 点燃，开始燃烧；激起，激发；",
+      "be unaware of sth 没有意识到某事；不知道某事；未察觉到某事",
+      "track record with fire 纵火/惹火的前科",
+      "track record with 在…方面的过往表现、业绩记录、履历情况"
+    ]
   }
 ]

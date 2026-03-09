@@ -1,0 +1,190 @@
+[
+  {
+    "id": "e02p0101",
+    "speaker": "Alice",
+    "content": "An odd thing happens when we die. Our senses vanish.",
+    "readable": true,
+    "mark": [
+      "odd adj. 奇怪的，反常的；偶然出现的；奇形怪状的，各种各样的；奇数的；",
+      "vanish v. 突然不见，消失；不复存在，灭绝；",
+      "senses: Taste, touch, smell, sound, sight 五感:味觉/触觉/嗅觉/听觉/视觉"
+    ]
+  },
+  {
+    "id": "e02p0102",
+    "speaker": "Alice",
+    "content": "Taste, touch, smell, and sound become a distant memory, but our sight -- ah, our sight expands.",
+    "readable": true,
+    "mark": [
+      "distant adj. 遥远的，久远的；冷淡的；远亲的；不同的",
+      "expand v. 扩大，增加；扩展，发展；细谈，详述；"
+    ]
+  },
+  {
+    "id": "e02p0103",
+    "speaker": "Alice",
+    "content": "And we can suddenly see the world we've left behind so clearly.",
+    "readable": true,
+    "mark": ["left behind 被遗留"]
+  },
+  {
+    "id": "e02p0104",
+    "speaker": "Alice",
+    "content": "Of course, most of what's visible to the dead could also be seen by the living, if they only take the time to look.",
+    "readable": true,
+    "mark": [
+      "most of what's visible to the dead 死者能看到的大部分东西 (what 引导的主语从句)",
+      "the dead 死者 the living 生者，活着的人们",
+      "take the time to 花足够的时间来做某事，做得好或仔细"
+    ]
+  },
+  {
+    "id": "e02p0105",
+    "speaker": "Alice",
+    "content": "Like my friend Gabrielle, I should have seen how unhappy she was, but I didn't.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0106",
+    "speaker": "Alice",
+    "content": "I only saw her clothes from Paris, and her platinum jewelry, and her brand-new diamond watch.",
+    "readable": true,
+    "mark": [
+      "platinum n. 铂，白金；adj. 铂的，白金的；",
+      "jewelry/jewellery n. 珠宝，首饰",
+      "brand-new adj.崭新的，未用过的；最近获得的 brand n.品牌，商标；"
+    ]
+  },
+  {
+    "id": "e02p0107",
+    "speaker": "Alice",
+    "content": "Had I looked closer, I’d have seen that Gabrielle was a drowning woman, desperately in search of a life raft.",
+    "readable": true,
+    "mark": [
+      "Had I looked closer == If I had looked closer 虚拟倒装",
+      "I’d have seen == I would have seen 侧重结果的将会发生，口语连读就是I'd've seen",
+      "drown v. （声音）压过，盖过；沉浸于，淹没于；（使）淹死",
+      "in search of 试图寻找或寻求",
+      "raft n. 木排，木筏； 橡皮艇，充气船； life raft 救生筏"
+    ]
+  },
+  {
+    "id": "e02p0108",
+    "speaker": "Alice",
+    "content": "Luckily for her, she found one. Of course, Gabrielle only saw her young gardener as a way to infuse her life with a little excitement.",
+    "readable": true,
+    "mark": [
+      "see sb as a way to do sth 把某人看作是做某事的一种途径 / 方式",
+      "infuse v. 使充满（某种感觉），向…灌输；冲泡（茶、药草等），浸渍；输注",
+      "infuse ... with ... 用… 注入…；使… 充满…"
+    ]
+  },
+  {
+    "id": "e02p0109",
+    "speaker": "Alice",
+    "content": "But now she was about to discover just how exciting her life could get.",
+    "readable": true,
+    "mark": ["be about to 即将要做某事"]
+  },
+  {
+    "id": "e02p0110",
+    "speaker": "Gabrielle",
+    "content": "Damn it. Come on! Hurry up! Let's go.",
+    "readable": false,
+    "mark": ["damn 该死，见鬼 严厉批评，谴责；Damn it 该死！"]
+  },
+  {
+    "id": "e02p0111",
+    "speaker": "John",
+    "content": "Where are the rest of my clothes?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0112",
+    "speaker": "Gabrielle",
+    "content": "I'll find them. Just get out. Out the window. ... Hey, honey. You're home early.",
+    "readable": true,
+    "mark": [
+      "You're home early：用于当看到某人已经在家，而且比平常预期的时间要早的时候发出的一种感慨、疑问或者简单陈述",
+      "You get home early：描述规律性的行为或具体的动作情况，比如谈论日常的生活作息，或讲述某一天具体到家时间比较早的行为"
+    ]
+  },
+  {
+    "id": "e02p0113",
+    "speaker": "Carlos",
+    "content": "My meeting got canceled. Didn't you take a shower this morning?",
+    "readable": true,
+    "mark": [
+      "cancel => cancelled/canceled v. 取消；宣布作废",
+      "My meeting got canceled. 这里的‘get + 过去分词’构成的被动结构，比‘be + 过去分词’的被动更口语化"
+    ]
+  },
+  {
+    "id": "e02p0114",
+    "speaker": "Gabrielle",
+    "content": "I just finished a workout.",
+    "readable": true,
+    "mark": ["workout n. 锻炼，训练；试验；作为锻炼讲时，是可数名词"]
+  },
+  {
+    "id": "e02p0115",
+    "speaker": "Carlos",
+    "content": "Where's John? That's his truck out front.",
+    "readable": true,
+    "mark": ["truck n. 卡车，载重汽车；手推车"]
+  },
+  {
+    "id": "e02p0116",
+    "speaker": "Alice",
+    "content": "Gabrielle was panicked. She knew if her husband discovered her secret, she would feel the full force of his wrath.",
+    "readable": true,
+    "mark": [
+      "panicked v. 使恐慌（panic 的过去式和过去分词）= in a panic",
+      "full force 全力以赴：以最大的力量、速度或决心进行某项活动或行动。",
+      "wrath n. 愤怒，盛怒 full force of his wrath"
+    ]
+  },
+  {
+    "id": "e02p0117",
+    "speaker": "John",
+    "content": "Hey, Mr. Solis.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e02p0118",
+    "speaker": "Carlos",
+    "content": "Hey, John, did you take care of that ficus yet?",
+    "readable": true,
+    "mark": ["ficus n. 榕树; 热带榕属植物"]
+  },
+  {
+    "id": "e02p0119",
+    "speaker": "John",
+    "content": "I'll get to it as soon as I'm done here.",
+    "readable": true,
+    "mark": [
+      "get to 开始，着手; 到达，抵达; 理解，明白",
+      "I'll get to it as soon as I'm done here.我在这里的事一做完，就会着手去做它"
+    ]
+  },
+  {
+    "id": "e02p0120",
+    "speaker": "Carlos",
+    "content": "Alright. We need to talk about the hedges later.",
+    "readable": false,
+    "mark": ["hedge n. 树篱；防范措施，防备手段 hedge risk 对冲风险"]
+  },
+  {
+    "id": "e02p0121",
+    "speaker": "Alice",
+    "content": "But she was quickly reminded that what Carlos couldn't see couldn't hurt her.",
+    "readable": true,
+    "mark": [
+      "she was quickly reminded that ... 在大多数情况下，当that引导宾语从句时，且只起引导作用时是可以省略的。但是，当主句的谓语动词后面的宾语从句比较长，或者从句结构比较复杂，或者为了强调从句的内容等情况时，that最好不要省略。",
+      "what Carlos couldn't see couldn't hurt her. 前面的 what Carlos couldn't see 是一个从句，充当主语"
+    ]
+  }
+]

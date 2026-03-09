@@ -1,0 +1,74 @@
+[
+  {
+    "id": "e02p1201",
+    "speaker": "John",
+    "content": "This is great. I got tons of homework tonight. It's easier to concentrate after sex.",
+    "readable": true,
+    "mark": [
+      "tons of 许多;无数的;一大堆",
+      "concentrate v. 集中注意力，聚精会神；使集中，聚集；浓缩"
+    ]
+  },
+  {
+    "id": "e02p1202",
+    "speaker": "Gabrielle",
+    "content": "I'm glad I could help. Education's very important.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1203",
+    "speaker": "John",
+    "content": "Oh, I got something for you. I was gonna give it to you next time I mowed your lawn, but since you're here.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1204",
+    "speaker": "Gabrielle",
+    "content": "Oh, it's rose.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1205",
+    "speaker": "John",
+    "content": "It's not just any rose. Look at all the petals, there are no flaws. It's perfect. Just like you.",
+    "readable": true,
+    "mark": ["petal n. 花瓣", "flaw n. 缺点，缺陷；裂痕，瑕疵"]
+  },
+  {
+    "id": "e02p1206",
+    "speaker": "Alice",
+    "content": "The truth hit her like a thunderbolt.",
+    "readable": true,
+    "mark": [
+      "thunderbolt n. 霹雳；雷电；突发意外事件；大发雷霆  thunder n. 雷，雷声 v. 打雷 bolt n. 闪电，霹雳"
+    ]
+  },
+  {
+    "id": "e02p1207",
+    "speaker": "John",
+    "content": "I had spent days looking for just what I want. Finally found it.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1208",
+    "speaker": "Alice",
+    "content": "For John, this was no longer a meaningless little affair. Gabrielle could now clearly see he was falling in love with her.",
+    "readable": true,
+    "mark": [
+      "no longer 不再，不再是，不再存在",
+      "meaningless adj.无意义的；无目的的",
+      "affair n. 公共事务；私事；风流韵事；"
+    ]
+  },
+  {
+    "id": "e02p1209",
+    "speaker": "Gabrielle",
+    "content": "It's just beautiful. I got to go.",
+    "readable": true,
+    "mark": null
+  }
+]

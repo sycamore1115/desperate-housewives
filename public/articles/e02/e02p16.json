@@ -1,0 +1,69 @@
+[
+  {
+    "id": "e02p1601",
+    "speaker": "Huber",
+    "content": "Hello, Julie. I talked to your mom about donating some clothes for Eddie.",
+    "readable": true,
+    "mark": ["donate v. 捐赠，赠送"]
+  },
+  {
+    "id": "e02p1602",
+    "speaker": "Julie",
+    "content": "She's at Mrs. Van De Kamp's. But I'll see if she left some stuff upstairs.",
+    "readable": true,
+    "mark": ["upstairs adv. 往楼上，在楼上；脑力上，精神上"]
+  },
+  {
+    "id": "e02p1603",
+    "speaker": "Huber",
+    "content": "Oh, Julie. I was just admiring your new measuring cup.",
+    "readable": true,
+    "mark": ["admire v. 钦佩，仰慕；欣赏，观赏"]
+  },
+  {
+    "id": "e02p1604",
+    "speaker": "Julie",
+    "content": "Yeah, we lost ours.",
+    "readable": true,
+    "mark": ["ours pron.我们的，属于我们的"]
+  },
+  {
+    "id": "e02p1605",
+    "speaker": "Huber",
+    "content": "Really?",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p1606",
+    "speaker": "Julie",
+    "content": "So I couldn't find the clothes, I'm sorry.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1607",
+    "speaker": "Huber",
+    "content": "That's okay.",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p1608",
+    "speaker": "Julie",
+    "content": "If you want me to keep looking?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1609",
+    "speaker": "Huber",
+    "content": "No, you've done more than enough. Truly.",
+    "readable": true,
+    "mark": [
+      "more than enough 超过所需的数量或程度",
+      "you've done more than enough. 你做得已经够多了",
+      "truly adv. 真实地，如实地；真正地，完全地；真诚地；准确地；非常，很"
+    ]
+  }
+]

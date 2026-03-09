@@ -1,0 +1,91 @@
+[
+  {
+    "id": "e02p0401",
+    "speaker": "Alice",
+    "content": "Susan awoke that night alone and parched, but as she gazed out of her window, she saw the tall drink of water she needed to quench her thirst.",
+    "readable": true,
+    "mark": [
+      "wake vi/vt. 唤醒，醒来；唤起，激起；n. 守夜，守灵 → woke → woken",
+      "awake vi/vt. （使）醒来，唤醒；唤起adj. 醒着的 → awoke → awoken",
+      "awaken vi/vt. 唤醒；唤起； 觉醒；醒来 → awakened → awakened",
+      "三个词在这里可以互换，他们从上到下一个比一个正式。",
+      "parch v. 烤，烘 parched adj. 焦的；炎热的；炒过的；干透的；非常口渴的",
+      "gaze v. 凝视，注视",
+      "the tall drink of water 俚语，形容高大英俊的男人",
+      "quench v. 止渴；满足",
+      "quench one's thirst 解渴"
+    ]
+  },
+  {
+    "id": "e02p0402",
+    "speaker": "Julie",
+    "content": "\"Dear diary, Mike doesn't even know I'm alive.\"",
+    "readable": true,
+    "mark": [
+      "Dear diary 日记常用开头",
+      "even 对句子中的某个成分进行强调时，它通常放在实义动词之前、助动词或情态动词之后"
+    ]
+  },
+  {
+    "id": "e02p0403",
+    "speaker": "Susan",
+    "content": "Shut up.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0404",
+    "speaker": "Julie",
+    "content": "If you want to date him, you're going to have to ask him out.",
+    "readable": true,
+    "mark": [
+      "date sb 和某人约会",
+      "ask sb out 约某人出去",
+      "be going to have to do sth 将要不得不做某事"
+    ]
+  },
+  {
+    "id": "e02p0405",
+    "speaker": "Susan",
+    "content": "I keep hoping he'll ask me out.",
+    "readable": true,
+    "mark": [
+      "keep hoping 一直希望 I keep hoping that ... 我一直希望……；持续期望着……"
+    ]
+  },
+  {
+    "id": "e02p0406",
+    "speaker": "Julie",
+    "content": "How's that going?",
+    "readable": true,
+    "mark": ["How's that going? 进展如何？那进行得怎么样了？"]
+  },
+  {
+    "id": "e02p0407",
+    "speaker": "Susan",
+    "content": "Shouldn't you be making brownies for your nerdy friends?",
+    "readable": true,
+    "mark": [
+      "Shouldn't you be doing sth? 你难道不该在做某事吗？",
+      "brownie n. 布朗尼蛋糕",
+      "nerdy adj. 书呆子气的"
+    ]
+  },
+  {
+    "id": "e02p0408",
+    "speaker": "Julie",
+    "content": "I can't find the measuring cup. Have you seen it?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0409",
+    "speaker": "Susan",
+    "content": "The measuring cup? Well, it's got to be here somewhere. Just keep looking.",
+    "readable": true,
+    "mark": [
+      "it's got to be here somewhere 它一定在这里的某个地方 it's got to be = it has got to be 一定是",
+      "somewhere 某个地方"
+    ]
+  }
+]

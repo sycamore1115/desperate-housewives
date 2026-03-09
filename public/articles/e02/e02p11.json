@@ -1,0 +1,91 @@
+[
+  {
+    "id": "e02p1101",
+    "speaker": "Bree",
+    "content": "And so there are just the four of us. My older son, Andrew, is 16, Danielle is 15 and...",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1102",
+    "speaker": "Dr. Goldfine",
+    "content": "I don't need to see pictures. Bree, you've spent most of the hour engaging in small talk.",
+    "readable": true,
+    "mark": [
+      "most of the hour 这一小时里的大部分时间",
+      "engage v. 雇用，聘请；参加，从事；吸引，引起；占用 engage in 参与，从事",
+      "small talk 闲聊",
+      "engage in small talk 闲聊"
+    ]
+  },
+  {
+    "id": "e02p1103",
+    "speaker": "Bree",
+    "content": "Oh, have I?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1104",
+    "speaker": "Dr. Goldfine",
+    "content": "Yes, Rex has been very vocal about his issues. Don't you want to discuss your feelings about your marriage?",
+    "readable": true,
+    "mark": [
+      "vocal adj. 直言不讳的，大声表达的；嗓音的，发声的，歌唱的",
+      "issue n. 议题，争论点；v. 发表，颁布；分发，分配",
+      "Don't you want to do sth? 你难道不想做某事吗？"
+    ]
+  },
+  {
+    "id": "e02p1105",
+    "speaker": "Rex",
+    "content": "This is the thing you got to know about Bree. She doesn't like to talk about her feelings. To be honest, it's hard to know if she has any.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1106",
+    "speaker": "Rex",
+    "content": "Does she feel anger, rage, ecstasy? Who knows? She's always pleasant, and I can't tell you how annoying that is.",
+    "readable": true,
+    "mark": [
+      "rage n. 盛怒，狂怒；v. 发脾气，大怒；",
+      "ecstasy n. 狂喜，陶醉",
+      "pleasant adj. 令人愉快的，和蔼可亲的",
+      "annoying adj. 令人恼火的，令人烦躁的"
+    ]
+  },
+  {
+    "id": "e02p1107",
+    "speaker": "Rex",
+    "content": "Whatever she feels is so far below the surface, no one can see it. I feel like she's using all these domestic things..",
+    "readable": true,
+    "mark": ["so far 到目前为止", "below the surface 在表面之下"]
+  },
+  {
+    "id": "e02p1108",
+    "speaker": "Dr. Goldfine",
+    "content": "Bree? Would you like to respond to what Rex just said? ",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p1109",
+    "speaker": "Dr. Goldfine",
+    "content": "Is there some truth there? Do you use housework as a way to disengage emotionally?",
+    "readable": true,
+    "mark": [
+      "Is there some truth there? 这是真的吗",
+      "disengage vt. 使脱离，解开",
+      "emotionally adv. 感情上，情绪上",
+      "disengage emotionally 情感上的疏离，情绪上的释放"
+    ]
+  },
+  {
+    "id": "e02p1110",
+    "speaker": "Bree",
+    "content": "Of course not!",
+    "readable": false,
+    "mark": null
+  }
+]

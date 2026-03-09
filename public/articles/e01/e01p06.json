@@ -1,7 +1,7 @@
 [
   {
     "id": "e01p0601",
-    "speaker": "Mary Alice",
+    "speaker": "Alice",
     "content": "So, what did Carl say when you confronted him?",
     "readable": true,
     "mark": ["confront 面对，面临；正视，处理；对峙，对抗；对质，当面对证"]
@@ -46,7 +46,7 @@
   },
   {
     "id": "e01p0607",
-    "speaker": "Mary Alice",
+    "speaker": "Alice",
     "content": "Hmm, good for you.",
     "readable": true,
     "mark": []
@@ -100,7 +100,7 @@
   },
   {
     "id": "e01p0613",
-    "speaker": "Mary Alice",
+    "speaker": "Alice",
     "content": "Lynnie, Tom's always away on business. Do you ever worry he might?",
     "readable": true,
     "mark": ["be away on business 出差；因公外出"]
@@ -128,14 +128,14 @@
   },
   {
     "id": "e01p0617",
-    "speaker": "Mary Alice",
+    "speaker": "Alice",
     "content": "Listen to me, We all have moments of desperation.",
     "readable": true,
     "mark": []
   },
   {
     "id": "e01p0618",
-    "speaker": "Mary Alice",
+    "speaker": "Alice",
     "content": "But if we can face them head on, that's when we find out just how strong we really are.",
     "readable": true,
     "mark": ["face them head on 直面困难  head on 迎面地"]

@@ -1,13 +1,10 @@
 import { useState, useEffect } from "react";
 import Paragraph from "./paragraph";
-import { URL } from "./config";
-function Part({ episode = "01", part = "24" }) {
+import URL from "./config";
+function Part({ episode = "02", part = "13" }) {
   const jsonFilePath = `articles/e${episode}/e${episode}p${part}.json`;
   const partId = `e${episode}p${part}`;
-  // const URL =
-  //   "https://championsea.oss-cn-shanghai.aliyuncs.com/phoeny/desperate_housewives/";
   const audioFilePath = `e${episode}/${partId}s.mp3`;
-  // const audioFilePath = `https://championsea.oss-cn-shanghai.aliyuncs.com/phoeny/desperate_housewives/e01p21s.mp3`;
   // 定义状态存储 JSON 数据
   const [jsonData, setJsonData] = useState(null);
   const [loading, setLoading] = useState(true);

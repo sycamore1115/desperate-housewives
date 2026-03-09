@@ -1,0 +1,137 @@
+[
+  {
+    "id": "e02p1401",
+    "speaker": "Lynette",
+    "content": "Here's what I pulled for Eddie. I should warn you that most of the clothes in there aren't that stylish.",
+    "readable": true,
+    "mark": [
+      "pull for 为……加油，支持……",
+      "stylish adj. 时髦的，流行的，有格调的；潇洒的"
+    ]
+  },
+  {
+    "id": "e02p1402",
+    "speaker": "Huber",
+    "content": "don't worry about it. Eddie's a beggar now, which means she can't be a chooser. Of course, we don't have to add salt to the wound.",
+    "readable": true,
+    "mark": [
+      "beggar n. 乞丐，叫花子；",
+      "add salt to the wound 在伤口上撒盐 wound n. 创伤，伤口；损害，痛苦"
+    ]
+  },
+  {
+    "id": "e02p1403",
+    "speaker": "Lynette",
+    "content": "Listen, I was just getting dinner ready...",
+    "readable": true,
+    "mark": ["get ready 准备好 get sth ready 把某物准备好"]
+  },
+  {
+    "id": "e02p1404",
+    "speaker": "Huber",
+    "content": "Say no more. I'll get out of your hair. By the way, was that you I saw getting pulled over by a policeman?",
+    "readable": true,
+    "mark": [
+      "say no more 不必再说了",
+      "get out of your hair 不打扰你了，不再烦扰你，让你一个人待着。",
+      "by the way 顺便说一下",
+      "get pulled over by a policeman 被警察拦下  get pulled over通常用来描述司机被警察拦下的情况。pull over: 靠边停车"
+    ]
+  },
+  {
+    "id": "e02p1405",
+    "speaker": "Lynette",
+    "content": "Yeah, the boys were acting up in the car, I couldn't get them to sit down.",
+    "readable": true,
+    "mark": ["get sb to do sth 让某人做某事；使某人做某事"]
+  },
+  {
+    "id": "e02p1406",
+    "speaker": "Huber",
+    "content": "Young boys can be so willful.",
+    "readable": true,
+    "mark": ["willful adj. 有意的；任性的；故意的"]
+  },
+  {
+    "id": "e02p1407",
+    "speaker": "Lynette",
+    "content": "I try everything. I scream, I threaten, I reason, I beg, nothing works.",
+    "readable": true,
+    "mark": [
+      "scream v. 尖叫；高声喊，大声叫；",
+      "perverse adj. 任性的，故意作对的；有悖常理的，反常的，不合人意的",
+      "joy n. 欢欣，高兴；使人高兴的人（或物），乐趣；成功，满足",
+      "get joy out of 固定搭配，意思是“从……中获得乐趣” out of 因为……而做某事",
+      "get...out of...  表示从…… 中获得……"
+    ]
+  },
+  {
+    "id": "e02p1408",
+    "speaker": "Lynette",
+    "content": "I don't know if it's because they're too young and they don't understand, or if they're just getting some perverse joy out of testing me.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1409",
+    "speaker": "Huber",
+    "content": "My mother used to have the worst time with me in the car, so one time when I was acting up, she stopped and left me on the side of the road, and she drove off.",
+    "readable": true,
+    "mark": [
+      "one time when...有一次当…… 的时候",
+      "on the side of the road 在路边 == by the side of the road",
+      "drive off 驾车离去"
+    ]
+  },
+  {
+    "id": "e02p1410",
+    "speaker": "Lynette",
+    "content": "You're kidding.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1411",
+    "speaker": "Huber",
+    "content": "Oh, she came back immediately, but I never misbehaved in the car again. You should try that.",
+    "readable": true,
+    "mark": [
+      "immediately adv. 立即，马上；紧接地，紧靠地；直接地",
+      "misbehave v. 行为不端，举止失礼；发生故障，失灵"
+    ]
+  },
+  {
+    "id": "e02p1412",
+    "speaker": "Lynette",
+    "content": "Mrs. Huber, I could never leave my kids by the side of the road.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1413",
+    "speaker": "Huber",
+    "content": "When it comes to discipline, sometimes you must be creative. My mother knew that, smart lady.",
+    "readable": true,
+    "mark": [
+      "discipline n/v. 纪律，风纪；惩罚；训导；训练，锻炼；科目，学科",
+      "creative adj. 创造（性）的，创作的；有创造力的，有想象力的",
+      "she's in a home now, and her mind has just turned to mush. 她现在住在养老院，她的思想变得一团糟。in a home 通常表示她现在在某个住所（可能是养老院、福利院等类似的机构场所，也可能只是普通的别人家或某个居住的地方）",
+      "turn to mush 变得软糊；引申为形容人的头脑等变得混乱糊涂",
+      "mush n. 感伤的话；浓粥；软块；胆怯"
+    ]
+  },
+  {
+    "id": "e02p1414",
+    "speaker": "Huber",
+    "content": "Of course, she's in a home now, and her mind has just turned to mush.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1415",
+    "speaker": "Lynette",
+    "content": "Well, like I said, I should go back and get dinner ready.",
+    "readable": true,
+    "mark": ["like I said 就像我说的;正如我所说"]
+  }
+]

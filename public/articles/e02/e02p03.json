@@ -1,0 +1,94 @@
+[
+  {
+    "id": "e02p0301",
+    "speaker": "Rex",
+    "content": "It's okay. I'm up.",
+    "readable": true,
+    "mark": ["I'm up 我起床了"]
+  },
+  {
+    "id": "e02p0302",
+    "speaker": "Bree",
+    "content": "Good. I have a question for you. Do you remember when you proposed?",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0303",
+    "speaker": "Rex",
+    "content": "For god's sake.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0304",
+    "speaker": "Bree",
+    "content": "We sat on Skyline Drive and drank a bottle of apple wine.",
+    "readable": true,
+    "mark": ["Skyline Drive 天际线公路 Drive 大道", "a bottle of 一瓶"]
+  },
+  {
+    "id": "e02p0305",
+    "speaker": "Bree",
+    "content": "And when we finished it, you turned to me, and you said, \"if you marry me, Bree Mason, I promise to love you for the rest of my life.\"",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0306",
+    "speaker": "Bree",
+    "content": "And even though I was engaged to Ty Grant, and even though my father didn't like you, I said yes.",
+    "readable": true,
+    "mark": [
+      "even though 尽管，虽然; 即使，纵然",
+      "engaged  adj. 已订婚的；从事……的，忙于……的；电话占线的； engage v.雇用，聘请；参加，从事；吸引，引起；与……交战，开战；",
+      "engaged to sb 与某人订婚",
+      "engaged with sb 与某人交往；与某人接洽；与某人忙于某事"
+    ]
+  },
+  {
+    "id": "e02p0307",
+    "speaker": "Rex",
+    "content": "That was a long time ago.",
+    "readable": true,
+    "mark": [
+      "a long time ago 很久以前",
+      "That was a long time ago. 那是很久以前的事了"
+    ]
+  },
+  {
+    "id": "e02p0308",
+    "speaker": "Bree",
+    "content": "You're going to cancel the meeting with that divorce lawyer, and we're going to find ourselves a marriage counselor.",
+    "readable": true,
+    "mark": ["counselor n. 顾问，咨询师；律师，法律顾问"]
+  },
+  {
+    "id": "e02p0309",
+    "speaker": "Bree",
+    "content": "You promised.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e02p0310",
+    "speaker": "Rex",
+    "content": "All right.",
+    "readable": false,
+    "mark": []
+  },
+  {
+    "id": "e02p0311",
+    "speaker": "Bree",
+    "content": "Good. I'm going to make myself some warm milk. Would you like something to drink?",
+    "readable": true,
+    "mark": ["make myself sth 自己动手做某物给自己用"]
+  },
+  {
+    "id": "e02p0312",
+    "speaker": "Rex",
+    "content": "Anything but apple wine.",
+    "readable": true,
+    "mark": ["Anything but sth 除……之外什么都行"]
+  }
+]

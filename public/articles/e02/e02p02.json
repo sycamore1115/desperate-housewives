@@ -1,0 +1,190 @@
+[
+  {
+    "id": "e02p0201",
+    "speaker": "Alice",
+    "content": "The peaceful facade of Wisteria Lane had recently been shattered, first by my suicide, and then by the discovery of a note among my belongings that suggested a suspicious reason for my desperate act.",
+    "readable": true,
+    "mark": [
+      "facade n. 假象，伪装;（建筑物的）正面，立面",
+      "shatter v. 破碎，碎裂；破坏；使极为惊愕难过 n. 碎片；受到极大打击的状态",
+      "of a 在美式口语中是高频连读组合，核心发音会弱读成 /əvə/",
+      "suggest v. 暗示，暗指；提议，建议；表明",
+      "suspicious adj. 感觉可疑的，怀疑的；不信任的suspect v. 猜想，认为",
+      "a reason for... 是常见搭配，…的原因",
+      "implication n. 可能的影响（或作用、结果）；含意，暗指；牵连，涉及"
+    ]
+  },
+  {
+    "id": "e02p0202",
+    "speaker": "Alice",
+    "content": "My friends gathered to discuss its implications.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0203",
+    "speaker": "Susan",
+    "content": "I think we should give it to Paul.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0204",
+    "speaker": "Gabrielle",
+    "content": "He's still mourning, Susan. He'll probably freak out.",
+    "readable": true,
+    "mark": [
+      "mourn v. 悼念，哀悼；对……感到痛心",
+      "freak out 使崩溃；极度不安 freak v.吃惊，不安，恼怒；"
+    ]
+  },
+  {
+    "id": "e02p0205",
+    "speaker": "Susan",
+    "content": "It doesn't matter. She was his wife. He deserves to have all the facts.",
+    "readable": true,
+    "mark": ["It doesn't matter. 没关系"]
+  },
+  {
+    "id": "e02p0206",
+    "speaker": "Bree",
+    "content": "Well, we could do it gently. We could tell him about it over coffee and pastry.",
+    "readable": true,
+    "mark": [
+      "gently adv. 文静地，温柔地；轻柔地；渐进地，平缓地；",
+      "pastry n. 油酥面团；酥皮糕点"
+    ]
+  },
+  {
+    "id": "e02p0207",
+    "speaker": "Lynette",
+    "content": "That would be fun. \"Paul, we have proof your wife killed herself over some deep, dark secret. Another bear claw?\"",
+    "readable": true,
+    "mark": [
+      "proof n. 证明，证据；检验，证实 不可数名词",
+      "over some deep, dark secret. over prep.由于，关于  / over coffee and pastry. over prep. 在……期间  over for brunc",
+      "bear claw 熊爪：一种填充面点 claw n.（动物的）爪，爪子；"
+    ]
+  },
+  {
+    "id": "e02p0208",
+    "speaker": "Gabrielle",
+    "content": "We could always call the police.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0209",
+    "speaker": "Lynette",
+    "content": "Maybe it's just some sort of sick joke.",
+    "readable": true,
+    "mark": [
+      "some sort of 某种类型的 其后通常接单数可数名词",
+      "sick joke 残酷的玩笑"
+    ]
+  },
+  {
+    "id": "e02p0210",
+    "speaker": "Bree",
+    "content": "Well, if it was a joke, it was in very poor taste.",
+    "readable": true,
+    "mark": [
+      "if it was a joke 是条件状语从句，表示假设的情况",
+      "poor taste 品味差 in poor taste 不得体：令人不悦或愤怒的方式"
+    ]
+  },
+  {
+    "id": "e02p0211",
+    "speaker": "Susan",
+    "content": "No, this was serious. I know it was. We got to find out what was going on.",
+    "readable": true,
+    "mark": []
+  },
+  {
+    "id": "e02p0212",
+    "speaker": "Lynette",
+    "content": "Let's say we do, there's a chance we're not going to like what we find.",
+    "readable": true,
+    "mark": [
+      "Let's say we do. 假设我们这样做。这句话通常用于提出一个假设或推测，然后探讨在这种假设下可能发生的情况或结果。",
+      "chance n. 可能性； 机会，时机；危险，冒险；运气，偶然",
+      "there's a chance that ...  存在…… 的可能性",
+      "There's a chance we're not going to like what we find. 我们有可能不会喜欢我们所发现的。"
+    ]
+  },
+  {
+    "id": "e02p0213",
+    "speaker": "Susan",
+    "content": "Well, isn't it worse to be in the dark? I mean, imagine she did all these horrible things.",
+    "readable": true,
+    "mark": [
+      "isn't it worse to be in the dark? 处在不知情的状态下难道不是更糟糕吗？",
+      "to be in the dark 在黑暗中，还常引申为蒙在鼓里；不知情"
+    ]
+  },
+  {
+    "id": "e02p0214",
+    "speaker": "Bree",
+    "content": "It's the age-old question. isn't it? How much do we really want to know about our neighbors?",
+    "readable": true,
+    "mark": ["age-old 古老的；由来已久的"]
+  },
+  {
+    "id": "e02p0215",
+    "speaker": "Alice",
+    "content": "My friends were right to be concerned, they knew that every family has its secrets.",
+    "readable": true,
+    "mark": [
+      "My friends were right to be concerned. 朋友们的担心是对的。It's right to be nervous. 紧张是正常的",
+      "be right to 正确的，合适的，恰当的",
+      "concern v.使担心；有关，关于；涉及 adj. 担心的；相关的；关注的；关心的"
+    ]
+  },
+  {
+    "id": "e02p0216",
+    "speaker": "Alice",
+    "content": "And as my son and husband could have told them, you need to think carefully before digging them up.",
+    "readable": true,
+    "mark": [
+      "could have told 本可以告诉（实际没说）",
+      "dig up 挖掘；发现（秘密）"
+    ]
+  },
+  {
+    "id": "e02p0217",
+    "speaker": "Alice",
+    "content": "After talking for hours, my friends still hadn't agreed on what to do with the note.",
+    "readable": true,
+    "mark": [
+      "talk for hours 聊了好几个小时",
+      "agree on what to do with sth 就如何处理某事达成一致"
+    ]
+  },
+  {
+    "id": "e02p0218",
+    "speaker": "Alice",
+    "content": "So they decided to talk about it in the morning after a good night's rest. But no one could fall asleep that night.",
+    "readable": true,
+    "mark": [
+      "a good night's rest 好好睡一觉",
+      "all asleep 入睡 asleep adj.睡着的；麻木的，发麻的；"
+    ]
+  },
+  {
+    "id": "e02p0219",
+    "speaker": "Alice",
+    "content": "They each kept thinking of my suicide and how terribly alone I must have felt. ",
+    "readable": true,
+    "mark": [
+      "alone adj. 独自的（强调状态），做形容词的时候只能做表语，不能做前置定语",
+      "lonely adj. 孤独的（强调情绪）"
+    ]
+  },
+  {
+    "id": "e02p0220",
+    "speaker": "Alice",
+    "content": "You see, loneliness was something my friends understood all too well.",
+    "readable": true,
+    "mark": ["loneliness n. 孤独，寂寞", "understand all too well 太明白了"]
+  }
+]

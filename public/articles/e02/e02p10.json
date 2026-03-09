@@ -1,0 +1,87 @@
+[
+  {
+    "id": "e02p1001",
+    "speaker": "John",
+    "content": "Well, this is my room. Sorry about the mess.",
+    "readable": true,
+    "mark": ["mess n. 肮脏，杂乱"]
+  },
+  {
+    "id": "e02p1002",
+    "speaker": "Gabrielle",
+    "content": "Oh, don't worry about it.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1003",
+    "speaker": "John",
+    "content": "You just missed my mom. On Friday, she coaches my little sister's soccer team.",
+    "readable": true,
+    "mark": ["coach v. 训练，指导 n. 教练；私人教师；长途客车"]
+  },
+  {
+    "id": "e02p1004",
+    "speaker": "Gabrielle",
+    "content": "Yes, I heard that. John, we need to talk about what happened the other day.",
+    "readable": true,
+    "mark": ["the other day 前几天"]
+  },
+  {
+    "id": "e02p1005",
+    "speaker": "John",
+    "content": "Mr. Solis isn't starting to catch on, is he?",
+    "readable": true,
+    "mark": [
+      "He isn't starting to catch on, is he? 他还没明白过来，是吧？",
+      "catch on 理解，领会",
+      "否定：I’m not catching on.（我没明白）",
+      "肯定：I’m starting to catch on.（我开始懂了）"
+    ]
+  },
+  {
+    "id": "e02p1006",
+    "speaker": "Gabrielle",
+    "content": "No, he doesn't have a clue, god love him. It's just I was thinking that when you come over to garden, you might actually have to garden.",
+    "readable": true,
+    "mark": [
+      "clue n. 线索，提示；理解",
+      "He doesn't have a clue 他一无所知；他毫无头绪 I have no clue. 我一点头绪都没有",
+      "actually adv. 实际上，事实上",
+      "you might actually have to do sth 你可能实际上不得不做某事"
+    ]
+  },
+  {
+    "id": "e02p1007",
+    "speaker": "John",
+    "content": "Great, you're breaking up with me, in my own bedroom.",
+    "readable": true,
+    "mark": ["break up with 分手"]
+  },
+  {
+    "id": "e02p1008",
+    "speaker": "Gabrielle",
+    "content": "No, I'm not dumping you. Lately, you've been the only thing keeping me going. It's just we can't do it at my house anymore.",
+    "readable": true,
+    "mark": [
+      "dump  v. 丢弃，扔掉；乱堆，乱放；丢下，抛弃；分手，甩掉；倾销",
+      "lately adv. 近来，最近"
+    ]
+  },
+  {
+    "id": "e02p1009",
+    "speaker": "John",
+    "content": "Oh, so then, where do you want to do it?",
+    "readable": true,
+    "mark": ["so then 因此，接下来"]
+  },
+  {
+    "id": "e02p1010",
+    "speaker": "Gabrielle",
+    "content": "Well, what time does your mom get back from soccer practice? You better hurry, we don't have a lot of time.",
+    "readable": true,
+    "mark": [
+      "practice n. 实践，实际操作；通常的做法，惯例；练习； v. 练习，实践；"
+    ]
+  }
+]

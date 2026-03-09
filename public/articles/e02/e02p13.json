@@ -1,0 +1,172 @@
+[
+  {
+    "id": "e02p1301",
+    "speaker": "Susan",
+    "content": "Hey, you. What are we having?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1302",
+    "speaker": "Mike",
+    "content": "I talked to Julie and she suggested rib-eye steaks. She said that's your favorite.",
+    "readable": true,
+    "mark": [
+      "talked to sb 和某人交谈、谈话 tell sb sth 告诉某人（某事）",
+      "rib-eye steaks 肋眼牛排 steak n.肉排，（尤指）牛排；鱼排 rib n.肋骨；排骨"
+    ]
+  },
+  {
+    "id": "e02p1303",
+    "speaker": "Susan",
+    "content": "I love my steak.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1304",
+    "speaker": "Mike",
+    "content": "Eddie, Hey, I'm sorry about your house. How you holding up?",
+    "readable": true,
+    "mark": [
+      "How you holding up? 你还撑得住吗 hold up 支撑，支持，举起 完整的形式应该是 \"How are you holding up?\" 这里的 \"are\" 被省略了，但在口语中，这种省略是很常见的，尤其是在非正式的场合。"
+    ]
+  },
+  {
+    "id": "e02p1305",
+    "speaker": "Eddie",
+    "content": "All right, I guess. Oh, is somebody having a party?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1306",
+    "speaker": "Mike",
+    "content": "No, Susan's just throwing me one of her traditional welcome-to-the-neighborhood dinners. Only I'm cooking, and having it at my house.",
+    "readable": true,
+    "mark": [
+      "throw sb a dinner 为某人举办一场晚宴；设宴招待某人; 这里的“throw”是一个俚语，意思是“举办”或“准备”，通常用于非正式的场合。",
+      "at my house 人们更习惯用at来表达 在家（里做某事）这样的含义。"
+    ]
+  },
+  {
+    "id": "e02p1307",
+    "speaker": "Eddie",
+    "content": "Traditional? I didn't get one.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1308",
+    "speaker": "Susan",
+    "content": "Oh, it's sort of a new tradition.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1309",
+    "speaker": "Mike",
+    "content": "It won't be anything fancy. Just a little home cooking.",
+    "readable": true,
+    "mark": [
+      "fancy adj. 时髦的，奢华的；华丽的，花哨的；复杂的 v. 喜欢，想要",
+      "little 很少；几乎没有，带有否定的意味。",
+      "a little 一点儿；少量，表示肯定的意思"
+    ]
+  },
+  {
+    "id": "e02p1310",
+    "speaker": "Eddie",
+    "content": "That sounds so good. I've been having nothing but fast food lately.",
+    "readable": true,
+    "mark": ["nothing but 只有；仅仅；只不过"]
+  },
+  {
+    "id": "e02p1311",
+    "speaker": "Alice",
+    "content": "Susan suddenly had an awful feeling in the pit of her stomach. ",
+    "readable": true,
+    "mark": [
+      "in the pit of her stomach 在她的胃里 pit n.坑，洼；疤痕，凹陷 v. 使竞争，使对立；这个短语通常形容一种深深的不安或恐惧感，就像在胃里有一个坑一样。"
+    ]
+  },
+  {
+    "id": "e02p1312",
+    "speaker": "Alice",
+    "content": "As if she was watching an accident in slow motion. She knew it would happen, but was powerless to stop it.",
+    "readable": true,
+    "mark": ["as if 好像，仿佛", "in slow motion 以慢动作的方式"]
+  },
+  {
+    "id": "e02p1313",
+    "speaker": "Susan",
+    "content": "Eddie, would you like to join us for dinner?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1314",
+    "speaker": "Eddie",
+    "content": "Oh, that's so sweet. No, I don't want to intrude, three's a crowd.",
+    "readable": true,
+    "mark": ["intrude  v.闯入；打扰，侵扰；", "three's a crowd 三个人太多了"]
+  },
+  {
+    "id": "e02p1315",
+    "speaker": "Mike",
+    "content": "No, it's not like that. I mean, Susan's bringing Julie.",
+    "readable": true,
+    "mark": ["it's not like that 不是那样的；并非如此"]
+  },
+  {
+    "id": "e02p1316",
+    "speaker": "Susan",
+    "content": "It's not like that. The more the merrier.",
+    "readable": true,
+    "mark": [
+      "The more the merrier 越多越好，多多益善。通常用来表示欢迎更多的人参与某件事情 merry adj.<旧>愉快的，高兴的；<旧>令人愉快的"
+    ]
+  },
+  {
+    "id": "e02p1317",
+    "speaker": "Eddie",
+    "content": "Well, this will be fun.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1318",
+    "speaker": "Mike",
+    "content": "All right, tomorrow night. We'll eat at six.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1319",
+    "speaker": "Eddie",
+    "content": "Great. Oh, Susan, this will make up for the dinner that you never threw me.",
+    "readable": true,
+    "mark": ["make up for 弥补，补偿，抵消"]
+  },
+  {
+    "id": "e02p1320",
+    "speaker": "Mike",
+    "content": "Should I have told her we were having steak? She's not a vegetarian or something similar?",
+    "readable": true,
+    "mark": [
+      "Should I have told sb sth? 我本应该告诉某人某事吗？",
+      "vegetarian n. 素食者，素食主义者；食草动物 adj. 素食的，素的",
+      "or something similar或者类似的事物；或诸如此类的东西，常用于在列举事物后，补充说明还有其他与之类似的情况或事物。"
+    ]
+  },
+  {
+    "id": "e02p1321",
+    "speaker": "Susan",
+    "content": "Oh, no. Eddie's definitely a carnivore.",
+    "readable": true,
+    "mark": [
+      "definitely adv. 肯定地，当然；明确地，确定地",
+      "carnivore n. 食肉动物；喜欢吃肉的人，食肉动物"
+    ]
+  }
+]

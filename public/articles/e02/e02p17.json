@@ -1,0 +1,84 @@
+[
+  {
+    "id": "e02p1701",
+    "speaker": "Dr. Goldfine",
+    "content": "Bree, Rex just called. He won't be able to meet you here today, apparently, there was an emergency at the hospital.",
+    "readable": true,
+    "mark": [
+      "will be able to 将来能够、将来有能力做某事",
+      "emergency n. 突发事件，紧急情况；急诊病人"
+    ]
+  },
+  {
+    "id": "e02p1702",
+    "speaker": "Bree",
+    "content": "Oh, Well, I wish he'd called me.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1703",
+    "speaker": "Dr. Goldfine",
+    "content": "He suggested perhaps you'd like to meet with me by yourself? You've been very quiet in our joint sessions.",
+    "readable": true,
+    "mark": [
+      "perhaps adv. 可能；",
+      "would like to 想要或希望做某事",
+      "meet sb 更侧重于偶然相遇或普通的见面；",
+      "meet with sb 更强调有目的、正式的会面，或者表达遭遇某种情况。",
+      "joint adj. 联合的，共同的，共有的；连带的",
+      "session. （某项活动的）一段时间，一场；（议会等的）会议，（法庭的）开庭；学年，上课时间；in session 会议进行中：正在进行正式会议的过程。"
+    ]
+  },
+  {
+    "id": "e02p1704",
+    "speaker": "Bree",
+    "content": "What? No, thank you. I have some things that I need to do today.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1705",
+    "speaker": "Dr. Goldfine",
+    "content": "Are you sure?",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p1706",
+    "speaker": "Bree",
+    "content": "Yeah, I'm sure.",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p1707",
+    "speaker": "Dr. Goldfine",
+    "content": "OK.",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p1708",
+    "speaker": "Bree",
+    "content": "Dr. Goldfine, there is something you can do for me.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1709",
+    "speaker": "Dr. Goldfine",
+    "content": "What's that?",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p1710",
+    "speaker": "Bree",
+    "content": "Take off your coat.",
+    "readable": true,
+    "mark": [
+      "take off your coat 脱下你的外套 take off 脱下; 起飞; 脱离; 扣除; 模仿 coat n. 外套，大衣；"
+    ]
+  }
+]

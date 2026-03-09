@@ -1,0 +1,144 @@
+[
+  {
+    "id": "e02p1501",
+    "speaker": "Huber",
+    "content": "Susan, have you been able to find old clothes for Eddie? She has nothing to wear.",
+    "readable": true,
+    "mark": [
+      "have you been able to do sth for sb? 该句式强调从过去某个时间点到现在这段时间内，是否具备能力并完成了为他人做某事这一动作。"
+    ]
+  },
+  {
+    "id": "e02p1502",
+    "speaker": "Susan",
+    "content": "I thought that was the look she was going for.",
+    "readable": true,
+    "mark": ["be going for 追求，争取得到; 打算做某事"]
+  },
+  {
+    "id": "e02p1503",
+    "speaker": "Huber",
+    "content": "Oh, Susan, Eddie may be trash, but she is still a human being.",
+    "readable": true,
+    "mark": ["trash n. 垃圾，废物；", "human being 人类"]
+  },
+  {
+    "id": "e02p1504",
+    "speaker": "Susan",
+    "content": "Zach, is your dad home? I need to talk to him. Hi, Paul, I hope I'm not interrupting.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1505",
+    "speaker": "Paul",
+    "content": "Actually, I was getting ready to go somewhere.",
+    "readable": true,
+    "mark": [
+      "be getting ready to do sth 正在准备做某事",
+      "be ready to do sth 准备好做某事"
+    ]
+  },
+  {
+    "id": "e02p1506",
+    "speaker": "Susan",
+    "content": "I just wanted to come by and say hello. You know, see how you guys are doing.",
+    "readable": true,
+    "mark": [
+      "come by 顺便访问",
+      "see how you guys are doing 常见的英语表达，意思是“看看你们怎么样了”"
+    ]
+  },
+  {
+    "id": "e02p1507",
+    "speaker": "Paul",
+    "content": "We're trying to move on, it's been pretty tough.",
+    "readable": true,
+    "mark": [
+      "move on 继续前进",
+      "tough adj. 坚韧的，坚固的；困难的，棘手的；艰难的，困苦的，难熬的；"
+    ]
+  },
+  {
+    "id": "e02p1508",
+    "speaker": "Susan",
+    "content": "I can only imagine, not knowing why Mary Alice...",
+    "readable": true,
+    "mark": ["Not knowing 不知道, 现在分词短语作状语"]
+  },
+  {
+    "id": "e02p1509",
+    "speaker": "Paul",
+    "content": "Why what?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1510",
+    "speaker": "Susan",
+    "content": "Why she did it. Oh, let me help you.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1511",
+    "speaker": "Paul",
+    "content": "I got it. I've got it.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1512",
+    "speaker": "Susan",
+    "content": "I'm sorry if I upset you.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1513",
+    "speaker": "Paul",
+    "content": "Can I be frank?",
+    "readable": true,
+    "mark": [
+      "frank adj. 坦率的，直言不讳的；明白无误的，症状明显的",
+      "Can I be frank? 我能坦率地说吗？"
+    ]
+  },
+  {
+    "id": "e02p1514",
+    "speaker": "Susan",
+    "content": "Of course.",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p1515",
+    "speaker": "Paul",
+    "content": "I don't care what her reasons were. Maybe she was depressed, maybe she was bored, it doesn't matter.",
+    "readable": true,
+    "mark": [
+      "depress v. 使抑郁，使沮丧；降低，抑制；使萧条，使不景气；按下，压下"
+    ]
+  },
+  {
+    "id": "e02p1516",
+    "speaker": "Paul",
+    "content": "She abandoned her husband and her son, and I'll never forgive her.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1517",
+    "speaker": "Alice",
+    "content": "As I watched Susan, I couldn't help feeling sorry for her. She wanted so much to know why I did it, why I killed myself.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1518",
+    "speaker": "Alice",
+    "content": "It's not enough to want the truth, you must know where to look for it. And the truth is elusive, because it knows where to hide.",
+    "readable": true,
+    "mark": ["elusive adj. 难以理解的，难以记住的；难以发现的，难以捕获的"]
+  }
+]

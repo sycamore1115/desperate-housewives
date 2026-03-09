@@ -1,0 +1,147 @@
+[
+  {
+    "id": "e02p0901",
+    "speaker": "Lynette",
+    "content": "Boys! Guys, I'm begging you. Sit in your seats. I'm not gonna tell you again. Buckle up. I mean it, so help me... Oh, Crap!",
+    "readable": true,
+    "mark": [
+      "I'm begging you 我求求你",
+      "buckle up 系好安全带 buckle v. 发软；屈服；（使）弯曲；扣住 n. 搭扣",
+      "I mean it 我是认真的",
+      "so help me 我发誓；老天作证"
+    ]
+  },
+  {
+    "id": "e02p0902",
+    "speaker": "Police",
+    "content": "License and registration, please. Ma'am, you know why I pulled you over?",
+    "readable": true,
+    "mark": [
+      "License and registration 驾照和车辆登记证 License n. 执照，许可证；特许 registration n. 登记，注册，挂号；登记证，注册证；",
+      "Ma'am n. 女士；夫人，太太；小姐",
+      "pull over 靠边停车 pull you over 拦下你"
+    ]
+  },
+  {
+    "id": "e02p0903",
+    "speaker": "Lynette",
+    "content": "I have a theory.",
+    "readable": true,
+    "mark": ["I have a theory 我知道;我有一个推测 theory n.学说，理论"]
+  },
+  {
+    "id": "e02p0904",
+    "speaker": "Police",
+    "content": "The kids are jumping up and down, they should be sitting, wearing seat belts.",
+    "readable": true,
+    "mark": [
+      "jump up and down 上下跳跃",
+      "should be doing sth 应该正在做某事",
+      "seat belt 座椅安全带  belt n.腰带，皮带；传送带；地带",
+      "wear seat belt 戴安全带"
+    ]
+  },
+  {
+    "id": "e02p0905",
+    "speaker": "Lynette",
+    "content": "I yelled at them. They never listen to me. It's very frustrating.",
+    "readable": true,
+    "mark": [
+      "yell at 大声责骂，呵斥 yell v.叫喊，大喊",
+      "frustrate  v. 使懊恼，使沮丧；挫败，阻挠；受挫"
+    ]
+  },
+  {
+    "id": "e02p0906",
+    "speaker": "Police",
+    "content": "You’re gonna hafta find a way to control them. After all, that's your job.",
+    "readable": true,
+    "mark": ["hafta <主美口>=have to", "After all 毕竟"]
+  },
+  {
+    "id": "e02p0907",
+    "speaker": "Alice",
+    "content": "Though he'd been a policeman for six years, officer Hayes had never found himself in a truly dangerous situation.",
+    "readable": true,
+    "mark": [
+      "policeman n. 警察，警员",
+      "officer n. 军官；官员，高级职员；警察，警官；船长；"
+    ]
+  },
+  {
+    "id": "e02p0908",
+    "speaker": "Alice",
+    "content": "Then again, he had never before told a woman how to raise her children.",
+    "readable": true,
+    "mark": [
+      "Then again 另一方面；话说回来",
+      "raise v. 抚养，养育；提起，举起；饲养，种植；"
+    ]
+  },
+  {
+    "id": "e02p0909",
+    "speaker": "Lynette",
+    "content": "Are you saying I'm a bad mother?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0910",
+    "speaker": "Police",
+    "content": "Ma’am, you need to get back in your car please.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p0911",
+    "speaker": "Lynette",
+    "content": "I have no help. My husband's always away on business.",
+    "readable": true,
+    "mark": ["be away on business 因公出差；因公务外出"]
+  },
+  {
+    "id": "e02p0912",
+    "speaker": "Police",
+    "content": "I'm gonna have to ask you to step back now.",
+    "readable": true,
+    "mark": ["I’m gonna have to do sth 我将不得不做某事", "step back 退后"]
+  },
+  {
+    "id": "e02p0913",
+    "speaker": "Lynette",
+    "content": "My babysitter joined the witness relocation program.",
+    "readable": true,
+    "mark": [
+      "babysitter n. 临时保姆",
+      "witness relocation program 证人安置计划 witness 目击者；证人；relocation n. 重新安置；再布置；变换布置 program n. 程序；计划，规划；"
+    ]
+  },
+  {
+    "id": "e02p0914",
+    "speaker": "Lynette",
+    "content": "I haven't slept through the night in six years and for you to stand there and judge me.",
+    "readable": true,
+    "mark": [
+      "through the night 整夜地，通宵地",
+      "... and for you to do sth 作为句子的一部分，通常用于表达目的、结果或进一步的行为等，和前面的内容有逻辑上的承接关系。",
+      "judge v. 判断，认为；裁判，评判；估计 n. 法官，审判官；裁判员；鉴定人"
+    ]
+  },
+  {
+    "id": "e02p0915",
+    "speaker": "Police",
+    "content": "OK. I'm not gonna give you a ticket. I'm just gonna let you off with a warning.",
+    "readable": true,
+    "mark": [
+      "give you a ticket 给你开一张罚单；给你一张票",
+      "let sb off with sth 对某人从轻处罚；放过某人"
+    ]
+  },
+  {
+    "id": "e02p0916",
+    "speaker": "Lynette",
+    "content": "I accept your apology.",
+    "readable": true,
+    "mark": ["apology n. 道歉"]
+  }
+]
