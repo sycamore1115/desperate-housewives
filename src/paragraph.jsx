@@ -1,5 +1,5 @@
 import { useState } from "react";
-import URL from "./config";
+import URL from "../public/config";
 function Paragraph({ episode, id, content, speaker, readable, mark }) {
   const [showMark, setShowMark] = useState(false);
   function toggleMark(e, paragraphId) {

@@ -2,6 +2,6 @@
 const isDevelopment = process.env.NODE_ENV === "development";
 
 const URL = isDevelopment
-  ? "audios/"
+  ? "http://localhost:5173/audios/"
   : "https://championsea.oss-cn-shanghai.aliyuncs.com/phoeny/desperate_housewives/";
 export default URL;

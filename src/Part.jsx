@@ -1,10 +1,15 @@
 import { useState, useEffect } from "react";
-import Paragraph from "./paragraph";
-import URL from "./config";
-function Part({ episode = "02", part = "13" }) {
-  const jsonFilePath = `articles/e${episode}/e${episode}p${part}.json`;
-  const partId = `e${episode}p${part}`;
-  const audioFilePath = `e${episode}/${partId}s.mp3`;
+import { useParams, useSearchParams } from "react-router-dom";
+import Paragraph from "./Paragraph";
+import URL from "../public/config";
+
+function Part() {
+  const { eid, pid } = useParams();
+  const [searchParams, setSearchParams] = useSearchParams();
+  const title = searchParams.get("title");
+  const id = `${eid}${pid}`;
+  const jsonFilePath = `/articles/${eid}/${id}.json`;
+  const audioFilePath = `${eid}/${id}s.mp3`;
   // 定义状态存储 JSON 数据
   const [jsonData, setJsonData] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -22,13 +27,13 @@ function Part({ episode = "02", part = "13" }) {
         return response.json();
       })
       .then((data) => {
-        console.log(data);
         setJsonData(data); // 存储解析后的数据
-        setLoading(false); // 关闭加载状态
       })
       .catch((err) => {
         setError(err.message); // 捕获错误
-        setLoading(false); // 关闭加载状态
+      })
+      .finally(() => {
+        setLoading(false);
       });
   }, [jsonFilePath]); // 空依赖数组：仅组件挂载时执行一次
 
@@ -40,7 +45,7 @@ function Part({ episode = "02", part = "13" }) {
   return (
     <>
       <header className="header">
-        <h1 id={partId}>Mary Alice 出场</h1>
+        <h1>{title}</h1>
         <audio src={URL + audioFilePath} controls></audio>
       </header>
       <audio id="audioPlayer"></audio>
@@ -48,7 +53,7 @@ function Part({ episode = "02", part = "13" }) {
         {jsonData.map((paragraph) => (
           <Paragraph
             key={paragraph.id}
-            episode={`e${episode}`}
+            episode={eid}
             id={paragraph.id}
             content={paragraph.content}
             speaker={paragraph.speaker}
