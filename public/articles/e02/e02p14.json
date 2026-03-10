@@ -12,7 +12,7 @@
   {
     "id": "e02p1402",
     "speaker": "Huber",
-    "content": "don't worry about it. Eddie's a beggar now, which means she can't be a chooser. Of course, we don't have to add salt to the wound.",
+    "content": "Don't worry about it. Eddie's a beggar now, which means she can't be a chooser. Of course, we don't have to add salt to the wound.",
     "readable": true,
     "mark": [
       "beggar n. 乞丐，叫花子；",
@@ -43,34 +43,36 @@
     "speaker": "Lynette",
     "content": "Yeah, the boys were acting up in the car, I couldn't get them to sit down.",
     "readable": true,
-    "mark": ["get sb to do sth 让某人做某事；使某人做某事"]
+    "mark": [
+      "were acting up 口语连读成 wracking up /ˈrækɪŋ ʌp/ 这种感觉",
+      "get sb to do sth 让某人做某事；使某人做某事"
+    ]
   },
   {
     "id": "e02p1406",
     "speaker": "Huber",
     "content": "Young boys can be so willful.",
     "readable": true,
-    "mark": ["willful adj. 有意的；任性的；故意的"]
+    "mark": ["willful adj. 有意的；任性的；故意的（中性偏负面）"]
   },
   {
     "id": "e02p1407",
     "speaker": "Lynette",
     "content": "I try everything. I scream, I threaten, I reason, I beg, nothing works.",
     "readable": true,
-    "mark": [
-      "scream v. 尖叫；高声喊，大声叫；",
-      "perverse adj. 任性的，故意作对的；有悖常理的，反常的，不合人意的",
-      "joy n. 欢欣，高兴；使人高兴的人（或物），乐趣；成功，满足",
-      "get joy out of 固定搭配，意思是“从……中获得乐趣” out of 因为……而做某事",
-      "get...out of...  表示从…… 中获得……"
-    ]
+    "mark": ["scream v. 尖叫；高声喊，大声叫；"]
   },
   {
     "id": "e02p1408",
     "speaker": "Lynette",
     "content": "I don't know if it's because they're too young and they don't understand, or if they're just getting some perverse joy out of testing me.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "perverse adj. 任性的，故意作对的；有悖常理的，反常的，不合人意的（强烈贬义）",
+      "joy n. 欢欣，高兴；使人高兴的人（或物），乐趣；成功，满足",
+      "get joy out of 固定搭配，意思是“从……中获得乐趣” out of 因为……而做某事",
+      "get...out of...  表示从…… 中获得……"
+    ]
   },
   {
     "id": "e02p1409",
@@ -114,10 +116,7 @@
     "readable": true,
     "mark": [
       "discipline n/v. 纪律，风纪；惩罚；训导；训练，锻炼；科目，学科",
-      "creative adj. 创造（性）的，创作的；有创造力的，有想象力的",
-      "she's in a home now, and her mind has just turned to mush. 她现在住在养老院，她的思想变得一团糟。in a home 通常表示她现在在某个住所（可能是养老院、福利院等类似的机构场所，也可能只是普通的别人家或某个居住的地方）",
-      "turn to mush 变得软糊；引申为形容人的头脑等变得混乱糊涂",
-      "mush n. 感伤的话；浓粥；软块；胆怯"
+      "creative adj. 创造（性）的，创作的；有创造力的，有想象力的"
     ]
   },
   {
@@ -125,7 +124,11 @@
     "speaker": "Huber",
     "content": "Of course, she's in a home now, and her mind has just turned to mush.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "she's in a home now, and her mind has just turned to mush. 她现在住在养老院，她的思想变得一团糟。in a home 通常表示她现在在某个住所（可能是养老院、福利院等类似的机构场所，也可能只是普通的别人家或某个居住的地方）",
+      "turn to mush 变得软糊；引申为形容人的头脑等变得混乱糊涂",
+      "mush n. 感伤的话；浓粥；软块；胆怯"
+    ]
   },
   {
     "id": "e02p1415",
