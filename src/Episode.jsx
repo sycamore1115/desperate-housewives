@@ -1,10 +1,11 @@
 import { Link, useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
+import URL from "../public/config";
 
 function Episode() {
   const { eid } = useParams();
 
-  const jsonFilePath = `articles/${eid}/episode.json`;
+  const jsonFilePath = `${URL}/articles/${eid}/episode.json`;
   console.log(jsonFilePath);
 
   // 定义状态存储 JSON 数据

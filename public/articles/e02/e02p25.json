@@ -1,0 +1,195 @@
+[
+  {
+    "id": "e02p2501",
+    "speaker": "Mike",
+    "content": "Bongo, get down.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2502",
+    "speaker": "Eddie",
+    "content": "Wait, let me show you something.",
+    "readable": true,
+    "mark": ["let me show you something 让我给你看些东西"]
+  },
+  {
+    "id": "e02p2503",
+    "speaker": "Mike",
+    "content": "He loves that gravy.",
+    "readable": true,
+    "mark": [
+      "gravy n. 肉汁；不法利润；轻易得来的钱； 作为肉汁肉卤时是不可数名词"
+    ]
+  },
+  {
+    "id": "e02p2504",
+    "speaker": "Eddie",
+    "content": "Come, while you were in there tossing a salad, I taught him something.",
+    "readable": true,
+    "mark": [
+      "toss v. 扔，抛，掷；（使）摇摆，挥动，颠簸；搅拌（食物），拌匀",
+      "toss a salad 拌一份沙拉 salad 是可数名词",
+      "teach sb sth 教某人某事 -> taught -> taught"
+    ]
+  },
+  {
+    "id": "e02p2505",
+    "speaker": "Alice",
+    "content": "Susan was furious with Eddie for using a dog to ingratiate herself with its owner.",
+    "readable": true,
+    "mark": [
+      "furious adj. 狂怒的，暴怒的；狂暴的，猛烈的；喧闹的，热烈兴奋的",
+      "be furious with sb for doing sth 因某人做了某事而对其大发雷霆",
+      "ingratiate vt. 使迎合；使讨好；使逢迎",
+      "use sth to ingratiate oneself with sb 利用某物来讨好某人"
+    ]
+  },
+  {
+    "id": "e02p2506",
+    "speaker": "Alice",
+    "content": "She was also furious with Mike for not seeing through this blatant maneuver.",
+    "readable": true,
+    "mark": [
+      "see through 指能够透过看到背后的事物。",
+      "blatant adj. 喧嚣的；公然的；炫耀的；俗丽的",
+      "maneuver(美式) = manoeuvre(英式) n. 细致巧妙的移动，机动动作；策略，手段；军事演习",
+      "blatant maneuver用于描述那些不道德、不正当且毫不掩饰的行为策略"
+    ]
+  },
+  {
+    "id": "e02p2507",
+    "speaker": "Alice",
+    "content": "But mostly she was furious with herself for not having thought of it first.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2508",
+    "speaker": "Susan",
+    "content": "so, you know what? I'm gonna go get the desserts.",
+    "readable": true,
+    "mark": [
+      "go get sth 去拿某物，去取某物；两个动词连用更加简洁、直接，口语化"
+    ]
+  },
+  {
+    "id": "e02p2509",
+    "speaker": "Eddie",
+    "content": "You are such a smart boy!",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2510",
+    "speaker": "Mike",
+    "content": "I can barely get him to sit. I've never seen him walk on two legs.",
+    "readable": true,
+    "mark": [
+      "barely adv. 勉强才能；几乎不，几乎没有；刚刚；仅仅，只有；",
+      "I can barely get him to sit 我几乎没办法让他坐下。get sb. to do sth 强调通过某种努力、办法或手段去促使某人做某事",
+      "I can barely let him sit 我几乎不太愿意让他坐下。let sb. do sth. 更侧重于表达一种许可、准许的态度",
+      "have never done和haven't done虽然都表示没有做某事，但have never done 侧重于强调从来没有，而haven't done更注重说明当下事情的未完成状态。",
+      "see sb do sth 看见某人做某事"
+    ]
+  },
+  {
+    "id": "e02p2511",
+    "speaker": "Eddie",
+    "content": "He knows who to come to, doesn’t he?",
+    "readable": true,
+    "mark": ["come to sb 向某人求助；去找某人"]
+  },
+  {
+    "id": "e02p2512",
+    "speaker": "Susan",
+    "content": "Here's your dessert.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2513",
+    "speaker": "Eddie",
+    "content": "Thank you, Mike, this looks yummy.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2514",
+    "speaker": "Mike",
+    "content": "Oh, look at that, it’s like Bongo's finally warming up to Susan.",
+    "readable": true,
+    "mark": ["warm up to 逐渐接受或喜欢某人或某事物"]
+  },
+  {
+    "id": "e02p2515",
+    "speaker": "Susan",
+    "content": "Oh, we just got off on the wrong foot, we're best buddies now. Oh, what a good boy! Bongo, are you OK?",
+    "readable": true,
+    "mark": [
+      "get off on the wrong foot 一开始就做错；一开始就不顺利；出师不利",
+      "buddy n. 伙伴，好朋友",
+      "what a good boy! what引导的感叹句: What + (a/an) + 形容词 + 名词 (+ 主语 + 谓语)! == what a good boy (he is)!",
+      "可以转换为how引导的感叹句: How + (形容词 / 副词) + 主语 + 谓语！ == how good the boy is."
+    ]
+  },
+  {
+    "id": "e02p2516",
+    "speaker": "Eddie",
+    "content": "What's wrong with him?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2517",
+    "speaker": "Mike",
+    "content": "I don't know, I never heard him make that sound. Are you OK, fella?",
+    "readable": true,
+    "mark": ["fella n. 伙伴，伙计；小伙子"]
+  },
+  {
+    "id": "e02p2518",
+    "speaker": "Julie",
+    "content": "Mom? Where is your earring?",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p2519",
+    "speaker": "Mike",
+    "content": "Call the vet, the number's on the fridge, tell him I'll be right there.",
+    "readable": true,
+    "mark": ["vet n. 兽医", "fridge n. 冰箱", "I'll be right there. 我马上就到"]
+  },
+  {
+    "id": "e02p2520",
+    "speaker": "Eddie",
+    "content": "OK, don't worry about a thing. I'll stay here and get everything cleaned up.",
+    "readable": true,
+    "mark": [
+      "Don't worry about a thing 别担心任何事，什么都不用担心。== Don't worry about anything",
+      "get sth done 完成某事；使某事被做"
+    ]
+  },
+  {
+    "id": "e02p2521",
+    "speaker": "Mike",
+    "content": "Thanks, Eddie.",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p2522",
+    "speaker": "Susan",
+    "content": "Is there anything I can do?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2523",
+    "speaker": "Mike",
+    "content": "No.",
+    "readable": false,
+    "mark": null
+  }
+]

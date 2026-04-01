@@ -1,0 +1,113 @@
+[
+  {
+    "id": "e02p1801",
+    "speaker": "Gabrielle",
+    "content": "So now you're taking Julie on your dinner date with Mike?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1802",
+    "speaker": "Susan",
+    "content": "Yeah, Well, if Eddie is gonna be there, I'm gonna need emotional support.",
+    "readable": true,
+    "mark": ["emotional support 情感支持 emotional adj. 情感的，情绪的"]
+  },
+  {
+    "id": "e02p1803",
+    "speaker": "Gabrielle",
+    "content": "I can't believe she wormed her way in. How did you let her do that?",
+    "readable": true,
+    "mark": [
+      "worm one's way in 像虫子一样蜿蜒前行、蠕动着进入，常引申为慢慢地、巧妙地或不择手段地渗入、钻进、混入",
+      "worm n. 蠕虫；幼虫  v. 蠕动，曲折行进"
+    ]
+  },
+  {
+    "id": "e02p1804",
+    "speaker": "Susan",
+    "content": "I don't know, I was gonna take her out at the knees, but it all happened so fast.",
+    "readable": true,
+    "mark": [
+      "take sb out at the knees 从膝盖处把她弄倒; 用来表示（通过某种手段）使某人失去能力、削弱某人的优势、击败或挫败某人"
+    ]
+  },
+  {
+    "id": "e02p1805",
+    "speaker": "Gabrielle",
+    "content": "Well, you know what you need to do. You need to get there early, spend a little time with Mike before the little barracuda gets there.",
+    "readable": true,
+    "mark": [
+      "barracuda n. 梭鱼类，是一种凶猛的食肉鱼，以其攻击性和快速游动而闻名。"
+    ]
+  },
+  {
+    "id": "e02p1806",
+    "speaker": "Susan",
+    "content": "That's a good idea. Eddie will get there at 5:45, which means her breasts will arrive at 5:30, so I should shoot for 5:00.",
+    "readable": true,
+    "mark": [
+      "breast n. 胸部，胸脯；内心 v. 登上……的顶部；挺胸顶着……；迎……而上",
+      "shoot for 尽力去做某事 shoot v. 开（枪），射击",
+      "I should shoot for 5:00. 我应该争取5点到。"
+    ]
+  },
+  {
+    "id": "e02p1807",
+    "speaker": "Gabrielle",
+    "content": "That a girl. I'm just gonna take these upstairs.",
+    "readable": true,
+    "mark": [
+      "That a girl. 鼓励或赞扬女性的行为或成就。翻译为“好样的”或“这才是好女孩”",
+      "upstairs adv. 往楼上，在楼上；脑力上，精神上"
+    ]
+  },
+  {
+    "id": "e02p1808",
+    "speaker": "Susan",
+    "content": "I'm gonna keep my one little bag and go home. That is a beautiful rose, Where did you get it.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1809",
+    "speaker": "Gabrielle",
+    "content": "Oh, John gave it to me.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1810",
+    "speaker": "Susan",
+    "content": "John? Your gardener, he gave you a rose?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1811",
+    "speaker": "Gabrielle",
+    "content": "Yes, I am having some new bushes planted outside, and he gave me that as a color palette.",
+    "readable": true,
+    "mark": ["palette n. 调色板；选项板；一组音调，音色"]
+  },
+  {
+    "id": "e02p1812",
+    "speaker": "Susan",
+    "content": "Oh, OK, sure is beautiful, isn't it?",
+    "readable": true,
+    "mark": [
+      "sure is beautiful 确实很美。完整的句子It sure is beautiful,省略了主语it。",
+      "certainly是纯粹的副词，主要用来修饰动词、形容词、副词或整个句子， 放在句首、系动词前或形容词前等位置都比较常见。",
+      "It certainly is beautiful = It is certainly beautiful = Certainly it is beautiful",
+      "sure 既可以作形容词，也可以作副词。当它作副词时，常用来替代certainly等词加强语气，通常放在系动词之前。而放在be动词后面容易被理解为形容词，放在句首容易被理解成”当然”的意思，从而引起混淆和误解。",
+      "所以It sure is beautiful 确不能替换成另外两种写法。"
+    ]
+  },
+  {
+    "id": "e02p1813",
+    "speaker": "Gabrielle",
+    "content": "Yes, it is.",
+    "readable": false,
+    "mark": null
+  }
+]

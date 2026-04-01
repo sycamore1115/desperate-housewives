@@ -1,0 +1,185 @@
+[
+  {
+    "id": "e02p2601",
+    "speaker": "Susan",
+    "content": "How's Bongo doing?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2602",
+    "speaker": "Mike",
+    "content": "I'm waiting to see if they'll have to operate.",
+    "readable": true,
+    "mark": [
+      "I’m waiting to see ... 我正等着看……",
+      "operate v. 操纵，操作；开刀，动手术；"
+    ]
+  },
+  {
+    "id": "e02p2603",
+    "speaker": "Susan",
+    "content": "Oh, god. I stopped and I got this for... I'm just so sorry for this.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2604",
+    "speaker": "Mike",
+    "content": "I'm really sorry I snapped at you. I just...",
+    "readable": true,
+    "mark": [
+      "snap at sb 对人厉声说 snap v. 厉声说,怒气冲冲地说；断裂,绷断；突然失控"
+    ]
+  },
+  {
+    "id": "e02p2605",
+    "speaker": "Susan",
+    "content": "Oh, no, it's OK.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2606",
+    "speaker": "Vet",
+    "content": "Good news, we won't have to do surgery.",
+    "readable": true,
+    "mark": ["surgery n. 外科手术；do surgery ≈ operate"]
+  },
+  {
+    "id": "e02p2607",
+    "speaker": "Susan",
+    "content": "Oh, that's great.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2608",
+    "speaker": "Vet",
+    "content": "We've given Bongo something to help pass the earring. When he does, would you like us to retrieve it for you?",
+    "readable": true,
+    "mark": ["help do sth 帮助做某事 == help to do sth"]
+  },
+  {
+    "id": "e02p2609",
+    "speaker": "Susan",
+    "content": "I'm gonna say no.",
+    "readable": true,
+    "mark": ["I'm gonna say no. 我要说不；我打算拒绝"]
+  },
+  {
+    "id": "e02p2610",
+    "speaker": "Vet",
+    "content": "OK, you should be able to take him home in about an hour.",
+    "readable": true,
+    "mark": ["take sb home 带某人回家", "in about an hour 大约一小时后"]
+  },
+  {
+    "id": "e02p2611",
+    "speaker": "Susan",
+    "content": "Wow, You must be so relieved.",
+    "readable": true,
+    "mark": ["relieved adj. 放心的，宽慰的 relieve v. 缓解；减轻"]
+  },
+  {
+    "id": "e02p2612",
+    "speaker": "Mike",
+    "content": "I'm sorry, I was just really worried.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2613",
+    "speaker": "Susan",
+    "content": "It was your dog, I get it.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2614",
+    "speaker": "Mike",
+    "content": "Actually, he was my wife's dog, and one of the last things she said to me in the hospital before she died was to be sure I looked after him, and I promised her I would.",
+    "readable": true,
+    "mark": [
+      "one of the last things she said to me was to be sure I looked after him. 整个句子在描述过去的事，she said 和 looked要保持时态一致性。",
+      "be sure that... 确保……；务必……",
+      "look after sb 照顾、照料某人"
+    ]
+  },
+  {
+    "id": "e02p2615",
+    "speaker": "Alice",
+    "content": "And just like that, Susan could suddenly see something she'd never seen before. Mike Delfino was still in love with his late wife.",
+    "readable": true,
+    "mark": [
+      "be in love with sb 爱上某人；与某人相爱",
+      "late adj.已故的；晚期的，末期的；晚的，迟的；近日暮的，近深夜的"
+    ]
+  },
+  {
+    "id": "e02p2616",
+    "speaker": "Mike",
+    "content": "He meant so much to her. And if something had happened, I would've felt like I'd failed her. I know that sounds stupid, but...",
+    "readable": true,
+    "mark": [
+      "mean so much to sb 对某人来说意义重大；对某人非常重要",
+      "If something happened, I would feel that I failed her. 如果发生了什么事情，我会觉得我辜负了她",
+      "If something had happened, I would've felt like I had failed her. 要是当时发生了什么事情的话，我就会觉得我已经辜负了她",
+      "fail sb 让某人失望；有负于某人"
+    ]
+  },
+  {
+    "id": "e02p2617",
+    "speaker": "Alice",
+    "content": "And she knew right then neither she nor Eddie would be laying claim to his heart anytime soon.",
+    "readable": true,
+    "mark": [
+      "right then 就在那时；当时",
+      "neither nor 既不……也不……",
+      "would be doing 过去将来进行时，在过去的时间点看将来正在进行的动作",
+      "claim n/v. 声称，断言；索要，索赔",
+      "lay claim to... 宣称对…拥有权利；主张…是自己的 lay claim to his heart 宣称赢得他的芳心；声称占据他的感情",
+      "anytime soon 很快的任何时候；近期内：表示事情不会很快改善或发生。"
+    ]
+  },
+  {
+    "id": "e02p2618",
+    "speaker": "Alice",
+    "content": "So she decided, for now, she could settle for just being his friend.",
+    "readable": true,
+    "mark": [
+      "for now 目前；暂时",
+      "settle for sth 妥协接受某事物 settle v. 解决，结束；确定，决定；定居"
+    ]
+  },
+  {
+    "id": "e02p2619",
+    "speaker": "Susan",
+    "content": "No, it doesn't, not at all. This is for you, well, for Bongo, you give it to him.",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p2620",
+    "speaker": "Alice",
+    "content": "Yes, as I look back at the world I left behind, it's all so clear to me, the beauty that waits to be unveiled, the mysteries that long to be uncovered.",
+    "readable": true,
+    "mark": [
+      "look back at sth 回顾，回忆（某事）；回头看，再看（某物） look back at the world 回望这个世界；回首看世界",
+      "unveil v. （首次）公开，揭示；为…揭幕，揭去…上的覆盖物；除去面纱，显露",
+      "mystery n. 难以理解的事物，奥秘；神秘的人",
+      "uncover v. 揭露，发现；"
+    ]
+  },
+  {
+    "id": "e02p2621",
+    "speaker": "Alice",
+    "content": "But people so rarely stop to take a look, they just keep moving. It's a shame, really, There's so much to see.",
+    "readable": true,
+    "mark": [
+      "rarely adv. 罕有，很少；异乎寻常地，极度",
+      "stop to take a look 停下来看一眼",
+      "It's a shame 这是一件憾事 shame n. 令人惋惜的事；羞耻，羞愧；"
+    ]
+  }
+]

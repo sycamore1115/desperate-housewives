@@ -1,7 +1,30 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import URL from "../public/config";
 function Paragraph({ episode, id, content, speaker, readable, mark }) {
   const [showMark, setShowMark] = useState(false);
+  const [isPlaying, setIsPlaying] = useState(false);
+
+  const audioSrc = `${URL}/audios/${episode}/${id}.mp3`;
+
+  useEffect(() => {
+    const audioPlayer = document.getElementById("audioPlayer");
+    if (!audioPlayer) return;
+
+    const syncPlayState = () => {
+      const isCurrentParagraphAudio = audioPlayer.src.includes(audioSrc);
+      setIsPlaying(isCurrentParagraphAudio && !audioPlayer.paused);
+    };
+
+    audioPlayer.addEventListener("play", syncPlayState);
+    audioPlayer.addEventListener("pause", syncPlayState);
+    audioPlayer.addEventListener("ended", syncPlayState);
+
+    return () => {
+      audioPlayer.removeEventListener("play", syncPlayState);
+      audioPlayer.removeEventListener("pause", syncPlayState);
+      audioPlayer.removeEventListener("ended", syncPlayState);
+    };
+  }, [audioSrc]);
   function toggleMark(e, paragraphId) {
     // if (mark.length === 0) return;
     setShowMark(!showMark);
@@ -10,7 +33,6 @@ function Paragraph({ episode, id, content, speaker, readable, mark }) {
   function toggleAudio(e, paragraphId) {
     if (!readable) return;
     const audioPlayer = document.getElementById("audioPlayer");
-    const audioSrc = `${URL}${episode}/${id}.mp3`;
     if (audioPlayer.src.includes(audioSrc)) {
       if (audioPlayer.paused) {
         audioPlayer.play();
@@ -30,7 +52,7 @@ function Paragraph({ episode, id, content, speaker, readable, mark }) {
         onClick={(e) => toggleAudio(e, id)}
         style={readable ? { opacity: 1 } : { opacity: 0 }}
       >
-        ▶
+        {isPlaying ? "⏸" : "▶"}
       </button>
       <p className="en-line">{content}</p>
       {mark?.length > 0 && (

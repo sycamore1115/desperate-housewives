@@ -1,0 +1,145 @@
+[
+  {
+    "id": "e02p2401",
+    "speaker": "Mike",
+    "content": "Bongo! Get down! Down！I'm sorry. So who's the guy that lives across from Mrs. Huber again?",
+    "readable": true,
+    "mark": [
+      "live across from sb 住在某人的对面 live across the street 住在街对面"
+    ]
+  },
+  {
+    "id": "e02p2402",
+    "speaker": "Susan",
+    "content": "That's Mr. Mullen. And just so you know, if he invites you in, you have to meet all of his pets.",
+    "readable": true,
+    "mark": ["invite sb in 邀请某人进来"]
+  },
+  {
+    "id": "e02p2403",
+    "speaker": "Mike",
+    "content": "That's OK, I love animals.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2404",
+    "speaker": "Susan",
+    "content": "He is a taxidermist.",
+    "readable": true,
+    "mark": ["taxidermist n. 动物标本剥制者"]
+  },
+  {
+    "id": "e02p2405",
+    "speaker": "Mike",
+    "content": "Oh, OK, thanks for the warning.",
+    "readable": true,
+    "mark": ["thanks for the warning. 谢谢你的提醒。"]
+  },
+  {
+    "id": "e02p2406",
+    "speaker": "Eddie",
+    "content": "Isn't Mr. Mullen's brother your divorce attorney?",
+    "readable": true,
+    "mark": ["attorney n. 律师；代理人 = lawyer"]
+  },
+  {
+    "id": "e02p2407",
+    "speaker": "Susan",
+    "content": "Yes, he was.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2408",
+    "speaker": "Eddie",
+    "content": "Can I say something? In my heart, I still believe that you and Carl are gonna get back together.",
+    "readable": true,
+    "mark": ["get back together 复合"]
+  },
+  {
+    "id": "e02p2409",
+    "speaker": "Mike",
+    "content": "Really?",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p2410",
+    "speaker": "Eddie",
+    "content": "Oh, yeah. I've never seen two people more in love. I mean, she's never gonna find that kind of chemistry with another man, never.",
+    "readable": true,
+    "mark": [
+      "I've never seen two people more in love 我从未见过比他们更相爱的两个人",
+      "be never going to do sth 永远不，口语化，书面语中通常会用 will never do sth",
+      "chemistry n. 化学；化学成分，化学反应"
+    ]
+  },
+  {
+    "id": "e02p2411",
+    "speaker": "Alice",
+    "content": "It was everything Susan could do to keep a smile on her face, round two was under way, and she was already taking a beating.",
+    "readable": true,
+    "mark": [
+      "It was everything sb could do to do sth 这个句型强调某人做某事极为艰难，需要使出浑身解数才能做到",
+      "under way 进行中；已开始并进行着 underway 可以使用但不够规范",
+      "take a beating 遭受重创; 遭受挫折或损失"
+    ]
+  },
+  {
+    "id": "e02p2412",
+    "speaker": "Alice",
+    "content": "What Eddie hadn’t counted on was that Susan had someone else in her corner.",
+    "readable": true,
+    "mark": [
+      "What Eddie hadn't counted on was that Susan had someone else in her corner. 伊迪没有料到的是苏珊有人支持她。",
+      "表语从句：was 后面的整个句子作表语。引导表语从句的 that 一律不能省略。",
+      "count on sth 指望；依靠；依赖（某事物）",
+      "sb hadn't counted on sth 某人没有料到某事；某人未曾想到某事会发生",
+      "in sb's corner 支持某人；站在某人一边"
+    ]
+  },
+  {
+    "id": "e02p2413",
+    "speaker": "Julie",
+    "content": "You know what, Mrs. Britt, Do you know who I always liked? Mr. Rothwell, your fourth husband.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2414",
+    "speaker": "Eddie",
+    "content": "He was my second husband, I've only been married twice.",
+    "readable": true,
+    "mark": [
+      "be married to sb 与某人结婚，强调的是一种婚姻状态, be married 是一个表示婚姻状态的短语",
+      "marry sb 与某人结婚，强调的是结婚这个动作,不能用 marry to sb 来表达"
+    ]
+  },
+  {
+    "id": "e02p2415",
+    "speaker": "Julie",
+    "content": "Twice? You weren't married to the guy with all the tattoos that they took away in handcuffs?",
+    "readable": true,
+    "mark": [
+      "发音：weren't：əː → 饿 、won't：oʊ → 欧 、want：ɑː → 啊",
+      "tattoo n. 刺青，纹身",
+      "they took away in handcuffs \"they\" 是一个泛指，用来指代那些负责执法和维护治安的人。 take away 带走",
+      "handcuff n. 手铐 in handcuffs 戴着手铐"
+    ]
+  },
+  {
+    "id": "e02p2416",
+    "speaker": "Susan",
+    "content": "No, Julie, she wasn't married to Javier, that was just one of her special friends. ",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2417",
+    "speaker": "Susan",
+    "content": "I think we should change the subject. You know, unless you want to keep talking about it.",
+    "readable": true,
+    "mark": ["change the subject 转换话题"]
+  }
+]

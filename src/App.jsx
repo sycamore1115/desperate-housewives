@@ -2,7 +2,6 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Homepage from "./Home";
 import Episode from "./Episode";
 import Part from "./Part";
-// TODO 单页面应用是怎么做跳转的？
 function App() {
   return (
     <BrowserRouter>

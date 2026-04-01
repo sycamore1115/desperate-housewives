@@ -1,0 +1,209 @@
+[
+  {
+    "id": "e02p2001",
+    "speaker": "Lynette",
+    "content": "boys, I am not gonna tell you again, sit. I mean it, I am serious. You guys are gonna be in so much trouble if you don't sit back in those seats.",
+    "readable": true,
+    "mark": [
+      "I mean it 我是认真的",
+      "be in trouble 处于某种麻烦的状态中 get (into) trouble 招致、得到麻烦",
+      "sit back 坐回"
+    ]
+  },
+  {
+    "id": "e02p2002",
+    "speaker": "Alice",
+    "content": "For the first time, Lynette could see this was not the innocent play of children, she was being challenged. So she decided it was time to get creative.",
+    "readable": true,
+    "mark": [
+      "For the first time 第一次",
+      "innocent adj. 天真的，幼稚的；清白的，无罪的；",
+      "she was being challenged 过去进行时的被动语态",
+      "it was time to do sth. 是做某事的时候了，time表示时候；时机时是一种泛指的概念，不需要加the 来特指",
+      "get creative 发挥创造力，尝试新的想法或方法。"
+    ]
+  },
+  {
+    "id": "e02p2003",
+    "speaker": "Lynette",
+    "content": "Out! You can't behave? You heard me, you cannot ride. you, out, move it.",
+    "readable": true,
+    "mark": [
+      "你不听话是吧？我说得很清楚 —— 你就不能坐（这车）。",
+      "You can’t behave? 你不能守规矩 / 你不听话？",
+      "you heard me 我说得很清楚、你听见了（强调语气）"
+    ]
+  },
+  {
+    "id": "e02p2004",
+    "speaker": "Children",
+    "content": "Where is she going?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2005",
+    "speaker": "Lynette",
+    "content": "OK, mommy is a genius, five, six, all right. Uh, mommy will be right back.",
+    "readable": true,
+    "mark": ["genius n. 天赋，天资；天才"]
+  },
+  {
+    "id": "e02p2006",
+    "speaker": "Lynette",
+    "content": "Boys? If you're hiding, you've got to stop now, cause mommy doesn't think it's funny.",
+    "readable": true,
+    "mark": ["cause n. 原因；事业；理由 v. 引起 == because的口语化、非正式写法"]
+  },
+  {
+    "id": "e02p2007",
+    "speaker": "Lynette",
+    "content": "Oh, excuse me. I'm sorry, I'm looking for my boys, three boys with red hair, have you seen them?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2008",
+    "speaker": "Lady",
+    "content": "Yeah, I also saw you drive away and leave them.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2009",
+    "speaker": "Lynette",
+    "content": "I know，I was just trying to scare them into behaving, did you see where they went?",
+    "readable": true,
+    "mark": [
+      "scare sb. into doing sth. 吓唬某人使其做某事 scare sb into behaving  吓唬某人使其守规矩"
+    ]
+  },
+  {
+    "id": "e02p2010",
+    "speaker": "Lady",
+    "content": "Yeah, they're in my kitchen, listen, it seems to me that you have some anger management issues.",
+    "readable": true,
+    "mark": [
+      "it seems to me that...用于表达个人的观点和看法，在我看来……；我觉得……",
+      "it seems to be 后面一般接名词、形容词或不定式短语等，而不接that引导的从句",
+      "anger management 愤怒管理，情绪控制"
+    ]
+  },
+  {
+    "id": "e02p2011",
+    "speaker": "Lynette",
+    "content": "I have four kids under the age of six, I absolutely have anger management issues.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2012",
+    "speaker": "Lady",
+    "content": "I think you need to talk to somebody because abandoning your children.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2013",
+    "speaker": "Lynette",
+    "content": "I didn't abandon them, I came back.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2014",
+    "speaker": "Lady",
+    "content": "I'm just saying it's not normal.",
+    "readable": true,
+    "mark": [
+      "I'm just saying 我只是说一下：用于强调自己只是提供意见或建议，而不是要求别人采取行动或做出决定。"
+    ]
+  },
+  {
+    "id": "e02p2015",
+    "speaker": "Lynette",
+    "content": "Well. my kids aren't normal, and now I don't have time for this, lady. So, boys, get out here.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2016",
+    "speaker": "Lady",
+    "content": "I don't think they should go anywhere until you calm down.",
+    "readable": true,
+    "mark": ["calm down 冷静下来"]
+  },
+  {
+    "id": "e02p2017",
+    "speaker": "Lynette",
+    "content": "Get in the car.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2018",
+    "speaker": "Children",
+    "content": "She's got cookies.",
+    "readable": true,
+    "mark": ["She's got cookies.她有饼干have got在口语中很常用，表示拥有==have"]
+  },
+  {
+    "id": "e02p2019",
+    "speaker": "Lynette",
+    "content": "Well, bring them, we're leaving.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2020",
+    "speaker": "Lady",
+    "content": "No, stay put.",
+    "readable": true,
+    "mark": ["stay put 不动；待在原地"]
+  },
+  {
+    "id": "e02p2021",
+    "speaker": "Lynette",
+    "content": "Oh, I don't think so.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2022",
+    "speaker": "Lady",
+    "content": "Listen, lady, you and I are gonna talk.",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p2023",
+    "speaker": "Children",
+    "content": "Leave my mommy alone.",
+    "readable": false,
+    "mark": ["leave sb alone 不要打扰某人：不去干扰、改变或触碰某人。"]
+  },
+  {
+    "id": "e02p2024",
+    "speaker": "Lynette",
+    "content": "Let go of me. What's the matter with you? Run, boys, run! Come on! Oh, crap.",
+    "readable": true,
+    "mark": [
+      "let go of me 放开我，松手",
+      "What's the matter with you? 你怎么了？==what’s wrong with you?"
+    ]
+  },
+  {
+    "id": "e02p2025",
+    "speaker": "Lynette",
+    "content": "Boys, you're gonna need to put on your...",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p2026",
+    "speaker": "Lady",
+    "content": "You get back here. Get back or I'm gonna call social services.",
+    "readable": true,
+    "mark": ["social services 社会服务"]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "e02p2301",
+    "speaker": "Rex",
+    "content": "Look, all I'm saying is that this whole it takes two to mess up a marriage theory is bull, the problems that we have are because of her.",
+    "readable": true,
+    "mark": [
+      "all I'm saying is that... 我所说的全部就是……；我只是想说……",
+      "it takes two to... 表示…是双方的事；双方都有责任",
+      "mess up 弄糟；破坏；搞砸 mess n. 肮脏，杂乱 v. 弄脏，弄乱；",
+      "bull n. 公牛；废话，胡说八道；靶心",
+      "this whole it takes two to mess up a marriage theory is bull == this whole theory that it takes two to mess up a marriage is bull."
+    ]
+  },
+  {
+    "id": "e02p2302",
+    "speaker": "Bree",
+    "content": "That is not true, Rex.",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2303",
+    "speaker": "Rex",
+    "content": "All right, fine. What I have been doing for the past 20 years has been so awful?",
+    "readable": true,
+    "mark": [
+      "What I have been doing ... 是what引导的主语从句",
+      "have been doing 现在完成进行时 What have you been doing these days? 你这些天一直在做什么？I’ve been working.",
+      "for the past 20 years 在过去的 20 年里"
+    ]
+  },
+  {
+    "id": "e02p2304",
+    "speaker": "Rex",
+    "content": "You're not saying anything because I've been a great husband, and it kills you to admit that.",
+    "readable": true,
+    "mark": [
+      "It kills sb to admit sth 让某人承认某事真的很难受（或很痛苦、很煎熬）"
+    ]
+  },
+  {
+    "id": "e02p2305",
+    "speaker": "Dr. Goldfine",
+    "content": "Rex, I'm curious, do you ever acknowledge the benefits of living with Bree?",
+    "readable": true,
+    "mark": [
+      "curious adj. 好奇的，求知欲强的；稀奇的，不寻常的；爱挑剔的",
+      "acknowledge v. 承认；认可； 跟……打招呼，理会；告知收到；（公开）感谢",
+      "the benefits of sth 某事 / 某物的益处、好处"
+    ]
+  },
+  {
+    "id": "e02p2306",
+    "speaker": "Dr. Goldfine",
+    "content": "By your own admission, your home's always clean, your clothes are always freshly pressed, she sounds like a wonderful cook.",
+    "readable": true,
+    "mark": [
+      "By your own admission 据你自己所说 admission n. 承认，供认",
+      "freshly adv. 新近；精神饱满地 pressed adj. （时间、资金等）紧缺的；压平的，压扁的 freshly pressed  刚压榨的；刚熨烫的"
+    ]
+  },
+  {
+    "id": "e02p2307",
+    "speaker": "Dr. Goldfine",
+    "content": "Despite her flaws, do you ever remember to say thank you?",
+    "readable": true,
+    "mark": [
+      "despite prep. 尽管，即使；不由自主地，忍不住地",
+      "flaw n. 缺点，缺陷；裂痕，瑕疵 v. 削弱，使失效"
+    ]
+  }
+]

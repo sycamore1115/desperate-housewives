@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { useParams, useSearchParams } from "react-router-dom";
-import Paragraph from "./Paragraph1";
+import Paragraph from "./Paragraph";
 import URL from "../public/config";
 
 function Part() {
@@ -8,8 +8,8 @@ function Part() {
   const [searchParams, setSearchParams] = useSearchParams();
   const title = searchParams.get("title");
   const id = `${eid}${pid}`;
-  const jsonFilePath = `/articles/${eid}/${id}.json`;
-  const audioFilePath = `${eid}/${id}s.mp3`;
+  const jsonFilePath = `${URL}/articles/${eid}/${id}.json`;
+  const audioFilePath = `${URL}/audios/${eid}/${id}s.mp3`;
   // 定义状态存储 JSON 数据
   const [jsonData, setJsonData] = useState(null);
   const [loading, setLoading] = useState(true);
@@ -46,7 +46,7 @@ function Part() {
     <>
       <header className="header">
         <h1>{title}</h1>
-        <audio src={URL + audioFilePath} controls></audio>
+        <audio src={audioFilePath} controls></audio>
       </header>
       <audio id="audioPlayer"></audio>
       <div className="container">

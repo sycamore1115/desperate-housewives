@@ -1,0 +1,66 @@
+[
+  {
+    "id": "e02p2201",
+    "speaker": "Susan",
+    "content": "I hope you don't mind, I thought I'd come by early and help you set up.",
+    "readable": true,
+    "mark": ["set up 筹备；建立，设立；安装"]
+  },
+  {
+    "id": "e02p2202",
+    "speaker": "Eddie",
+    "content": "Hey, Susan, don't worry, Mike and I have got everything under control.",
+    "readable": true,
+    "mark": ["under control 处于控制之下；情况正常"]
+  },
+  {
+    "id": "e02p2203",
+    "speaker": "Mike",
+    "content": "Bongo! I don't know why he barks at you.",
+    "readable": true,
+    "mark": ["bark v. 大声嚷，吼叫；n. 狗叫声，吠声； bark at 对……吠叫"]
+  },
+  {
+    "id": "e02p2204",
+    "speaker": "Eddie",
+    "content": "I wouldn't take it personally, dogs are very sensitive.",
+    "readable": true,
+    "mark": [
+      "I wouldn't take it personally 我不会为此而往心里去的。",
+      "sensitive adj. 过敏的，易受影响的；灵敏的；善解人意的，体恤的；敏感的"
+    ]
+  },
+  {
+    "id": "e02p2205",
+    "speaker": "Eddie",
+    "content": "What's up, Bongo? You never know what freaks them out, huh?",
+    "readable": true,
+    "mark": [
+      "freak n. 怪人，怪胎；怪异的事 v. <非正式>（使）吃惊，不安，恼怒 freak out 惊慌失措, 失去理智"
+    ]
+  },
+  {
+    "id": "e02p2206",
+    "speaker": "Alice",
+    "content": "In the distance, Susan thought she heard a bell ring.",
+    "readable": true,
+    "mark": [
+      "In the distance 在远处 distance n. 远处；疏远，隔阂；差距；进展；距离 v. 疏远，远离",
+      "bell n. 钟，铃；钟声，铃声"
+    ]
+  },
+  {
+    "id": "e02p2207",
+    "speaker": "Eddie",
+    "content": "Is it a strange noise? What is it? A weird smell?",
+    "readable": true,
+    "mark": ["noise n. 噪音，嘈杂声；声音，响声；"]
+  },
+  {
+    "id": "e02p2208",
+    "speaker": "Alice",
+    "content": "Round one had started.",
+    "readable": true,
+    "mark": ["Round one 第一轮或第一阶段"]
+  }
+]

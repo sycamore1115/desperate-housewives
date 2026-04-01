@@ -1,0 +1,88 @@
+[
+  {
+    "id": "e02p2101",
+    "speaker": "Gabrielle",
+    "content": "Oh my god, Carlos, what have you done?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p2102",
+    "speaker": "Carlos",
+    "content": "I saw it when I drove by dealership, I thought Gabrielle would look so beautiful in this. Cost me an arm and a leg.",
+    "readable": true,
+    "mark": [
+      "dealership n. 特许经销商（店）（尤指汽车经销商）",
+      "Cost me an arm and a leg. 这可花了我一大笔钱。用于形容某物价格极其昂贵。"
+    ]
+  },
+  {
+    "id": "e02p2103",
+    "speaker": "Carlos",
+    "content": "It's got GPS navigation, 200 watt stereo system, rear parking sensors.",
+    "readable": true,
+    "mark": [
+      "It’s got ... == It has got.. 强调某物处于某种状态或具有某种特性",
+      "GPS navigation gps导航",
+      "watt n. 瓦，瓦特（电功率单位）",
+      "stereo n. 立体声；立体声音响设备 stereo system 立体声音响系统",
+      "rear n. 后部，背部 adj. 后方的，背部的 v. 养育，饲养；栽种；adv. 在后面",
+      "sensor n. （探测光、热、压力等的）传感器，敏感元件，探测设备",
+      "rear parking sensors 倒车雷达或泊车辅助系统"
+    ]
+  },
+  {
+    "id": "e02p2104",
+    "speaker": "Gabrielle",
+    "content": "God, it's beautiful.",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p2105",
+    "speaker": "Carlos",
+    "content": "So did I take your breath away?",
+    "readable": true,
+    "mark": [
+      "take your breath away 形容某事或某人非常令人惊叹、震撼或感动，以至于让人无法呼吸。"
+    ]
+  },
+  {
+    "id": "e02p2106",
+    "speaker": "Gabrielle",
+    "content": "Absolutely.",
+    "readable": false,
+    "mark": null
+  },
+  {
+    "id": "e02p2107",
+    "speaker": "Carlos",
+    "content": "Is it the best gift you've ever gotten?",
+    "readable": true,
+    "mark": [
+      "got 和 gotten 都是 get 的过去分词形式, gotten主要用于美式英语,更强调动作的过程和变化"
+    ]
+  },
+  {
+    "id": "e02p2108",
+    "speaker": "Alice",
+    "content": "Gabrielle could see what this gesture had cost Carlos, so she responded the only way she knew how.",
+    "readable": true,
+    "mark": [
+      "Gabrielle could see what this gesture had cost Carlos. == Gabrielle could see that this gesture had cost Carlos a lot of money. 第二句更具体地指出了cost的 是很多钱",
+      "gesture n. 手势，姿势；姿态，表示 V. 打手势，用动作示意",
+      "she responded the only way she knew how.  how是一个连接副词，引导一个宾语从句，作动词knew的宾语。how (to respond)"
+    ]
+  },
+  {
+    "id": "e02p2109",
+    "speaker": "Alice",
+    "content": "She had a feeling the truth would've been lost on her husband anyway. After all, it's the rare man who understands the value of a single perfect rose.",
+    "readable": true,
+    "mark": [
+      "be lost on sb 未被某人理解；对某人不起作用",
+      "rare adj.少见的，不常发生的；稀罕的 the rare man 这样少有的、不寻常的人",
+      "it's the rare man who ... 是一个强调句型, 很少有人..."
+    ]
+  }
+]

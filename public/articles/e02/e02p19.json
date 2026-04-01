@@ -1,0 +1,100 @@
+[
+  {
+    "id": "e02p1901",
+    "speaker": "Dr. Goldfine",
+    "content": "I'm sure Freud would not approve of this.",
+    "readable": true,
+    "mark": [
+      "approve of 赞成、支持或认可某人或某事物 approve v. 同意，赞成；批准，通过；核准；喜欢，赞赏；approve作赞成；同意；认可讲时，是不及物动词，后面若要接宾语，需要搭配介词of，即approve of sth./sb.赞成某事 / 认可某人。只有当approve作批准；通过讲时，才是及物动词，可以直接接宾语。"
+    ]
+  },
+  {
+    "id": "e02p1902",
+    "speaker": "Bree",
+    "content": "Oh, who cares what he thinks? I took psychology in college, we learned all about Freud, a miserable human being.",
+    "readable": true,
+    "mark": [
+      "psychology n. 心理学；心理特点 take psychology修心理学；学习心理学",
+      "miserable adj. 痛苦的，使人难受的；糟糕的，差劲的"
+    ]
+  },
+  {
+    "id": "e02p1903",
+    "speaker": "Dr. Goldfine",
+    "content": "What makes you say that?",
+    "readable": true,
+    "mark": null
+  },
+  {
+    "id": "e02p1904",
+    "speaker": "Bree",
+    "content": "Well, think about it, he grew up in the late 1800s, there were no appliances back then.",
+    "readable": true,
+    "mark": [
+      "grow up 长大",
+      "late 1800s 十九世纪晚期  1800s(eighteen hundreds) 在英语中，\"1800s\" 和 \"1800's\" 这两种写法都是正确的，它们都用来表示19世纪。",
+      "appliance n. 家用电器，装置",
+      "back then 当时：指过去的某个时间点或时期。"
+    ]
+  },
+  {
+    "id": "e02p1905",
+    "speaker": "Bree",
+    "content": "His mother had to do everything by hand, just backbreaking work from sunup to sundown, not to mention the countless other sacrifices she probably had to make to take care of her family.",
+    "readable": true,
+    "mark": [
+      "just backbreaking work from sunup to sundown 在正式写作中可以写成 and it was just backbreaking work from sunup to sundown，逻辑更清晰, it指代前面母亲手工做所有事情这件事",
+      "backbreaking adj. 非常辛劳的；费力的",
+      "from sunup to sundown 从早到晚",
+      "countless adj. 无数的，数不尽的",
+      "sacrifice n. 牺牲，献出；献祭，供奉；祭牲"
+    ]
+  },
+  {
+    "id": "e02p1906",
+    "speaker": "Bree",
+    "content": "And what does he do? He grows up and becomes famous, peddling a theory that the problems of most adults can be traced back to something awful their mother had done.",
+    "readable": true,
+    "mark": [
+      "peddle v. 宣传，散布（思想或消息）；挨户销售，巡回销售；贩卖（非法毒品，偷窃的赃物）；忙于琐事",
+      "theory n. 学说，理论；（某一学科基于的）理论，原理；观点，见解",
+      "trace back 追溯：追寻某事物的起源或历史。回溯：回顾过去的事件或经历。",
+      "be traced back to sth 追溯到某事 / 某物",
+      "grew up使用一般过去时是在描述他过去的经历，是一个已经发生在过去的动作，用一般过去时来明确动作发生的时间背景。",
+      "grows up and becomes这里使用一般现在时是一种以现在的视角来陈述一个一般性的、具有某种规律性或客观性的事实。"
+    ]
+  },
+  {
+    "id": "e02p1907",
+    "speaker": "Bree",
+    "content": "She must've felt so betrayed. He saw how hard she worked, he saw what she did for him, did he even ever think to say thank you? I doubt it.",
+    "readable": true,
+    "mark": ["must have done 对过去情况的肯定推测:一定做过某事；想必做过某事"]
+  },
+  {
+    "id": "e02p1908",
+    "speaker": "Bree",
+    "content": "There you go.",
+    "readable": true,
+    "mark": ["there you go 给你"]
+  },
+  {
+    "id": "e02p1909",
+    "speaker": "Dr. Goldfine",
+    "content": "Just so you know, many of Freud's theories have been discredited.",
+    "readable": true,
+    "mark": [
+      "just so you know 只是想让你知道；顺便告诉你",
+      "many of + 限定词（如 the、物主代词、名词所有格等）+ 复数名词 是一个常用结构，表示 … 中的许多。many theories泛指很多理论，many of the theories 则是指特定范围内的很多理论。",
+      "discredit vt. 不信；使……丢脸 n. 怀疑；无信用；名声的败坏 credit n. 信用，信贷，赊购；赞扬，信誉，声望；v. 相信，信任",
+      "be discredited 被怀疑；被认为不可信；名誉扫地；失去信誉"
+    ]
+  },
+  {
+    "id": "e02p1910",
+    "speaker": "Bree",
+    "content": "Good.",
+    "readable": false,
+    "mark": null
+  }
+]
