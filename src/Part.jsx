@@ -14,6 +14,7 @@ function Part() {
   const [jsonData, setJsonData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [mode, setMode] = useState("read");
 
   // 异步读取 public/articles 中的 JSON 文件
   useEffect(() => {
@@ -46,7 +47,21 @@ function Part() {
     <>
       <header className="header">
         <h1>{title}</h1>
-        <audio src={audioFilePath} controls></audio>
+        <div className="subtitle">
+          <audio src={audioFilePath} controls></audio>
+          <div
+            className={`modeBtn ${mode === "read" ? "modeActive" : ""}`}
+            onClick={() => setMode("read")}
+          >
+            阅读
+          </div>
+          <div
+            className={`modeBtn ${mode === "write" ? "modeActive" : ""}`}
+            onClick={() => setMode("write")}
+          >
+            听写
+          </div>
+        </div>
       </header>
       <audio id="audioPlayer"></audio>
       <div className="container">
@@ -59,6 +74,7 @@ function Part() {
             speaker={paragraph.speaker}
             readable={paragraph.readable}
             mark={paragraph.mark}
+            mode={mode}
           />
         ))}
       </div>

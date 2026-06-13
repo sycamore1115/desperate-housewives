@@ -81,6 +81,25 @@ body {
   font-size: 15px;
   opacity: 0.8;
 }
+.header .subtitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header .modeBtn {
+  cursor: pointer;
+  margin-left: 20px;
+  padding: 5px 20px;
+  background: #fff;
+  border-radius: 20px;
+}
+.header .modeActive {
+  background: antiquewhite;
+}
+
+.audio-icon {
+  margin-right: 8px;
+}
 
 /* 主体容器：居中，控制宽度 */
 .container {
@@ -137,6 +156,10 @@ body {
   line-height: 1.6;
 }
 
+.en-line-blur {
+  filter: blur(4px);
+}
+
 .cn-line {
   font-size: 16px;
   color: #666;
@@ -172,6 +195,10 @@ body {
 
   .en-line {
     font-size: 16px;
+  }
+
+  .en-line-blur {
+    filter: blur(4px);
   }
 
   .cn-line {

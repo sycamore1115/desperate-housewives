@@ -1,8 +1,10 @@
 import { useEffect, useState } from "react";
 import URL from "../public/config";
-function Paragraph({ episode, id, content, speaker, readable, mark }) {
+import { use } from "react";
+function Paragraph({ episode, id, content, speaker, readable, mark, mode }) {
   const [showMark, setShowMark] = useState(false);
   const [isPlaying, setIsPlaying] = useState(false);
+  const [isBlur, setIsBlur] = useState(mode === "write");
 
   const audioSrc = `${URL}/audios/${episode}/${id}.mp3`;
 
@@ -25,6 +27,10 @@ function Paragraph({ episode, id, content, speaker, readable, mark }) {
       audioPlayer.removeEventListener("ended", syncPlayState);
     };
   }, [audioSrc]);
+
+  useEffect(() => {
+    setIsBlur(mode === "write");
+  }, [mode]);
   function toggleMark(e, paragraphId) {
     // if (mark.length === 0) return;
     setShowMark(!showMark);
@@ -54,7 +60,12 @@ function Paragraph({ episode, id, content, speaker, readable, mark }) {
       >
         {isPlaying ? "⏸" : "▶"}
       </button>
-      <p className="en-line">{content}</p>
+      <p
+        className={`en-line ${isBlur ? "en-line-blur" : ""}`}
+        onClick={() => setIsBlur(!isBlur)}
+      >
+        {content}
+      </p>
       {mark?.length > 0 && (
         <div onClick={(e) => toggleMark(e, id)} className="more">
           👇
