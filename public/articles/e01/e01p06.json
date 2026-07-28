@@ -9,7 +9,7 @@
   {
     "id": "e01p0602",
     "speaker": "Susan",
-    "content": "You'll love this. He said \"It doesn't mean anything, It was just sex.\"",
+    "content": "You'll love this. He said \"It doesn't mean anything, it was just sex.\"",
     "readable": true,
     "mark": []
   },
@@ -23,7 +23,7 @@
   {
     "id": "e01p0604",
     "speaker": "Susan",
-    "content": "Yeah, and then he got this Zen look on his face, and he said, \"you know, Susan, most men live lives of quiet desperation.\"",
+    "content": "Yeah, and then he got this Zen look on his face, and he said, \"You know, Susan, most men live lives of quiet desperation.\"",
     "readable": true,
     "mark": ["zen look 禅意造型：一种简约、自然、平静的外表造型  zen 禅；禅宗"]
   },
@@ -64,7 +64,7 @@
   {
     "id": "e01p0609",
     "speaker": "Gabrielle",
-    "content": "It's like my grandmother always said an erect penis doesn't have a conscience.",
+    "content": "It's like my grandmother always said, an erect penis doesn't have a conscience.",
     "readable": true,
     "mark": [
       "conscience 良知，良心；内疚，愧疚 have a conscience. 有良知；有良心"
@@ -90,7 +90,7 @@
   {
     "id": "e01p0612",
     "speaker": "Bree",
-    "content": "Well, when Rex started going to those medical conferences, I want it in the back of his mind that he has a loving wife at home with a loaded Smith & Wesson.",
+    "content": "Well, when Rex started going to those medical conferences, I wanted it in the back of his mind that he had a loving wife at home with a loaded Smith & Wesson.",
     "readable": true,
     "mark": [
       "conference （大型、正式的）会议，研讨会；（小型正式的）商讨，讨论；体育协会（或联合会）",
@@ -110,7 +110,10 @@
     "speaker": "Lynette",
     "content": "Oh, please, the man's got me pregnant 3 times in 4 years. I wish he was having sex with someone else.",
     "readable": true,
-    "mark": ["get sb. + adj. 使某人处于某种状态"]
+    "mark": [
+      "get sb. + adj. 使某人处于某种状态",
+      "I wish he were having ~ 是虚拟语气，美式口语可以这么表达，但标准写法是 I wish he were having ~ "
+    ]
   },
   {
     "id": "e01p0615",
@@ -129,7 +132,7 @@
   {
     "id": "e01p0617",
     "speaker": "Alice",
-    "content": "Listen to me, We all have moments of desperation.",
+    "content": "Listen to me, we all have moments of desperation.",
     "readable": true,
     "mark": []
   },

@@ -1,24 +1,24 @@
 [
   {
     "id": "e01p1801",
-    "speaker": "Narrator",
+    "speaker": "Alice",
     "content": "The sound that awakened my son was something he'd heard only once before. Many years ago when he was quite young.",
     "readable": true,
     "mark": [
-      "awakened awaken 的过去式及过去分词 vt. 唤醒；唤起；使……意识到  vi. 觉醒；醒来；意识到 = woke wake的过去式及过去分词"
+      "awakened awaken 的过去式及过去分词 vt. 唤醒；唤起；使……意识到  vi. 觉醒；醒来；意识到(偏书面) = woke wake的过去式及过去分词(偏口语)"
     ]
   },
   {
     "id": "e01p1802",
-    "speaker": "Narrator",
+    "speaker": "Alice",
     "content": "But he recognized it instantly. It was the sound of a family secret.",
     "readable": true,
     "mark": ["instantly adv. 立刻，马上"]
   },
   {
     "id": "e01p1803",
-    "speaker": "Narrator",
-    "content": "7 days after my funeral, life on Wisteria Lane finally returned to normal, Which, for some of my friends, was unfortunate.",
+    "speaker": "Alice",
+    "content": "7 days after my funeral, life on Wisteria Lane finally returned to normal, which, for some of my friends, was unfortunate.",
     "readable": true,
     "mark": [
       "unfortunate adj. 不幸的；令人遗憾的；不成功的",
@@ -110,7 +110,9 @@
     "speaker": "Tom",
     "content": "Get out! Who's open? Go out. Deeper. Deeper. Touchdown!",
     "readable": true,
-    "mark": ["Deeper. Deeper. Touchdown! 远点.远点!接着! touchdown: 降落, 着陆"]
+    "mark": [
+      "Deeper. Deeper. Touchdown! 远点.远点!接着! touchdown: 达阵得分，降落, 着陆"
+    ]
   },
   {
     "id": "e01p1815",
@@ -134,7 +136,10 @@
     "speaker": "Lynette",
     "content": "Well, is it okay if I just lie here?",
     "readable": true,
-    "mark": ["is it ok if I do sth 我做…… 可以吗？ 用于礼貌地征求对方的意见"]
+    "mark": [
+      "is it ok if I do sth 我做…… 可以吗？ 用于礼貌地征求对方的意见",
+      "lie ->lay -> lain 躺；平放；位于 lie ->lied -> lied 说谎"
+    ]
   },
   {
     "id": "e01p1818",

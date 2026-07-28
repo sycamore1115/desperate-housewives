@@ -2,10 +2,10 @@
   {
     "id": "e01p0301",
     "speaker": "Alice",
-    "content": "Gabrielle Solis who lives down the block brought a spicy paella.",
+    "content": "Gabrielle Solis, who lives down the block, brought a spicy paella.",
     "readable": true,
     "mark": [
-      "block 大块，一块；街区；大楼 down the block 在街区的尽头",
+      "block 大块，一块；街区；大楼 down the block 沿着这条街往那头、街那头",
       "paella （西班牙的）肉菜饭 spicy paella"
     ]
   },
@@ -131,7 +131,7 @@
   {
     "id": "e01p0316",
     "speaker": "Gabrielle",
-    "content": "Absolutely, We wouldn't want them to think we're not happy.",
+    "content": "Absolutely, we wouldn't want them to think we're not happy.",
     "readable": true,
     "mark": []
   }

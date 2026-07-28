@@ -4,7 +4,10 @@
     "speaker": "Gabrielle",
     "content": "You can't order me around like I am a child. No, no. I'm not going.",
     "readable": true,
-    "mark": ["order around 指挥"]
+    "mark": [
+      "order around 指挥",
+      "正式写作中，like 不能引导从句，虚拟语气要用 were,标准写法：You can't order me around as if I were a child."
+    ]
   },
   {
     "id": "e01p1202",
@@ -52,7 +55,7 @@
     "readable": true,
     "mark": [
       "bush 灌木，灌木丛；",
-      "be supposed to 被期望做某事;应该做某事;被允许做某事",
+      "be supposed to 被期望做某事;应该做某事",
       "dig up 挖掘，发掘"
     ]
   },
@@ -68,7 +71,7 @@
     "speaker": "Carlos",
     "content": "I don't want to hear your excuses. Just take care of it.",
     "readable": true,
-    "mark": ["excuses 借口，理由 原谅；为……辩解"]
+    "mark": ["excuse n. 借口，托词；正当理由"]
   },
   {
     "id": "e01p1210",
@@ -83,7 +86,7 @@
     "content": "And I really hate that I spent $15,000 on your diamond necklace that you couldn’t live without.",
     "readable": true,
     "mark": [
-      "spend + 时间/金钱 + on + 事物/活动 表示在某事物或某项活动上花费了多少时间或者金钱。spend...in doing sth 强调花费时间或金钱去做某件事的这个行为过程",
+      "花钱固定用 spend money on sth 花时间一般用 spend time (in) doing sth",
       "diamond 钻石",
       "couldn’t live without 没有…… 就无法生活"
     ]
@@ -93,7 +96,7 @@
     "speaker": "Carlos",
     "content": " But I'm learning to deal with it. So, can I tell Tanaka we'll be there tomorrow night?",
     "readable": true,
-    "mark": []
+    "mark": ["deal with 处理，解决"]
   },
   {
     "id": "e01p1213",
@@ -118,8 +121,7 @@
     "content": "Fine, I'll go. But I'm keeping my back pressed against the wall the entire time.",
     "readable": true,
     "mark": [
-      "press against 紧贴，压在……上 对抗，与……竞争",
-      "against the wall 靠着墙；倚着墙 / 处于困境；走投无路",
+      "press against 紧贴，压在……上",
       "keep + 宾语 + 宾语补足语: 使…… 保持（某种状态）pressed 过去分词作宾语补足语，用于补充说明宾语 “my back” 所处的状态。过去分词作宾语补足语常用来表示被动或完成的意义，在这里后背是被外力（自身的行为或者其他客观因素等）压在墙上的，所以用过去分词形式很合适。",
       "the entire time 整个期间；自始至终 == all the time"
     ]
@@ -162,7 +164,7 @@
     "content": "You know, Mrs. Solis, I really like it when we hook up, but you know, I gotta get my work done and I can't afford to lose this job.",
     "readable": true,
     "mark": [
-      "hook up 连接 搭讪 提供帮助 hook 钩住，挂住",
+      "hook up 连接 搭讪 这里表示（私下）约会 hook 钩住，挂住",
       "gotta == got to 必须，不得不",
       "get sth done 使某事被做；让某事得以完成",
       "afford 买得起；有（时间）做某事；承担得起；"

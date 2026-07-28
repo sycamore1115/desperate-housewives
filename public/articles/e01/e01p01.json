@@ -42,7 +42,8 @@
     "content": "I performed my chores.",
     "readable": true,
     "mark": [
-      "chore n.家庭杂务，杂活；累活，苦差事 I performed my chores. 我做了我的家务"
+      "chore n.家庭杂务，杂活；累活，苦差事 日常多用复数 chores",
+      "I performed my chores. 我做了我的家务"
     ]
   },
   {
@@ -81,7 +82,7 @@
     "mark": [
       "astonish 使吃惊，使惊讶 That's why it was so astonishing...",
       "hallway closet走廊壁橱 hallway 门厅，走廊；过道 closet 壁橱，储藏室",
-      "retrieve 找回，收回",
+      "retrieve 找回，收回,本句语境是从壁橱里取出、拿出",
       "revolver 左轮手枪；旋转器"
     ]
   },
@@ -90,7 +91,7 @@
     "speaker": "Alice",
     "content": "My body was discovered by my neighbor, Mrs. Martha Huber, who'd been startled by a strange popping sound.",
     "readable": true,
-    "mark": ["startle 使吓一跳，使惊奇She startled by a strange popping sound."]
+    "mark": ["startle 使吓一跳，使惊奇"]
   },
   {
     "id": "e01p0112",
@@ -112,7 +113,8 @@
     "mark": [
       "initial adj. 开始的，最初的；",
       "hesitation 犹豫，不情愿",
-      "blender 搅拌机"
+      "blender 搅拌机",
+      "ago = 以现在为基准 ↔ 只用一般过去时 before = 以过去某一刻为基准 ↔ 常用过去完成时"
     ]
   },
   {
@@ -125,7 +127,7 @@
   {
     "id": "e01p0115",
     "speaker": "Huber",
-    "content": "Yes, you've got to send an ambulance. you've got to send one right now.",
+    "content": "Yes, you've got to send an ambulance. You've got to send one right now.",
     "readable": true,
     "mark": ["have got to 不得不，必须", "ambulance 救护车"]
   },
@@ -151,10 +153,11 @@
   {
     "id": "e01p0118",
     "speaker": "Huber",
-    "content": "If there was one thing Mrs. Huber was known for, It was her ability to look on the bright side.",
+    "content": "If there was one thing Mrs. Huber was known for, it was her ability to look on the bright side.",
     "readable": true,
     "mark": [
-      "bright 明亮的；鲜艳的；聪明的；欢快的，有活力的；光明的，有希望的；"
+      "bright 明亮的；鲜艳的；聪明的；欢快的，有活力的；光明的，有希望的；",
+      "look on the bright side 往好处想、乐观看待事物"
     ]
   }
 ]

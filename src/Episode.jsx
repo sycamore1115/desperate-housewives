@@ -43,7 +43,7 @@ function Episode() {
         {jsonData.map((part) => (
           <li key={part.id}>
             <Link to={`/${eid}/${part.id}?title=${part.title}`}>
-              {part.title}
+              {part.id.slice(-2)} {part.title}
             </Link>
           </li>
         ))}

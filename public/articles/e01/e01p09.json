@@ -35,7 +35,7 @@
   {
     "id": "e01p0905",
     "speaker": "Kid",
-    "content": "When we got here, You said we could go in the pool.",
+    "content": "When we got here, you said we could go in the pool.",
     "readable": true,
     "mark": []
   },
@@ -54,14 +54,14 @@
     "speaker": "Kid",
     "content": "Yeah, we put them on under our clothes just before we left.",
     "readable": true,
-    "mark": ["have clothes on 表示 “穿着衣服”，强调身上有衣物穿着的状态。"]
+    "mark": []
   },
   {
     "id": "e01p0908",
     "speaker": "Lynette",
     "content": "You three planned this? All right. That's it. Get out. I am your mother. You have to do what I say. Come on.",
     "readable": true,
-    "mark": ["That's it 就是这样"]
+    "mark": ["That's it 到此为止、我受够了。"]
   },
   {
     "id": "e01p0909",
@@ -89,7 +89,7 @@
     "speaker": "Alice",
     "content": "Lynette shouldn't have been so concerned about my husband. ",
     "readable": true,
-    "mark": ["be concerned about 关心；担忧；挂念"]
+    "mark": ["be concerned about 关心；担忧；挂念 concern v.使某人担忧"]
   },
   {
     "id": "e01p0913",
@@ -97,9 +97,8 @@
     "content": "He had other things on his mind. Things below the surface.",
     "readable": true,
     "mark": [
-      "on his mind 某人心里惦记着、牵挂着、担心着的事情 exist in one's mind（存在于某人的脑海中）",
-      "in his mind 在某人的脑海里、在某人的思维之中 form in one's mind（在某人脑海中形成）",
-      "I had other things on my mind.",
+      "on one’s mind：有心事、发愁、放不下 have sth on one’s mind",
+      "in his mind 在某人的脑海里、在某人的思维之中",
       "below the surface 在表面之下"
     ]
   }

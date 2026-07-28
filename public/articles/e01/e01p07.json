@@ -4,9 +4,7 @@
     "speaker": "Bree",
     "content": "Susan, I was just saying Paul wants us to go over on Friday.",
     "readable": true,
-    "mark": [
-      "go over 通过，穿过;转变，改变;通过，获得认可;被接受，受欢迎;查看，检查"
-    ]
+    "mark": ["go over / have sb over 里的 over 有登门、到某人家里的意思"]
   },
   {
     "id": "e01p0702",
@@ -14,7 +12,7 @@
     "content": "He needs us to go through Mary Alice's closet and help pack up her things.",
     "readable": true,
     "mark": [
-      "go through closet 翻衣柜",
+      "go through the closet 翻衣柜",
       "pack up 收拾，整理",
       "help (to) do sth  “帮忙做某事”。这里的 “to” 可以省略"
     ]
@@ -24,15 +22,16 @@
     "speaker": "Bree",
     "content": "He said he can't face doing it by himself.",
     "readable": true,
-    "mark": ["face doing sth 意思是 “面对 / 面临做某事” = be faced with"]
+    "mark": ["face doing sth 意思是 “面对 / 面临做某事” = be faced with sth"]
   },
   {
     "id": "e01p0704",
     "speaker": "Susan",
-    "content": "If Mary Alice was having problems, she should have come to us. She should've let us help her.",
+    "content": "If Mary Alice was having problems, she should have come to us, she should've let us help her.",
     "readable": true,
     "mark": [
-      "If she was having problems, she should have come to us. if 条件句的虚拟, 假设过去, 从句使用了过去进行时来表示假设，主句用情态动词 should + have done"
+      "If she was having problems, she should have come to us. if 条件句的虚拟, 假设过去, 从句使用了过去进行时来表示假设，主句用情态动词 should + have done",
+      "本来虚拟从句 if 后面跟过去完成时 had been having，但是在口语中，常用 was/were doing 替代"
     ]
   },
   {
@@ -41,7 +40,9 @@
     "content": "What kinds of problems could she have had?",
     "readable": true,
     "mark": [
-      "What kinds of problems could she have had  “What kinds of” 表示 “什么样的；哪类；哪些种类的”，后面通常接可数名词的复数形式 have had 现在完成时 have/has done"
+      "What kinds of 表示 “什么样的；哪类；哪些种类的”，后面通常接可数名词的复数形式",
+      "could she have had：情态动词 could + have done，对过去曾经存在的事情进行推测",
+      "could she have：情态动词 could + 动词原形，推测当下/常态的情况；"
     ]
   },
   {

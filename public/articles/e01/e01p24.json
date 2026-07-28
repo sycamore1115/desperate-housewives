@@ -4,7 +4,10 @@
     "speaker": "Susan",
     "content": "I brought some champagne. I thought we should have a toast.",
     "readable": true,
-    "mark": ["champagne n. 香槟酒；香槟色", "have a toast 举杯祝酒"]
+    "mark": [
+      "champagne n. 香槟酒；香槟色",
+      "have a toast 举杯祝酒，更地道固定搭配：propose a toast / drink a toast"
+    ]
   },
   {
     "id": "e01p2402",
@@ -21,7 +24,9 @@
     "speaker": "Susan",
     "content": "All right, ladies, lift'em up. To Mary Alice, a good friend and neighbor. Wherever you are, we hope you've found peace.",
     "readable": true,
-    "mark": ["lift them up 抬起他们(举杯) lift v.提起，举起；n.电梯，升降机"]
+    "mark": [
+      "lift them up 抬起他们(举杯) lift v.提起，举起；n.电梯，升降机 Raise your hand.举手"
+    ]
   },
   {
     "id": "e01p2404",
@@ -44,6 +49,7 @@
     "readable": true,
     "mark": [
       "check out 检查; 借出; 结账; 退房",
+      "be 动词：be a size + 数字; wear 动词：wear size + 数字（固定无冠词）",
       "the skeleton in her closet 在英语中如果说某人的壁橱里有个骷髅skeleton, 意思就是这个人有难言之隐，有不可告人的家丑或秘密",
       "Everyone has a skeleton in the closet. 每个人都有不可告人的秘密。",
       "skeleton n. 骨骼，骨架；梗概，提纲；"
@@ -55,13 +61,13 @@
     "content": "Not quite, Gabrielle, not quite.",
     "readable": true,
     "mark": [
-      "not quite 不完全但稍微：不是完全准确或符合预期，但在某种程度上接近。"
+      "not quite 不完全是；不见得：不是完全准确或符合预期，但在某种程度上接近。"
     ]
   },
   {
     "id": "e01p2408",
     "speaker": "Gabrielle",
-    "content": "What's that.",
+    "content": "What's that?",
     "readable": false,
     "mark": []
   },
@@ -77,12 +83,13 @@
   {
     "id": "e01p2410",
     "speaker": "Alice",
-    "content": "How ironic. To have something I tried so desperately to keep secret treated so casually.",
+    "content": "How ironic to have something I tried so desperately to keep secret treated so casually.",
     "readable": true,
     "mark": [
       "ironic adj. 反语的，讽刺的；How ironic. 真够讽刺的",
-      "To have something (I tried so desperately to keep secret), treated so casually. 我拼命想要保守的秘密，却被如此随意地对待",
-      "It is + [形容词 / 名词] + to have something + done. 通常用来表达一种感受。",
+      "How + 形容词 + to do（真正主语）",
+      "How ironic to have something (I tried so desperately to keep secret) treated so casually. 我拼命想要保守的秘密，却被如此随意地对待",
+      "To have something treated casually 直译：让某件事被随意对待 have sth done 某物被（别人）……；遭遇某事被怎样对待",
       "desperately adv. 绝望地，拼命地，不顾一切地；非常，极其",
       "casually adv. 随意地，漫不经心地；临时地；偶然地"
     ]
@@ -104,7 +111,7 @@
   {
     "id": "e01p2413",
     "speaker": "Letter",
-    "content": "I know what you did. It make me sick. I'm going to tell.",
+    "content": "I know what you did. It makes me sick. I'm going to tell.",
     "readable": false,
     "mark": []
   },

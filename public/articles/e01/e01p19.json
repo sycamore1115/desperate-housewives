@@ -64,11 +64,11 @@
   {
     "id": "e01p1908",
     "speaker": "Rex",
-    "content": "You're the plastic suburban housewife with her pearls and spatula, who says things like \"we owe the Henderson's a dinner.\"",
+    "content": "You're the plastic suburban housewife with her pearls and spatula, who says things like \"we owe the Hendersons a dinner.\"",
     "readable": true,
     "mark": [
-      "You're the plastic suburban housewife with her pearls and spatula, who says things like \"we owe the Henderson's a dinner.\" 你就像一个人造的乡村主妇，带着珍珠拿着抹刀，然后说着：“我们欠亨德森一家一顿饭。”",
-      "Henderson's 当我们提到一家人时，通常会在姓氏后面加上 's 来表示所有格。",
+      "你就像一个人造的乡村主妇，带着珍珠拿着抹刀，然后说着：“我们欠亨德森一家一顿饭。",
+      "姓氏复数一家人标准写法 the Hendersons",
       "plastic n.塑料；信用卡；adj.塑料制的；人造的，不自然的；可塑的",
       "suburban adj.郊区的，城郊的；平淡乏味的，乡气的，平庸的",
       "pearl n.珍珠",
@@ -112,6 +112,6 @@
     "speaker": "Alice",
     "content": "Because when Bree finally emerged, she was perfect.",
     "readable": true,
-    "mark": []
+    "mark": ["emerge v. 浮现，出现；显露，知悉；恢复过来；形成"]
   }
 ]

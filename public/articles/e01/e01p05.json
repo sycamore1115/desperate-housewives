@@ -53,7 +53,7 @@
   {
     "id": "e01p0507",
     "speaker": "Alice",
-    "content": "Susan has started to think how nice it would be to have a man in her life.",
+    "content": "Susan had started to think how nice it would be to have a man in her life.",
     "readable": true,
     "mark": []
   },
@@ -101,7 +101,7 @@
     "content": "Are you meaning, like, how dad's girlfriend is always smiling, says nice things, but deep down, you just know she's a bitch.",
     "readable": true,
     "mark": [
-      "are you meaning... 询问对方是不是在指某件事 == Do you mean",
+      "are you meaning... 询问对方是不是在指某件事 == Do you mean(正式)",
       "says nice things 说好听的话",
       "deep down 实际上；在心底"
     ]

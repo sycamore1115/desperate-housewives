@@ -4,14 +4,17 @@
     "speaker": "Danielle",
     "content": "Why can't we ever have normal soup?",
     "readable": true,
-    "mark": []
+    "mark": ["否定词 + ever，强化 “从来都不、每次都不”，带吐槽情绪"]
   },
   {
     "id": "e01p1302",
     "speaker": "Bree",
     "content": "Danielle, there is nothing abnormal about basil puree.",
     "readable": true,
-    "mark": ["basil puree 罗勒汤  basil 罗勒属植物 puree 浓汤；果泥；菜泥"]
+    "mark": [
+      "abnormal adj. 反常的，异常的",
+      "basil puree 罗勒汤  basil 罗勒属植物,九层塔 mint 薄荷 puree 浓汤；果泥；菜泥"
+    ]
   },
   {
     "id": "e01p1303",
@@ -33,9 +36,8 @@
     "mark": [
       "deathly 致命的，极其，非常",
       "allergic 对……过敏的；过敏引起的，过敏性的；对……极其反感的",
-      "I won't even... even是一个副词，一般放在助动词（如 won't）之后，实义动词之前。",
       "dignify 使有尊严，使高贵；使显得堂皇，抬高……的身价",
-      "dignify a suggestion 表示认真对待、郑重考虑某个建议，给予该建议足够的尊重或认可，使其显得重要、值得关注，而不是轻易忽视它。",
+      "I won’t dignify sth (with a reply/response) 完整用法:我才懒得搭理这件事，这件事太荒唐 / 离谱，根本不配我认真回应。",
       "Ossobuco 经典的意大利菜肴，烩牛膝或炖小牛膝"
     ]
   },
@@ -79,7 +81,8 @@
     "readable": true,
     "mark": [
       "get home 回家 get home from work 下班回家",
-      "pops 砰砰声 boom 梆梆声",
+      "pops 模拟 “砰” 一声的短促爆破动作 pop open sth 猛地一下撬开 / 掀开",
+      "boom 习惯用法：紧接着、转眼、一下子就",
       "pork and beans 猪肉豆 pork 猪肉"
     ]
   },
@@ -89,7 +92,8 @@
     "content": "You'd rather I serve pork and beans?",
     "readable": true,
     "mark": [
-      "would rather that 宁愿；宁可，其后的从句常用虚拟语气；此处serve是一般现在时，表达现在或将来的一种意愿情况"
+      "would rather + 从句 从句动词一律用一般过去式（虚拟）所以标准表达是You'd rather I served pork and beans? 但是口语可以弱化虚拟规则，直接用动词原形 serve",
+      "would rather do sth 宁愿做…"
     ]
   },
   {
@@ -112,8 +116,7 @@
     "content": "Are you doing drugs?",
     "readable": true,
     "mark": [
-      "Are you doing drugs? 你在吸毒吗？ do drugs 吸食毒品",
-      "Are you drugging? 你正在给…… 下药吗"
+      "Are you doing drugs? 你在吸毒吗？ do drugs 吸食毒品 drug sb 给某人下药"
     ]
   },
   {
@@ -129,7 +132,7 @@
     "content": "Change in behavior is one of the warning signs, and you have been as fresh as paint for the last six months.",
     "readable": true,
     "mark": [
-      "as fresh as paint 状态良好，看起来新鲜  paint 油漆，涂料；绘画颜料"
+      "as fresh as paint 精神头十足、精力旺盛、状态亢奋  paint 油漆，涂料；绘画颜料"
     ]
   },
   {

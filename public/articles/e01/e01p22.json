@@ -6,7 +6,7 @@
     "readable": true,
     "mark": [
       "candle n. 蜡烛；旧烛光",
-      "unattended adj. 无人看管的，无人照料的；未被注意的，未被处理的； attend v. 随同，陪同；伴随；出席，参加；注意，专心；处理，照料；致力于",
+      "unattended adj. 无人看管的，无人照料的；未被注意的，未被处理的； attend v. 出席；照料，照看",
       "den n. 兽穴；窝点；活动室，休闲室",
       "paramedic n. 护理人员",
       "当 \"could've\" 后面紧跟一个辅音（比如 been, died, hurt）时，那个 /v/ 的音往往会被 “吃掉” 或者 “同化”，直接从 \"d\" 滑到后面的辅音。"
@@ -24,7 +24,10 @@
     "speaker": "Gabrielle",
     "content": "What happened to him?",
     "readable": true,
-    "mark": ["What happened 特殊，不用did happen"]
+    "mark": [
+      "如果疑问词是宾语/状语，必须加 did/do/does，如 what did you see?",
+      "如果疑问词 = 动作发出者（主语）则不用加"
+    ]
   },
   {
     "id": "e01p2204",
