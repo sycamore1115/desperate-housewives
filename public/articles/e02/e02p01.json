@@ -33,7 +33,7 @@
     "content": "Of course, most of what's visible to the dead could also be seen by the living, if they only take the time to look.",
     "readable": true,
     "mark": [
-      "most of what's visible to the dead 死者能看到的大部分东西 (what 引导的主语从句)",
+      "most of what's visible to the dead 死者能看到的大部分东西 (what 引导的主语从句) = most of the things that are visible to the dead",
       "the dead 死者 the living 生者，活着的人们",
       "take the time to 花足够的时间来做某事，做得好或仔细"
     ]
@@ -65,7 +65,7 @@
       "Had I looked closer == If I had looked closer 虚拟倒装",
       "I’d have seen == I would have seen 侧重结果的将会发生，口语连读就是I'd've seen",
       "drown v. （声音）压过，盖过；沉浸于，淹没于；（使）淹死",
-      "in search of 试图寻找或寻求",
+      "in search of 试图寻找或寻求 = search for != find 找到",
       "raft n. 木排，木筏； 橡皮艇，充气船； life raft 救生筏"
     ]
   },
@@ -99,7 +99,7 @@
     "speaker": "John",
     "content": "Where are the rest of my clothes?",
     "readable": true,
-    "mark": []
+    "mark": ["the rest of 名词：剩余的……、剩下的……"]
   },
   {
     "id": "e02p0112",
@@ -118,7 +118,8 @@
     "readable": true,
     "mark": [
       "cancel => cancelled/canceled v. 取消；宣布作废",
-      "My meeting got canceled. 这里的‘get + 过去分词’构成的被动结构，比‘be + 过去分词’的被动更口语化"
+      "My meeting got canceled. 这里的‘get + 过去分词’构成的被动结构，比‘be + 过去分词’的被动更口语化",
+      "take a shower v. 洗澡；洗浴 have/take a bath 泡澡"
     ]
   },
   {
@@ -142,8 +143,8 @@
     "readable": true,
     "mark": [
       "panicked v. 使恐慌（panic 的过去式和过去分词）= in a panic",
-      "full force 全力以赴：以最大的力量、速度或决心进行某项活动或行动。",
-      "wrath n. 愤怒，盛怒 full force of his wrath"
+      "full force 全部的威力、强烈程度",
+      "wrath n. 愤怒，盛怒 full force of his wrath 他满腔怒火的全部杀伤力"
     ]
   },
   {
@@ -183,7 +184,6 @@
     "content": "But she was quickly reminded that what Carlos couldn't see couldn't hurt her.",
     "readable": true,
     "mark": [
-      "she was quickly reminded that ... 在大多数情况下，当that引导宾语从句时，且只起引导作用时是可以省略的。但是，当主句的谓语动词后面的宾语从句比较长，或者从句结构比较复杂，或者为了强调从句的内容等情况时，that最好不要省略。",
       "what Carlos couldn't see couldn't hurt her. 前面的 what Carlos couldn't see 是一个从句，充当主语"
     ]
   }

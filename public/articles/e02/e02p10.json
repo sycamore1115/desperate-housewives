@@ -18,7 +18,10 @@
     "speaker": "John",
     "content": "You just missed my mom. On Friday, she coaches my little sister's soccer team.",
     "readable": true,
-    "mark": ["coach v. 训练，指导 n. 教练；私人教师；长途客车"]
+    "mark": [
+      "On Friday on + 具体某一天 Monday Tuesday Wednesday Thursday Friday Saturday Sunday",
+      "coach v. 训练，指导 n. 教练；私人教师；长途客车"
+    ]
   },
   {
     "id": "e02p1004",
@@ -45,8 +48,9 @@
     "content": "No, he doesn't have a clue, god love him. It's just I was thinking that when you come over to garden, you might actually have to garden.",
     "readable": true,
     "mark": [
-      "clue n. 线索，提示；理解",
+      "clue n. 线索，提示",
       "He doesn't have a clue 他一无所知；他毫无头绪 I have no clue. 我一点头绪都没有",
+      "god love him 可怜他吧 / 真是拿他没办法 / 他这人啊（让人无奈又心软）",
       "actually adv. 实际上，事实上",
       "you might actually have to do sth 你可能实际上不得不做某事"
     ]
@@ -64,8 +68,8 @@
     "content": "No, I'm not dumping you. Lately, you've been the only thing keeping me going. It's just we can't do it at my house anymore.",
     "readable": true,
     "mark": [
-      "dump  v. 丢弃，扔掉；乱堆，乱放；丢下，抛弃；分手，甩掉；倾销",
-      "lately adv. 近来，最近"
+      "dump v. 丢弃，扔掉；乱堆，乱放；丢下，抛弃；分手，甩掉；倾销 dump sb 甩掉某人",
+      "lately adv. 近来，最近 ≈ recently"
     ]
   },
   {
@@ -73,7 +77,7 @@
     "speaker": "John",
     "content": "Oh, so then, where do you want to do it?",
     "readable": true,
-    "mark": ["so then 因此，接下来"]
+    "mark": ["so then 那这么说、那然后呢"]
   },
   {
     "id": "e02p1010",
@@ -81,7 +85,9 @@
     "content": "Well, what time does your mom get back from soccer practice? You better hurry, we don't have a lot of time.",
     "readable": true,
     "mark": [
-      "practice n. 实践，实际操作；通常的做法，惯例；练习； v. 练习，实践；"
+      "practice n. 实践，实际操作；通常的做法，惯例；练习； v. 练习，实践；美式统一用practice，英式动词用practise，名词用practice",
+      "You better hurry 口语缩写 You’d better hurry. had better + 动词原形 最好做某事",
+      "a lot of /lots of：既可接可数，也可接不可数 much + 不可数名词(much 在肯定句比较少见，大量用于否定句、疑问句) many + 可数名词复数"
     ]
   }
 ]

@@ -9,9 +9,8 @@
       "shatter v. 破碎，碎裂；破坏；使极为惊愕难过 n. 碎片；受到极大打击的状态",
       "of a 在美式口语中是高频连读组合，核心发音会弱读成 /əvə/",
       "suggest v. 暗示，暗指；提议，建议；表明",
-      "suspicious adj. 感觉可疑的，怀疑的；不信任的suspect v. 猜想，认为",
-      "a reason for... 是常见搭配，…的原因",
-      "implication n. 可能的影响（或作用、结果）；含意，暗指；牵连，涉及"
+      "suspicious adj. 感觉可疑的，怀疑的；不信任的。现代英语里，suspect 主流只有两种词性：动词/名词，作形容词非常罕见",
+      "a reason for... 是常见搭配，…的原因"
     ]
   },
   {
@@ -19,7 +18,9 @@
     "speaker": "Alice",
     "content": "My friends gathered to discuss its implications.",
     "readable": true,
-    "mark": []
+    "mark": [
+      "implication n. 可能的影响（或作用、结果）；含意，暗指；牵连，涉及"
+    ]
   },
   {
     "id": "e02p0203",
@@ -43,7 +44,10 @@
     "speaker": "Susan",
     "content": "It doesn't matter. She was his wife. He deserves to have all the facts.",
     "readable": true,
-    "mark": ["It doesn't matter. 没关系"]
+    "mark": [
+      "It doesn't matter. 没关系",
+      "Sorry: That’s okay./ That’s all right. / Don’t worry about it. "
+    ]
   },
   {
     "id": "e02p0206",
@@ -52,6 +56,7 @@
     "readable": true,
     "mark": [
       "gently adv. 文静地，温柔地；轻柔地；渐进地，平缓地；",
+      "over 介词：在…期间；一边…一边…，替代 while we are having... 冗长句式",
       "pastry n. 油酥面团；酥皮糕点"
     ]
   },
@@ -62,7 +67,7 @@
     "readable": true,
     "mark": [
       "proof n. 证明，证据；检验，证实 不可数名词",
-      "over some deep, dark secret. over prep.由于，关于  / over coffee and pastry. over prep. 在……期间  over for brunc",
+      "over some deep, dark secret. over 介词：因……；由于（表原因）",
       "bear claw 熊爪：一种填充面点 claw n.（动物的）爪，爪子；"
     ]
   },
@@ -79,8 +84,8 @@
     "content": "Maybe it's just some sort of sick joke.",
     "readable": true,
     "mark": [
-      "some sort of 某种类型的 其后通常接单数可数名词",
-      "sick joke 残酷的玩笑"
+      "some sort of + 名词 = a kind of 某一种、某种 sort of 副词短语,有点、稍微、算得上",
+      "sick joke 恶心的笑话，恶毒的玩笑"
     ]
   },
   {
@@ -103,7 +108,7 @@
   {
     "id": "e02p0212",
     "speaker": "Lynette",
-    "content": "Let's say we do, there's a chance we're not going to like what we find.",
+    "content": "Let's say we do; there's a chance we're not going to like what we find.",
     "readable": true,
     "mark": [
       "Let's say we do. 假设我们这样做。这句话通常用于提出一个假设或推测，然后探讨在这种假设下可能发生的情况或结果。",
@@ -119,7 +124,8 @@
     "readable": true,
     "mark": [
       "isn't it worse to be in the dark? 处在不知情的状态下难道不是更糟糕吗？",
-      "to be in the dark 在黑暗中，还常引申为蒙在鼓里；不知情"
+      "to be in the dark 在黑暗中，还常引申为蒙在鼓里；不知情",
+      "horrible adj. 可怕的，令人恐惧的；糟糕的 terrible"
     ]
   },
   {
@@ -132,12 +138,12 @@
   {
     "id": "e02p0215",
     "speaker": "Alice",
-    "content": "My friends were right to be concerned, they knew that every family has its secrets.",
+    "content": "My friends were right to be concerned; they knew that every family has its secrets.",
     "readable": true,
     "mark": [
       "My friends were right to be concerned. 朋友们的担心是对的。It's right to be nervous. 紧张是正常的",
       "be right to 正确的，合适的，恰当的",
-      "concern v.使担心；有关，关于；涉及 adj. 担心的；相关的；关注的；关心的"
+      "sb be concerned about sth 某人对某事感到担心 sth concern sb 某事使某人担心"
     ]
   },
   {
@@ -157,7 +163,8 @@
     "readable": true,
     "mark": [
       "talk for hours 聊了好几个小时",
-      "agree on what to do with sth 就如何处理某事达成一致"
+      "agree on 就某事达成共识",
+      "do with + 物品：处理、处置某物"
     ]
   },
   {
@@ -167,7 +174,7 @@
     "readable": true,
     "mark": [
       "a good night's rest 好好睡一觉",
-      "all asleep 入睡 asleep adj.睡着的；麻木的，发麻的；"
+      "fall asleep 入睡 asleep adj.睡着的；麻木的，发麻的；"
     ]
   },
   {
@@ -176,6 +183,7 @@
     "content": "They each kept thinking of my suicide and how terribly alone I must have felt. ",
     "readable": true,
     "mark": [
+      "keep doing sth 持续不停地做某事、一直反复做",
       "alone adj. 独自的（强调状态），做形容词的时候只能做表语，不能做前置定语",
       "lonely adj. 孤独的（强调情绪）"
     ]
@@ -185,6 +193,9 @@
     "speaker": "Alice",
     "content": "You see, loneliness was something my friends understood all too well.",
     "readable": true,
-    "mark": ["loneliness n. 孤独，寂寞", "understand all too well 太明白了"]
+    "mark": [
+      "loneliness n. 孤独，寂寞",
+      "understand all too well 太明白了 all too well = 感同身受，再清楚不过"
+    ]
   }
 ]

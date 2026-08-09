@@ -5,8 +5,8 @@
     "content": "Bree, Rex just called. He won't be able to meet you here today, apparently, there was an emergency at the hospital.",
     "readable": true,
     "mark": [
-      "will be able to 将来能够、将来有能力做某事",
-      "emergency n. 突发事件，紧急情况；急诊病人"
+      "be able to 能够、有能力做某事",
+      "emergency n. 突发事件，紧急情况；急诊病人 emerge一件事情突然冒出来、意外浮现出来 → 突发意外事件 → 紧急突发事件。"
     ]
   },
   {
@@ -14,7 +14,9 @@
     "speaker": "Bree",
     "content": "Oh, Well, I wish he'd called me.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "wish + had done，对过去事情的虚拟，过去没做。对将来（期盼未来）：wish + would do。 对现在正在进行：wish + were/was doing"
+    ]
   },
   {
     "id": "e02p1703",
@@ -22,12 +24,12 @@
     "content": "He suggested perhaps you'd like to meet with me by yourself? You've been very quiet in our joint sessions.",
     "readable": true,
     "mark": [
-      "perhaps adv. 可能；",
+      "perhaps adv. 可能；也许 maybe",
       "would like to 想要或希望做某事",
-      "meet sb 更侧重于偶然相遇或普通的见面；",
-      "meet with sb 更强调有目的、正式的会面，或者表达遭遇某种情况。",
+      "meet sb 普通见面 vs meet with sb 有目的正式会面",
+      "by yourself 独自，自己 on your own",
       "joint adj. 联合的，共同的，共有的；连带的",
-      "session. （某项活动的）一段时间，一场；（议会等的）会议，（法庭的）开庭；学年，上课时间；in session 会议进行中：正在进行正式会议的过程。"
+      "session. （某项活动的）一段时间，一场；会议，开庭；学年，上课时间；in session 会议进行中：正在进行正式会议的过程。"
     ]
   },
   {
@@ -78,7 +80,8 @@
     "content": "Take off your coat.",
     "readable": true,
     "mark": [
-      "take off your coat 脱下你的外套 take off 脱下; 起飞; 脱离; 扣除; 模仿 coat n. 外套，大衣；"
+      "take off your coat 脱下你的外套 take off 脱下; 起飞; 脱离; 扣除; 模仿 coat n. 外套，大衣；",
+      "take off your clothes 脱掉你的衣服"
     ]
   }
 ]

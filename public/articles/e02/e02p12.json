@@ -21,12 +21,14 @@
     "speaker": "John",
     "content": "Oh, I got something for you. I was gonna give it to you next time I mowed your lawn, but since you're here.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "since + 句子（现在时）：既然；由于 / since + 时间点：自从（完成时） / since + 句子（过去时）：自从……"
+    ]
   },
   {
     "id": "e02p1204",
     "speaker": "Gabrielle",
-    "content": "Oh, it's rose.",
+    "content": "Oh, it's a rose.",
     "readable": true,
     "mark": null
   },
@@ -35,7 +37,11 @@
     "speaker": "John",
     "content": "It's not just any rose. Look at all the petals, there are no flaws. It's perfect. Just like you.",
     "readable": true,
-    "mark": ["petal n. 花瓣", "flaw n. 缺点，缺陷；裂痕，瑕疵"]
+    "mark": [
+      "not just any + 单数可数名词 固定强调句型，表示“不是随便一个普通的……”，只用单数",
+      "petal n. 花瓣",
+      "flaw n. 缺点，缺陷；裂痕，瑕疵"
+    ]
   },
   {
     "id": "e02p1206",
@@ -49,7 +55,7 @@
   {
     "id": "e02p1207",
     "speaker": "John",
-    "content": "I had spent days looking for just what I want. Finally found it.",
+    "content": "I had spent days looking for just what I wanted. Finally found it.",
     "readable": true,
     "mark": null
   },
@@ -59,9 +65,10 @@
     "content": "For John, this was no longer a meaningless little affair. Gabrielle could now clearly see he was falling in love with her.",
     "readable": true,
     "mark": [
-      "no longer 不再，不再是，不再存在",
+      "no longer 不再，不再是，不再存在 not … anymore",
       "meaningless adj.无意义的；无目的的",
-      "affair n. 公共事务；私事；风流韵事；"
+      "affair n. 公共事务；私事；风流韵事；",
+      "fall in love with sb 爱上某人"
     ]
   },
   {

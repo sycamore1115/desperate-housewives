@@ -14,7 +14,9 @@
     "speaker": "Mike",
     "content": "I'm sure you look fine. Oh, Bongo, stop. Sorry, he scares easy.",
     "readable": true,
-    "mark": ["he scares easy 他很容易受到惊吓"]
+    "mark": [
+      "he scares easy 他很容易受到惊吓，美式口语非正式用法 = he gets scared easily"
+    ]
   },
   {
     "id": "e02p0603",
@@ -45,7 +47,9 @@
     "speaker": "Mike",
     "content": "Just the two of us?",
     "readable": true,
-    "mark": ["Just the two of us (the可以省略) 就我们两个"]
+    "mark": [
+      "Just the two of us (the可以省略) 就我们两个;two of us 我们之中两个人"
+    ]
   },
   {
     "id": "e02p0607",
@@ -54,7 +58,7 @@
     "readable": true,
     "mark": [
       "It's a thing we do when... 这是我们在…时会做的事",
-      "home-cooked meal 家常菜",
+      "a home-cooked meal 家常菜（具体一餐） home cooking（抽象）",
       "sort of a tradition 算是一种传统",
       "sort of 有点儿，有几分;口语化的表达"
     ]
@@ -71,7 +75,7 @@
     "speaker": "Susan",
     "content": "Well, I order takeout.",
     "readable": true,
-    "mark": ["takeout n. 外卖", "order takeout 点外卖"]
+    "mark": ["takeout n. 外卖 order takeout 点外卖 get takeout"]
   },
   {
     "id": "e02p0610",
@@ -86,9 +90,9 @@
     "content": "Yeah, it's sort of a new tradition. I'm working out the kinks.",
     "readable": true,
     "mark": [
-      "I'm working out the kinks. 我正在解决小问题、磨合。实施新的事物时会遇到一些小问题或需要调整的地方，就会用到这个短语来表示自己正在努力解决这些状况，使事情能够顺利进行",
-      "work out 解决，算出，制定",
-      "kink n. 奇想；扭结；蜷缩"
+      "I'm working out the kinks. 我还在磨合调整",
+      "work out 调试、磨合；解决，算出，制定",
+      "kink n. 奇想；扭结；蜷缩；（计划、安排中的）小故障、小麻烦。"
     ]
   },
   {
@@ -111,26 +115,26 @@
   },
   {
     "id": "e02p0614",
-    "speaker": "Mike",
+    "speaker": "Susan",
     "content": "Julie!  Mike Delfino just invited us to dinner Friday night.",
     "readable": true,
     "mark": null
   },
   {
     "id": "e02p0615",
-    "speaker": "Susan",
+    "speaker": "Julie",
     "content": "He did? Cool.",
     "readable": false,
     "mark": null
   },
   {
     "id": "e02p0616",
-    "speaker": "Mike",
+    "speaker": "Susan",
     "content": "But only I'm going because you're gonna come down with something semi-serious that requires bed rest and fluids.",
     "readable": true,
     "mark": [
       "come down with 染上（疾病）",
-      "semi-serious 比较严重的（semi-: 部分的）",
+      "semi-serious 比较严重的，不轻不重的（semi-: 部分的，半、轻度）",
       "bed rest and fluids 卧床休息和补液"
     ]
   },
@@ -142,8 +146,7 @@
     "mark": [
       "rekindle v. 重新点燃 kindle v. 点燃，开始燃烧；激起，激发；",
       "be unaware of sth 没有意识到某事；不知道某事；未察觉到某事",
-      "track record with fire 纵火/惹火的前科",
-      "track record with 在…方面的过往表现、业绩记录、履历情况"
+      "track record with 在…方面的过往表现、历史记录、履历情况 track record with fire 纵火的前科"
     ]
   }
 ]

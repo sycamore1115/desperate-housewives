@@ -11,14 +11,20 @@
     "speaker": "Julie",
     "content": "She's at Mrs. Van De Kamp's. But I'll see if she left some stuff upstairs.",
     "readable": true,
-    "mark": ["upstairs adv. 往楼上，在楼上；脑力上，精神上"]
+    "mark": [
+      "at + 人名所有格：在某某家里，省略 house。",
+      "stuff n. 东西，物品；基本特征，特质",
+      "upstairs adv. 往楼上，在楼上；脑力上，精神上"
+    ]
   },
   {
     "id": "e02p1603",
     "speaker": "Huber",
     "content": "Oh, Julie. I was just admiring your new measuring cup.",
     "readable": true,
-    "mark": ["admire v. 钦佩，仰慕；欣赏，观赏"]
+    "mark": [
+      "admire v. 钦佩，仰慕；欣赏，观赏 appreciate 多用于：感谢；鉴赏艺术、美景。"
+    ]
   },
   {
     "id": "e02p1604",
@@ -53,7 +59,7 @@
     "speaker": "Julie",
     "content": "If you want me to keep looking?",
     "readable": true,
-    "mark": null
+    "mark": ["完整陈述句：If you want me to keep looking, I can."]
   },
   {
     "id": "e02p1609",

@@ -6,7 +6,8 @@
     "readable": true,
     "mark": [
       "It's all gone.全都没了；一切都消失了；全都不见了",
-      "all those years 那些年；这么多年；所有那些年"
+      "all those years 那些年；这么多年；所有那些年",
+      "Everything ...(is) gone 属于口语 / 文学省略"
     ]
   },
   {
@@ -15,7 +16,7 @@
     "content": "Don't worry about clothing. I already started a collection from people in the neighborhood.",
     "readable": true,
     "mark": [
-      "clothing n. 衣服 == clothes",
+      "clothing n. 衣服，衣物统称，侧重衣物这一类物资 == clothes",
       "collection n. 收藏品，收集物；募捐；一堆"
     ]
   },
@@ -32,7 +33,7 @@
     "content": "Eddie, you can be homeless or you can be ungracious. You really can't afford to be both.",
     "readable": true,
     "mark": [
-      "ungracious adj. 穿着寒碜；无礼貌的，没规矩的；没有教养的；讨厌的",
+      "ungracious adj. 无礼貌的，没规矩的；没有教养的；讨厌的",
       "gracious adj. 有礼貌的，和蔼的；豪华舒适的，富足安逸的"
     ]
   },
@@ -45,7 +46,7 @@
       "That reminds me.这倒提醒我了；那让我想起来了",
       "insurance n. 保险；保险费；保险业；",
       "check n. 支票(美式) == cheque(英式)",
-      "a few more weeks 再多几周"
+      "a few more weeks 再多几周 a few more 再多一些"
     ]
   },
   {
@@ -56,7 +57,7 @@
     "mark": [
       "What kind of person would I be if ...如果…… 我会是怎样的一个人啊",
       "What kind of... 是一个疑问词组，在句中作表语，用于询问种类。",
-      "Christian n. 基督徒，信徒",
+      "Christian n. 基督徒，信徒 Christmas 圣诞节",
       "deny  v. 否认；拒绝承认；拒绝给予",
       "shelter n. 居所，住处；遮蔽物，庇护处v. 提供庇护，提供保护；躲避，避难",
       "deny shelter to sb 拒绝为某人提供住所；不给某人提供庇护 (反：offer shelter to sb)",
@@ -71,7 +72,7 @@
     "mark": [
       "salvage n. 抢救，救援；  v. 打捞，抢救；挽救",
       "scrape off 刮掉  scrape v.（用小刀等）刮除；（使）刮擦；擦伤，刮坏",
-      "look good as new 看上去完好如新"
+      "look (as) good as new 看上去完好如新 as good as 几乎等于，差不多等于"
     ]
   },
   {
@@ -79,7 +80,9 @@
     "speaker": "Eddie",
     "content": "That's not my cup. Mine was plastic.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "plastic cup 塑料制的 plastic surgery 整形手术 plastic suburban housewife 人造的，不自然的 -> 虚伪做作"
+    ]
   },
   {
     "id": "e02p0709",

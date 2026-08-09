@@ -4,7 +4,7 @@
     "speaker": "Susan",
     "content": "Hey, you. What are we having?",
     "readable": true,
-    "mark": null
+    "mark": ["What are we having for dinner? 晚饭我们吃什么？"]
   },
   {
     "id": "e02p1302",
@@ -46,7 +46,8 @@
     "readable": true,
     "mark": [
       "throw sb a dinner 为某人举办一场晚宴；设宴招待某人; 这里的“throw”是一个俚语，意思是“举办”或“准备”，通常用于非正式的场合。",
-      "at my house 人们更习惯用at来表达 在家（里做某事）这样的含义。"
+      "have a party/throw a party/hold a party. 举办派对",
+      "at my house：把家当作一个地点，讲活动在哪发生（吃饭、聚会、见面）in my house：强调室内，人/东西处在屋子里面。"
     ]
   },
   {
@@ -61,7 +62,9 @@
     "speaker": "Susan",
     "content": "Oh, it's sort of a new tradition.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "sort of 有点、稍微、算得上 some sort of + 名词 = a kind of 某一种、某种"
+    ]
   },
   {
     "id": "e02p1309",
@@ -70,8 +73,7 @@
     "readable": true,
     "mark": [
       "fancy adj. 时髦的，奢华的；华丽的，花哨的；复杂的 v. 喜欢，想要",
-      "little 很少；几乎没有，带有否定的意味。",
-      "a little 一点儿；少量，表示肯定的意思"
+      "a little 一点儿；少量，表示肯定的意思 little 很少；几乎没有，带有否定的意味。"
     ]
   },
   {
@@ -95,7 +97,11 @@
     "speaker": "Alice",
     "content": "As if she was watching an accident in slow motion. She knew it would happen, but was powerless to stop it.",
     "readable": true,
-    "mark": ["as if 好像，仿佛", "in slow motion 以慢动作的方式"]
+    "mark": [
+      "as if 好像，仿佛。从句内容不是事实、想象出来的用虚拟语气",
+      "As if she was watching… 正式虚拟语气中应该用 were，但口语中常用 was",
+      "in slow motion 以慢动作的方式"
+    ]
   },
   {
     "id": "e02p1313",
@@ -109,14 +115,20 @@
     "speaker": "Eddie",
     "content": "Oh, that's so sweet. No, I don't want to intrude, three's a crowd.",
     "readable": true,
-    "mark": ["intrude  v.闯入；打扰，侵扰；", "three's a crowd 三个人太多了"]
+    "mark": [
+      "intrude  v.闯入；打扰，侵扰；",
+      "intrude：场合介入；interrupt：打断进程、说话；disturb：扰乱安宁。",
+      "Two's company, three's a crowd. 两人作伴，三人添乱。"
+    ]
   },
   {
     "id": "e02p1315",
     "speaker": "Mike",
     "content": "No, it's not like that. I mean, Susan's bringing Julie.",
     "readable": true,
-    "mark": ["it's not like that 不是那样的；并非如此"]
+    "mark": [
+      "it's not like that 不是那样的；并非如此 It doesn’t sound like that."
+    ]
   },
   {
     "id": "e02p1316",
@@ -156,7 +168,7 @@
     "mark": [
       "Should I have told sb sth? 我本应该告诉某人某事吗？",
       "vegetarian n. 素食者，素食主义者；食草动物 adj. 素食的，素的",
-      "or something similar或者类似的事物；或诸如此类的东西，常用于在列举事物后，补充说明还有其他与之类似的情况或事物。"
+      "or something similar或者类似的事物；或诸如此类的东西 = or anything like that"
     ]
   },
   {
@@ -166,7 +178,7 @@
     "readable": true,
     "mark": [
       "definitely adv. 肯定地，当然；明确地，确定地",
-      "carnivore n. 食肉动物；喜欢吃肉的人，食肉动物"
+      "carnivore n. 食肉动物；喜欢吃肉的人，食肉动物 carnival n. 狂欢节，嘉年华会"
     ]
   }
 ]

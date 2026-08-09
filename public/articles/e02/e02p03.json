@@ -4,19 +4,19 @@
     "speaker": "Rex",
     "content": "It's okay. I'm up.",
     "readable": true,
-    "mark": ["I'm up 我起床了"]
+    "mark": ["I'm up 我起床了 I'm going to bed 我要睡觉了"]
   },
   {
     "id": "e02p0302",
     "speaker": "Bree",
     "content": "Good. I have a question for you. Do you remember when you proposed?",
     "readable": true,
-    "mark": []
+    "mark": ["remember when you did… 记得做某事的那个时刻"]
   },
   {
     "id": "e02p0303",
     "speaker": "Rex",
-    "content": "For god's sake.",
+    "content": "For God's sake.",
     "readable": true,
     "mark": []
   },
@@ -30,9 +30,9 @@
   {
     "id": "e02p0305",
     "speaker": "Bree",
-    "content": "And when we finished it, you turned to me, and you said, \"if you marry me, Bree Mason, I promise to love you for the rest of my life.\"",
+    "content": "And when we finished it, you turned to me, and you said, \"If you marry me, Bree Mason, I promise to love you for the rest of my life.\"",
     "readable": true,
-    "mark": []
+    "mark": ["finish sth：把某物喝完、吃完、做完"]
   },
   {
     "id": "e02p0306",
@@ -42,8 +42,9 @@
     "mark": [
       "even though 尽管，虽然; 即使，纵然",
       "engaged  adj. 已订婚的；从事……的，忙于……的；电话占线的； engage v.雇用，聘请；参加，从事；吸引，引起；与……交战，开战；",
-      "engaged to sb 与某人订婚",
-      "engaged with sb 与某人交往；与某人接洽；与某人忙于某事"
+      "be engaged to sb 与某人订婚",
+      "be engaged with sb 与某人交涉、接洽",
+      "be engaged in sth 忙于某事"
     ]
   },
   {
@@ -82,7 +83,7 @@
     "speaker": "Bree",
     "content": "Good. I'm going to make myself some warm milk. Would you like something to drink?",
     "readable": true,
-    "mark": ["make myself sth 自己动手做某物给自己用"]
+    "mark": ["make myself sth 给自己弄点……"]
   },
   {
     "id": "e02p0312",

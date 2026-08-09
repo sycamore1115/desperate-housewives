@@ -5,15 +5,13 @@
     "content": "Susan awoke that night alone and parched, but as she gazed out of her window, she saw the tall drink of water she needed to quench her thirst.",
     "readable": true,
     "mark": [
-      "wake vi/vt. 唤醒，醒来；唤起，激起；n. 守夜，守灵 → woke → woken",
-      "awake vi/vt. （使）醒来，唤醒；唤起adj. 醒着的 → awoke → awoken",
-      "awaken vi/vt. 唤醒；唤起； 觉醒；醒来 → awakened → awakened",
-      "三个词在这里可以互换，他们从上到下一个比一个正式。",
+      "wake vi/vt. 唤醒，醒来；唤起 → woke → woken（口语常用 wake up）",
+      "awake vi/vt.（使）醒来；唤起 adj.醒着的 → awoke → awoken（文学/旁白常用）",
+      "awaken vi/vt. 唤醒；唤起（抽象事物，正式用词）→ awakened → awakened",
       "parch v. 烤，烘 parched adj. 焦的；炎热的；炒过的；干透的；非常口渴的",
       "gaze v. 凝视，注视",
       "the tall drink of water 俚语，形容高大英俊的男人",
-      "quench v. 止渴；满足",
-      "quench one's thirst 解渴"
+      "quench one's thirst 解渴 quench v. 止渴；满足"
     ]
   },
   {
@@ -23,7 +21,7 @@
     "readable": true,
     "mark": [
       "Dear diary 日记常用开头",
-      "even 对句子中的某个成分进行强调时，它通常放在实义动词之前、助动词或情态动词之后"
+      "doesn't even know 甚至都不知道；助动词 ➜ even ➜ 实义动词"
     ]
   },
   {
@@ -76,7 +74,7 @@
     "speaker": "Julie",
     "content": "I can't find the measuring cup. Have you seen it?",
     "readable": true,
-    "mark": []
+    "mark": [" measuring cup 量杯 measure v. 测量"]
   },
   {
     "id": "e02p0409",

@@ -4,10 +4,7 @@
     "speaker": "Lynette",
     "content": "Here's what I pulled for Eddie. I should warn you that most of the clothes in there aren't that stylish.",
     "readable": true,
-    "mark": [
-      "pull for 为……加油，支持……",
-      "stylish adj. 时髦的，流行的，有格调的；潇洒的"
-    ]
+    "mark": ["stylish adj. 时髦的，流行的，有格调的；潇洒的"]
   },
   {
     "id": "e02p1402",
@@ -16,6 +13,7 @@
     "readable": true,
     "mark": [
       "beggar n. 乞丐，叫花子；",
+      "Beggars can’t be choosers. 乞丐没得挑。",
       "add salt to the wound 在伤口上撒盐 wound n. 创伤，伤口；损害，痛苦"
     ]
   },
@@ -35,6 +33,7 @@
       "say no more 不必再说了",
       "get out of your hair 不打扰你了，不再烦扰你，让你一个人待着。",
       "by the way 顺便说一下",
+      "see sb getting done 看到某人被… see sb doing 看见某人正在做…",
       "get pulled over by a policeman 被警察拦下  get pulled over通常用来描述司机被警察拦下的情况。pull over: 靠边停车"
     ]
   },
@@ -44,7 +43,7 @@
     "content": "Yeah, the boys were acting up in the car, I couldn't get them to sit down.",
     "readable": true,
     "mark": [
-      "were acting up 口语连读成 wracking up /ˈrækɪŋ ʌp/ 这种感觉",
+      "were acting up 口语连读成 /ˈrækɪŋ ʌp/ 这种感觉",
       "get sb to do sth 让某人做某事；使某人做某事"
     ]
   },
@@ -53,7 +52,7 @@
     "speaker": "Huber",
     "content": "Young boys can be so willful.",
     "readable": true,
-    "mark": ["willful adj. 有意的；任性的；故意的（中性偏负面）"]
+    "mark": ["willful adj. 有意的；任性的；故意的（中性偏负面），只适合修饰人"]
   },
   {
     "id": "e02p1407",
@@ -68,10 +67,9 @@
     "content": "I don't know if it's because they're too young and they don't understand, or if they're just getting some perverse joy out of testing me.",
     "readable": true,
     "mark": [
-      "perverse adj. 任性的，故意作对的；有悖常理的，反常的，不合人意的（强烈贬义）",
+      "perverse adj. 任性的，故意作对的；有悖常理的，反常的，不合人意的（强烈贬义），可以修饰人，也可以修饰感受、行为",
       "joy n. 欢欣，高兴；使人高兴的人（或物），乐趣；成功，满足",
-      "get joy out of 固定搭配，意思是“从……中获得乐趣” out of 因为……而做某事",
-      "get...out of...  表示从…… 中获得……"
+      "get joy out of 固定搭配，意思是“从……中获得乐趣” get...out of... 表示从…中获得…"
     ]
   },
   {
@@ -135,6 +133,6 @@
     "speaker": "Lynette",
     "content": "Well, like I said, I should go back and get dinner ready.",
     "readable": true,
-    "mark": ["like I said 就像我说的;正如我所说"]
+    "mark": ["like I said 就像我说的;正如我所说。书面标准：As I said"]
   }
 ]

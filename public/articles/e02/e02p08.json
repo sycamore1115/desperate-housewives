@@ -5,7 +5,7 @@
     "content": "Dr. Albert Goldfine was the most accomplished marriage counselor in the city.",
     "readable": true,
     "mark": [
-      "accomplished adj. 熟练的，才华高的；娴于社交的；v. 完成，实现（accomplish 的过去式和过去分词）"
+      "accomplished adj. 造诣深厚的、资深的，熟练的，才华高的；娴于社交的；v. 完成，实现（accomplish 的过去式和过去分词）"
     ]
   },
   {
@@ -23,9 +23,9 @@
   {
     "id": "e02p0803",
     "speaker": "Alice",
-    "content": "Yes, Dr. Goldfine thought he had seen it all. And then he met the Van De Kamp’s.",
+    "content": "Yes, Dr. Goldfine thought he had seen it all. And then he met the Van De Kamps.",
     "readable": true,
-    "mark": ["see it all 看尽一切"]
+    "mark": ["see it all 看尽一切，习语：见过大世面、什么怪事都见识过"]
   },
   {
     "id": "e02p0804",
@@ -33,7 +33,10 @@
     "content": "Hi. I'm Bree. And this is my husband Rex. And I brought you some homemade potpourri.",
     "readable": true,
     "mark": [
-      "homemade adj. 自制的，家里做的；国产的",
+      "homemade adj. 自制的，家里做的（被动含义：在家被制作出来）homemaking n.操持家务、家政（主动动作：打理家庭）homemaker n. 家庭主妇 / 主夫",
+      "a home-cooked meal 家常菜（具体一餐）home-cooked adj.家常的 home cooking n.家常菜（抽象）",
+      "ed → 形容词，描述做好的成品 ing → 名词，描述“制作” 这个行为",
+      "已经被词典收录、固化单词 → 直接连写：homemade /homemaking 名词 + 过去分词 临时组合形容词 → 加连字符：home-cooked 两个独立名词构成普通短语 → 空格分开：home cooking",
       "potpourri n. 百花香；混合物；杂曲；大杂烩"
     ]
   },
@@ -45,7 +48,7 @@
     "mark": [
       "The answer is yes. 答案是肯定的",
       "be about to 即将要做某事",
-      "make a fortune off us 从我们身上赚大钱  make sth off sb 从某人身上抢走某物  make a fortune 发财，赚大钱",
+      "make a fortune off us 从我们身上赚大钱 make sth off sb 从某人身上抢走某物 make a fortune 发财，赚大钱",
       "fortune n. 时运，命运；好运，机遇；财富，巨款；未来，前途"
     ]
   }

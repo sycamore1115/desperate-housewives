@@ -4,7 +4,10 @@
     "speaker": "Bree",
     "content": "And so there are just the four of us. My older son, Andrew, is 16, Danielle is 15 and...",
     "readable": true,
-    "mark": null
+    "mark": [
+      "older/elder son 大儿子 younger son 小儿子（little son 极少用）",
+      "older/big sister 姐姐 younger/little sister 妹妹"
+    ]
   },
   {
     "id": "e02p1102",
@@ -30,10 +33,12 @@
     "speaker": "Dr. Goldfine",
     "content": "Yes, Rex has been very vocal about his issues. Don't you want to discuss your feelings about your marriage?",
     "readable": true,
+
     "mark": [
       "vocal adj. 直言不讳的，大声表达的；嗓音的，发声的，歌唱的",
       "issue n. 议题，争论点；v. 发表，颁布；分发，分配",
-      "Don't you want to do sth? 你难道不想做某事吗？"
+      "Don't you want to do sth? 你难道不想做某事吗？",
+      "discuss v. 讨论，辩论；详述，论述 discuss your feelings 谈论/探讨你的感受 talk about/express"
     ]
   },
   {
@@ -41,7 +46,7 @@
     "speaker": "Rex",
     "content": "This is the thing you got to know about Bree. She doesn't like to talk about her feelings. To be honest, it's hard to know if she has any.",
     "readable": true,
-    "mark": null
+    "mark": ["To be honest 老实说；说实话 actually"]
   },
   {
     "id": "e02p1106",
@@ -52,7 +57,8 @@
       "rage n. 盛怒，狂怒；v. 发脾气，大怒；",
       "ecstasy n. 狂喜，陶醉",
       "pleasant adj. 令人愉快的，和蔼可亲的",
-      "annoying adj. 令人恼火的，令人烦躁的"
+      "I can’t tell you how + 形容词 简直无法形容……，别提有多…… ≈ You have no idea how…",
+      "annoying adj. 令人恼火的，令人烦躁的 how annoyed I am"
     ]
   },
   {
@@ -60,7 +66,10 @@
     "speaker": "Rex",
     "content": "Whatever she feels is so far below the surface, no one can see it. I feel like she's using all these domestic things..",
     "readable": true,
-    "mark": ["so far 到目前为止", "below the surface 在表面之下"]
+    "mark": [
+      "so far below the surface 深埋在表象之下 so far 如此之深",
+      " feel like + 从句 (that 可省略) 感觉好像……"
+    ]
   },
   {
     "id": "e02p1108",
@@ -75,10 +84,11 @@
     "content": "Is there some truth there? Do you use housework as a way to disengage emotionally?",
     "readable": true,
     "mark": [
-      "Is there some truth there? 这是真的吗",
+      "Is there some truth there? 这里面有几分实情",
+      "housework n. 家务劳动，家务事 homework n.家庭作业 chores n. 家庭杂务，杂活；累活，苦差事",
       "disengage vt. 使脱离，解开",
       "emotionally adv. 感情上，情绪上",
-      "disengage emotionally 情感上的疏离，情绪上的释放"
+      "disengage emotionally 情感抽离、情感疏离"
     ]
   },
   {

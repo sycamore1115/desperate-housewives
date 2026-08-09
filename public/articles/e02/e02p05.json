@@ -11,14 +11,14 @@
     "speaker": "Gabrielle",
     "content": "I know you're a jerk.",
     "readable": true,
-    "mark": ["jerk n. 傻瓜，坏蛋"]
+    "mark": ["jerk n. 混蛋、讨人厌的人"]
   },
   {
     "id": "e02p0503",
     "speaker": "Carlos",
     "content": "Dinner with Tanaka ran long. I'm sorry.",
     "readable": true,
-    "mark": []
+    "mark": ["run long 固定口语：（会议 / 饭局）拖得很久、超时"]
   },
   {
     "id": "e02p0504",
@@ -28,7 +28,8 @@
     "mark": [
       "I didn't marry you so I could have dinner by myself. 我嫁给你可不是为了一周有六天都自己一个人吃晚饭。",
       "主语 +  don't /didn't + 动作 + so (that) +  主语 +  （不希望发生的）结果 / 状态翻译时，一律译为：我做某事，才不是为了…",
-      "I didn't do A so I could do B，是英语里表达 **“我做 A，才不是为了 B”** 的经典句式。"
+      "I didn't do A so I could do B，是英语里表达 **“我做 A，才不是为了 B”** 的经典句式。",
+      "I didn't marry you so I could go to Paris. 这种句式有天热的歧义，完全依靠语境判断"
     ]
   },
   {
@@ -66,7 +67,7 @@
     "speaker": "Gabrielle",
     "content": "Is that white gold?",
     "readable": true,
-    "mark": []
+    "mark": ["white gold 白金 platinum 铂金，更稀有 → 价格远高于 white gold"]
   },
   {
     "id": "e02p0510",
@@ -88,6 +89,7 @@
     "content": "When a man buys a woman expensive jewelry, there are many things he may want in return, for future reference, conversation ain't one of them.",
     "readable": true,
     "mark": [
+      "buy sb sth（双宾语）= buy sth for sb",
       "in return 作为回报",
       "for future reference 供以后参考 reference n. 提及，谈到；参考，查阅；引言，引文；",
       "ain't 不是；没有非正式的缩写，通常用于英语口语中，是am not、is not、are not、has not 或 have not的缩写形式。"
@@ -108,7 +110,7 @@
     "content": "Let go of me.",
     "readable": true,
     "mark": [
-      "Let go of me 放开我 let me go更强调我想要离开的意愿，而let go of me更强调你应该放开我的动作。"
+      "Let go of me 放开我,松手！ let me go更强调我想要离开的意愿，而let go of me更强调你应该放开我的动作。"
     ]
   },
   {
@@ -141,7 +143,7 @@
     "content": "I don't know. Be the way you used to be. Surprise me. Take my breath away.",
     "readable": true,
     "mark": [
-      "Be the way you used to be 做回你曾经的样子",
+      "Be the way you used to be 做回你曾经的样子 way = 行事方式、样子、状态",
       "take one’s breath away 使大吃一惊 breath: 呼吸"
     ]
   },

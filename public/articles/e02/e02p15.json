@@ -5,7 +5,7 @@
     "content": "Susan, have you been able to find old clothes for Eddie? She has nothing to wear.",
     "readable": true,
     "mark": [
-      "have you been able to do sth for sb? 你有没有办法 / 能不能帮某人做某事？（比 Can you do… 更委婉、客气）"
+      "have you been able to do sth for sb? 到目前为止，你有没有能够做到… be able to do sth for sb 能够为某人做某事"
     ]
   },
   {
@@ -13,21 +13,26 @@
     "speaker": "Susan",
     "content": "I thought that was the look she was going for.",
     "readable": true,
-    "mark": ["be going for 追求，争取得到; 打算做某事"]
+    "mark": ["go for 追求、想要 I thought that was the look she wanted."]
   },
   {
     "id": "e02p1503",
     "speaker": "Huber",
     "content": "Oh, Susan, Eddie may be trash, but she is still a human being.",
     "readable": true,
-    "mark": ["trash n. 垃圾，废物；", "human being 人类"]
+    "mark": [
+      "trash n. 垃圾，废物；",
+      "human being 人类，这里可替换为 a person，但不可以用 people，因为它指的是人们，是复数名词"
+    ]
   },
   {
     "id": "e02p1504",
     "speaker": "Susan",
     "content": "Zach, is your dad home? I need to talk to him. Hi, Paul, I hope I'm not interrupting.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "intrude：场合介入；interrupt：打断进程、说话；disturb：扰乱安宁。"
+    ]
   },
   {
     "id": "e02p1505",
@@ -35,8 +40,8 @@
     "content": "Actually, I was getting ready to go somewhere.",
     "readable": true,
     "mark": [
-      "be getting ready to do sth 正在准备做某事",
-      "be ready to do sth 准备好做某事"
+      "get ready to do sth 准备好去做某事 get + adj：进入某种状态",
+      "get ready：动作，正在着手做准备的过程 be ready：状态，已经准备好了"
     ]
   },
   {
@@ -45,8 +50,9 @@
     "content": "I just wanted to come by and say hello. You know, see how you guys are doing.",
     "readable": true,
     "mark": [
-      "come by 顺便访问",
-      "see how you guys are doing 常见的英语表达，意思是“看看你们怎么样了”"
+      "come by 过来拜访，顺便访问 stop by：顺路中途停下拜访",
+      "see how you guys are doing 常见的英语表达，意思是“看看你们怎么样了” How are you doing?",
+      "问人过得好不好用 how are sb doing；问事情进展用 how is sth going。"
     ]
   },
   {
@@ -85,14 +91,16 @@
     "speaker": "Paul",
     "content": "I got it. I've got it.",
     "readable": true,
-    "mark": null
+    "mark": ["I’ve got it / I got it.：两层：①我搞得定（拒绝帮忙）②我明白了"]
   },
   {
     "id": "e02p1512",
     "speaker": "Susan",
     "content": "I'm sorry if I upset you.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "upset -> upset -> upset v. 使心烦意乱，使生气 I'm upset. It's upsetting."
+    ]
   },
   {
     "id": "e02p1513",
@@ -132,13 +140,20 @@
     "speaker": "Alice",
     "content": "As I watched Susan, I couldn't help feeling sorry for her. She wanted so much to know why I did it, why I killed myself.",
     "readable": true,
-    "mark": null
+    "mark": [
+      "can’t/couldn’t help doing sth 情不自禁、不由得做某事",
+      "feel sorry for sb 同情某人，为某人感到难过",
+      "want so much to do sth 心里十分渴望做某事。 really want"
+    ]
   },
   {
     "id": "e02p1518",
     "speaker": "Alice",
     "content": "It's not enough to want the truth, you must know where to look for it. And the truth is elusive, because it knows where to hide.",
     "readable": true,
-    "mark": ["elusive adj. 难以理解的，难以记住的；难以发现的，难以捕获的"]
+    "mark": [
+      "look for 查找,寻找（强调寻找的过程）",
+      "elusive adj. 难以理解的，难以记住的；难以发现的，难以捕获的"
+    ]
   }
 ]

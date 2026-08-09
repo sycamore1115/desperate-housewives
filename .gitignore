@@ -24,3 +24,4 @@ yarn-error.log*
 
 /public/audios
 /public/articles
+/public/demo
