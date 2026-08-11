@@ -15,6 +15,7 @@ function Part() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [mode, setMode] = useState("read");
+  const [focusId, setFocusId] = useState("");
 
   // 异步读取 public/articles 中的 JSON 文件
   useEffect(() => {
@@ -37,6 +38,31 @@ function Part() {
         setLoading(false);
       });
   }, [jsonFilePath]); // 空依赖数组：仅组件挂载时执行一次
+
+  useEffect(() => {
+    if (!jsonData) return;
+
+    const targetId = decodeURIComponent(window.location.hash.slice(1));
+    if (!targetId) return;
+
+    setFocusId(targetId);
+
+    const timer = setTimeout(() => {
+      document.getElementById(targetId)?.scrollIntoView({
+        behavior: "smooth",
+        block: "center",
+      });
+    }, 0);
+
+    const clearTimer = setTimeout(() => {
+      setFocusId("");
+    }, 2500);
+
+    return () => {
+      clearTimeout(timer);
+      clearTimeout(clearTimer);
+    };
+  }, [jsonData]);
 
   // 渲染加载、错误、数据状态
   if (loading) return <div>加载中...</div>;
@@ -75,6 +101,7 @@ function Part() {
             readable={paragraph.readable}
             mark={paragraph.mark}
             mode={mode}
+            highlighted={paragraph.id === focusId}
           />
         ))}
       </div>

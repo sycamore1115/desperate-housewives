@@ -5,7 +5,8 @@
     "content": "I'm sure Freud would not approve of this.",
     "readable": true,
     "mark": [
-      "approve of 赞成、支持或认可某人或某事物 approve v. 同意，赞成；批准，通过；核准；喜欢，赞赏；approve作赞成；同意；认可讲时，是不及物动词，后面若要接宾语，需要搭配介词of，即approve of sth./sb.赞成某事 / 认可某人。只有当approve作批准；通过讲时，才是及物动词，可以直接接宾语。"
+      "approve of 赞成、支持或认可某人或某事物 approve v. 同意，赞成；批准，通过；核准；喜欢，赞赏；approve作赞成；同意；认可讲时，是不及物动词，后面若要接宾语，需要搭配介词of，即approve of sth./sb.赞成某事 / 认可某人。",
+      "只有当approve作批准；通过讲时，才是及物动词，可以直接接宾语。The manager approved the proposal. 经理批准了这份提案。"
     ]
   },
   {
@@ -15,6 +16,8 @@
     "readable": true,
     "mark": [
       "psychology n. 心理学；心理特点 take psychology修心理学；学习心理学",
+      "take + 学科（美口语）：大学修过这门课 = study",
+      "in college 在大学里 university 多用于学校名字，指大型综合大学",
       "miserable adj. 痛苦的，使人难受的；糟糕的，差劲的"
     ]
   },
@@ -32,8 +35,9 @@
     "readable": true,
     "mark": [
       "grow up 长大",
-      "late 1800s 十九世纪晚期  1800s(eighteen hundreds) 在英语中，\"1800s\" 和 \"1800's\" 这两种写法都是正确的，它们都用来表示19世纪。",
-      "appliance n. 家用电器，装置",
+      "the late 1800s 十九世纪晚期(eighteen hundreds) ",
+      "the 1800s(1800‑1899) == the 19th century 19世纪",
+      "appliance n. 家用电器，装置 application(App)软件",
       "back then 当时：指过去的某个时间点或时期。"
     ]
   },
@@ -56,12 +60,11 @@
     "content": "And what does he do? He grows up and becomes famous, peddling a theory that the problems of most adults can be traced back to something awful their mother had done.",
     "readable": true,
     "mark": [
-      "peddle v. 宣传，散布（思想或消息）；挨户销售，巡回销售；贩卖（非法毒品，偷窃的赃物）；忙于琐事",
+      "peddle v. 宣传，散布（思想或消息）；挨户销售，巡回销售",
       "theory n. 学说，理论；（某一学科基于的）理论，原理；观点，见解",
       "trace back 追溯：追寻某事物的起源或历史。回溯：回顾过去的事件或经历。",
       "be traced back to sth 追溯到某事 / 某物",
-      "grew up使用一般过去时是在描述他过去的经历，是一个已经发生在过去的动作，用一般过去时来明确动作发生的时间背景。",
-      "grows up and becomes这里使用一般现在时是一种以现在的视角来陈述一个一般性的、具有某种规律性或客观性的事实。"
+      "grows up and becomes 叙事性一般现在时，讲故事，把过去发生的故事改用现在时讲述，增强画面感，戏剧、小说、剧本很常见"
     ]
   },
   {
@@ -69,14 +72,17 @@
     "speaker": "Bree",
     "content": "She must've felt so betrayed. He saw how hard she worked, he saw what she did for him, did he even ever think to say thank you? I doubt it.",
     "readable": true,
-    "mark": ["must have done 对过去情况的肯定推测:一定做过某事；想必做过某事"]
+    "mark": [
+      "must have done 对过去情况的肯定推测:一定做过某事；想必做过某事",
+      "betray v. 背叛，出卖；食言，辜负；违背"
+    ]
   },
   {
     "id": "e02p1908",
     "speaker": "Bree",
     "content": "There you go.",
     "readable": true,
-    "mark": ["there you go 给你"]
+    "mark": ["there you go 给你 Here you go"]
   },
   {
     "id": "e02p1909",
@@ -85,9 +91,8 @@
     "readable": true,
     "mark": [
       "just so you know 只是想让你知道；顺便告诉你",
-      "many of + 限定词（如 the、物主代词、名词所有格等）+ 复数名词 是一个常用结构，表示 … 中的许多。many theories泛指很多理论，many of the theories 则是指特定范围内的很多理论。",
-      "discredit vt. 不信；使……丢脸 n. 怀疑；无信用；名声的败坏 credit n. 信用，信贷，赊购；赞扬，信誉，声望；v. 相信，信任",
-      "be discredited 被怀疑；被认为不可信；名誉扫地；失去信誉"
+      "many Freud's theories 说法错误。名词前面有 the /my/his / Freud's 这类限定词，表示特定那一批，many 后面要加 of：many of +限定词+复数名词。没有限定词，直接：many +复数名词",
+      "discredit vt. 不信；使……丢脸 n. 怀疑；无信用；名声的败坏 credit n. 信用，信贷，赊购；赞扬，信誉，声望；v. 相信，信任"
     ]
   },
   {

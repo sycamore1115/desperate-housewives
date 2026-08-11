@@ -37,12 +37,13 @@ function Home() {
   return (
     <div className="App">
       <h1>绝望主妇第一季台词本</h1>
+      <Link to="/search" className="search-entry">
+        搜索
+      </Link>
       <ul className="home-content">
         {jsonData.map((episode) => (
-          <li>
-            <Link to={`/${episode.id}`} key={episode.id}>
-              {episode.title}
-            </Link>
+          <li key={episode.id}>
+            <Link to={`/${episode.id}`}>{episode.title}</Link>
           </li>
         ))}
       </ul>

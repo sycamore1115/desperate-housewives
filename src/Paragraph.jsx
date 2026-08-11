@@ -1,7 +1,16 @@
 import { useEffect, useState } from "react";
 import URL from "../public/config";
 import { use } from "react";
-function Paragraph({ episode, id, content, speaker, readable, mark, mode }) {
+function Paragraph({
+  episode,
+  id,
+  content,
+  speaker,
+  readable,
+  mark,
+  mode,
+  highlighted = false,
+}) {
   const [showMark, setShowMark] = useState(false);
   const [isPlaying, setIsPlaying] = useState(false);
   const [isBlur, setIsBlur] = useState(mode === "write");
@@ -52,7 +61,10 @@ function Paragraph({ episode, id, content, speaker, readable, mark, mode }) {
   }
 
   return (
-    <div className="line-card paragraph" id={id}>
+    <div
+      className={`line-card paragraph${highlighted ? " paragraph-highlight" : ""}`}
+      id={id}
+    >
       <button
         className="play-btn audio-icon"
         onClick={(e) => toggleAudio(e, id)}

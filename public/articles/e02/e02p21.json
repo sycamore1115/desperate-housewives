@@ -12,6 +12,7 @@
     "content": "I saw it when I drove by dealership, I thought Gabrielle would look so beautiful in this. Cost me an arm and a leg.",
     "readable": true,
     "mark": [
+      "drive by (sth) 开车经过…",
       "dealership n. 特许经销商（店）（尤指汽车经销商）",
       "Cost me an arm and a leg. 这可花了我一大笔钱。用于形容某物价格极其昂贵。"
     ]
@@ -22,7 +23,6 @@
     "content": "It's got GPS navigation, 200 watt stereo system, rear parking sensors.",
     "readable": true,
     "mark": [
-      "It’s got ... == It has got.. 强调某物处于某种状态或具有某种特性",
       "GPS navigation gps导航",
       "watt n. 瓦，瓦特（电功率单位）",
       "stereo n. 立体声；立体声音响设备 stereo system 立体声音响系统",
@@ -60,7 +60,7 @@
     "content": "Is it the best gift you've ever gotten?",
     "readable": true,
     "mark": [
-      "got 和 gotten 都是 get 的过去分词形式, gotten主要用于美式英语,更强调动作的过程和变化"
+      "get-> got->got(英)/gotten(美) 但是have got表示有的意思时就用got。只有表示得到时才用gotten，但口语中还是可以用got。"
     ]
   },
   {
@@ -69,9 +69,9 @@
     "content": "Gabrielle could see what this gesture had cost Carlos, so she responded the only way she knew how.",
     "readable": true,
     "mark": [
-      "Gabrielle could see what this gesture had cost Carlos. == Gabrielle could see that this gesture had cost Carlos a lot of money. 第二句更具体地指出了cost的 是很多钱",
+      "what 引导的宾语从句",
       "gesture n. 手势，姿势；姿态，表示 V. 打手势，用动作示意",
-      "she responded the only way she knew how.  how是一个连接副词，引导一个宾语从句，作动词knew的宾语。how (to respond)"
+      "she responded the only way (that) she knew how (to respond) 省略了that的定语从句"
     ]
   },
   {
@@ -80,9 +80,10 @@
     "content": "She had a feeling the truth would've been lost on her husband anyway. After all, it's the rare man who understands the value of a single perfect rose.",
     "readable": true,
     "mark": [
+      "她当时有种感觉，就算那时候把真相告诉丈夫，他反正也理解不了。",
+      "would’ve been = would have been 对过去的虚拟，事情并未真实发生",
       "be lost on sb 未被某人理解；对某人不起作用",
-      "rare adj.少见的，不常发生的；稀罕的 the rare man 这样少有的、不寻常的人",
-      "it's the rare man who ... 是一个强调句型, 很少有人..."
+      "rare adj.少见的，不常发生的；稀罕的 the rare man 这样少有的、不寻常的人 it's the rare man who ... 是一个强调句型, 很少有人..."
     ]
   }
 ]

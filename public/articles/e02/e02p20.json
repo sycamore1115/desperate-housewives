@@ -16,10 +16,9 @@
     "content": "For the first time, Lynette could see this was not the innocent play of children, she was being challenged. So she decided it was time to get creative.",
     "readable": true,
     "mark": [
-      "For the first time 第一次",
+      "For the first time 第一次 for the last time 最后一次",
       "innocent adj. 天真的，幼稚的；清白的，无罪的；",
-      "she was being challenged 过去进行时的被动语态",
-      "it was time to do sth. 是做某事的时候了，time表示时候；时机时是一种泛指的概念，不需要加the 来特指",
+      "it was time to do sth. 是做某事的时候了",
       "get creative 发挥创造力，尝试新的想法或方法。"
     ]
   },
@@ -29,9 +28,10 @@
     "content": "Out! You can't behave? You heard me, you cannot ride. you, out, move it.",
     "readable": true,
     "mark": [
-      "你不听话是吧？我说得很清楚 —— 你就不能坐（这车）。",
+      "你不听话是吧？我说得很清楚，你就不能坐（这车）。ride在这里是乘坐的意思",
       "You can’t behave? 你不能守规矩 / 你不听话？",
-      "you heard me 我说得很清楚、你听见了（强调语气）"
+      "you heard me 我说得很清楚、你听见了（强调语气）",
+      "move it 快点；赶紧；动起来。字面意思还有把它挪开/移开，但这里不是这个意思。"
     ]
   },
   {
@@ -46,21 +46,24 @@
     "speaker": "Lynette",
     "content": "OK, mommy is a genius, five, six, all right. Uh, mommy will be right back.",
     "readable": true,
-    "mark": ["genius n. 天赋，天资；天才"]
+    "mark": [
+      "genius n. 天赋，天资；天才",
+      "right adv.此处表程度：立刻、马上，修饰后面的 back(地点副词)"
+    ]
   },
   {
     "id": "e02p2006",
     "speaker": "Lynette",
-    "content": "Boys? If you're hiding, you've got to stop now, cause mommy doesn't think it's funny.",
+    "content": "Boys? If you're hiding, you've got to stop now, 'cause mommy doesn't think it's funny.",
     "readable": true,
-    "mark": ["cause n. 原因；事业；理由 v. 引起 == because的口语化、非正式写法"]
+    "mark": ["'cause（口语缩略）= because；cause 是独立单词，表示原因；导致"]
   },
   {
     "id": "e02p2007",
     "speaker": "Lynette",
     "content": "Oh, excuse me. I'm sorry, I'm looking for my boys, three boys with red hair, have you seen them?",
     "readable": true,
-    "mark": null
+    "mark": ["with + 外貌：长着……样貌"]
   },
   {
     "id": "e02p2008",
@@ -84,8 +87,8 @@
     "content": "Yeah, they're in my kitchen, listen, it seems to me that you have some anger management issues.",
     "readable": true,
     "mark": [
-      "it seems to me that...用于表达个人的观点和看法，在我看来……；我觉得……",
-      "it seems to be 后面一般接名词、形容词或不定式短语等，而不接that引导的从句",
+      "it seems to me that...看现象得到印象，在我看来……；给我的感觉好像是……",
+      "It seems that + 从句（It seems that it is true.） == It seems to be + 名词 / 形容词（It seems to be true.）",
       "anger management 愤怒管理，情绪控制"
     ]
   },
@@ -189,7 +192,7 @@
     "readable": true,
     "mark": [
       "let go of me 放开我，松手",
-      "What's the matter with you? 你怎么了？==what’s wrong with you?"
+      "What's the matter with you? 你怎么了？== what’s wrong (with you)?"
     ]
   },
   {
@@ -204,6 +207,9 @@
     "speaker": "Lady",
     "content": "You get back here. Get back or I'm gonna call social services.",
     "readable": true,
-    "mark": ["social services 社会服务"]
+    "mark": [
+      "or 否则，要不然；或者",
+      "social services 社会服务，剧中特指（负责儿童保护的）社会福利机构"
+    ]
   }
 ]
