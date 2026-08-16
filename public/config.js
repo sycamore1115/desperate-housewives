@@ -3,5 +3,8 @@ const isDevelopment = process.env.NODE_ENV === "development";
 
 const URL = isDevelopment
   ? "http://localhost:1234"
-  : "https://championsea.oss-cn-shanghai.aliyuncs.com/phoeny/desperate_housewives";
+  : "https://wisteria-lane.oss-cn-hangzhou.aliyuncs.com";
+
+// const URL = "https://wisteria-lane.oss-cn-hangzhou.aliyuncs.com";
+
 export default URL;

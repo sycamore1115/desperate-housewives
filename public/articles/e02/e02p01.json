@@ -33,7 +33,7 @@
     "content": "Of course, most of what's visible to the dead could also be seen by the living, if they only take the time to look.",
     "readable": true,
     "mark": [
-      "most of what's visible to the dead 死者能看到的大部分东西 (what 引导的主语从句) = most of the things that are visible to the dead",
+      "most of what's visible to the dead 死者能看到的大部分东西(这里是what引导的介宾从句，what在从句中充当主语) = most of the things that are visible to the dead",
       "the dead 死者 the living 生者，活着的人们",
       "take the time to 花足够的时间来做某事，做得好或仔细"
     ]
@@ -144,7 +144,8 @@
     "mark": [
       "panicked v. 使恐慌（panic 的过去式和过去分词）= in a panic",
       "full force 全部的威力、强烈程度",
-      "wrath n. 愤怒，盛怒 full force of his wrath 他满腔怒火的全部杀伤力"
+      "wrath n. 愤怒，盛怒 full force of his wrath 他满腔怒火的全部杀伤力",
+      "后面一句是虚拟语气，对现在的虚拟：if + 一般过去时（were/did）→ 主句用 would/could/might do"
     ]
   },
   {
@@ -184,7 +185,8 @@
     "content": "But she was quickly reminded that what Carlos couldn't see couldn't hurt her.",
     "readable": true,
     "mark": [
-      "what Carlos couldn't see couldn't hurt her. 前面的 what Carlos couldn't see 是一个从句，充当主语"
+      "that 引导的宾语从句，本来that可省，但这一句中宾语从句里面还嵌套别的从句（what/who 从句）：that 尽量不省略，消除断句歧义",
+      "what Carlos couldn't see couldn't hurt her. 单看这个从句，其中的 what 引导的是一个主语从句"
     ]
   }
 ]

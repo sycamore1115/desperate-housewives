@@ -2,14 +2,14 @@
   {
     "id": "e02p2301",
     "speaker": "Rex",
-    "content": "Look, all I'm saying is that this whole it takes two to mess up a marriage theory is bull, the problems that we have are because of her.",
+    "content": "Look, all I'm saying is that this whole it takes two to mess up a marriage theory is bull; the problems that we have are because of her.",
     "readable": true,
     "mark": [
       "all I'm saying is that... 我所说的全部就是……；我只是想说……",
-      "it takes two to... 表示…是双方的事；双方都有责任",
+      "it takes two to... 表示…是双方的事；双方都有责任 it takes two to tango（一个巴掌拍不响）",
       "mess up 弄糟；破坏；搞砸 mess n. 肮脏，杂乱 v. 弄脏，弄乱；",
       "bull n. 公牛；废话，胡说八道；靶心",
-      "this whole it takes two to mess up a marriage theory is bull == this whole theory that it takes two to mess up a marriage is bull."
+      "because of 介词短语+名词/代词 because 连词+句子"
     ]
   },
   {
@@ -25,8 +25,11 @@
     "content": "All right, fine. What I have been doing for the past 20 years has been so awful?",
     "readable": true,
     "mark": [
+      "What was so awful? 当时）究竟什么事那么糟糕？What has been so awful? （一直到现在）究竟是什么一直这么糟糕？",
+      "过去时：强调的是过去的那个时间；现在完成时：强调过去到现在的持续，或者对现在的影响，无需管是否完成",
       "What I have been doing ... 是what引导的主语从句",
       "have been doing 现在完成进行时 What have you been doing these days? 你这些天一直在做什么？I’ve been working.",
+      "现在完成时强调的是结果，现在完成进行时强调的则是过程",
       "for the past 20 years 在过去的 20 年里"
     ]
   },
@@ -46,18 +49,19 @@
     "readable": true,
     "mark": [
       "curious adj. 好奇的，求知欲强的；稀奇的，不寻常的；爱挑剔的",
-      "acknowledge v. 承认；认可； 跟……打招呼，理会；告知收到；（公开）感谢",
+      "acknowledge v. 承认；正视、认可 admit 承认（过错）knowledge n. 知识，学问；知道，了解",
       "the benefits of sth 某事 / 某物的益处、好处"
     ]
   },
   {
     "id": "e02p2306",
     "speaker": "Dr. Goldfine",
-    "content": "By your own admission, your home's always clean, your clothes are always freshly pressed, she sounds like a wonderful cook.",
+    "content": "By your own admission, your home's always clean; your clothes are always freshly pressed; she sounds like a wonderful cook.",
     "readable": true,
     "mark": [
       "By your own admission 据你自己所说 admission n. 承认，供认",
-      "freshly adv. 新近；精神饱满地 pressed adj. （时间、资金等）紧缺的；压平的，压扁的 freshly pressed  刚压榨的；刚熨烫的"
+      "freshly adv. 新近；精神饱满地 pressed adj. （时间、资金等）紧缺的；压平的，压扁的 freshly pressed  刚压榨的；刚熨烫的",
+      "sound like + n.：听起来像…；听起来仿佛是… sound + adj：听起来… Her cooking sounds wonderful."
     ]
   },
   {
@@ -66,7 +70,7 @@
     "content": "Despite her flaws, do you ever remember to say thank you?",
     "readable": true,
     "mark": [
-      "despite prep. 尽管，即使；不由自主地，忍不住地",
+      "despite prep. 尽管，即使；不由自主地，忍不住地 Although she has flaws",
       "flaw n. 缺点，缺陷；裂痕，瑕疵 v. 削弱，使失效"
     ]
   }

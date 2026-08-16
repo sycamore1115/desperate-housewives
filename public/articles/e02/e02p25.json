@@ -39,10 +39,9 @@
     "content": "Susan was furious with Eddie for using a dog to ingratiate herself with its owner.",
     "readable": true,
     "mark": [
-      "furious adj. 狂怒的，暴怒的；狂暴的，猛烈的；喧闹的，热烈兴奋的",
-      "be furious with sb for doing sth 因某人做了某事而对其大发雷霆",
-      "ingratiate vt. 使迎合；使讨好；使逢迎",
-      "use sth to ingratiate oneself with sb 利用某物来讨好某人"
+      "furious adj. 狂怒的，暴怒的 be furious with sb for doing sth 因某人做了某事而对其大发雷霆",
+      "anger和angry 普通生气。rage和enraged≈furious 暴怒，情绪失控。wrath很少用，多指有权者、神明的怒火。/ curious",
+      "ingratiate vt. 使迎合；使讨好 use sth to ingratiate oneself with sb 利用某物来讨好某人"
     ]
   },
   {
@@ -54,7 +53,7 @@
       "see through 指能够透过看到背后的事物。",
       "blatant adj. 喧嚣的；公然的；炫耀的；俗丽的",
       "maneuver(美式) = manoeuvre(英式) n. 细致巧妙的移动，机动动作；策略，手段；军事演习",
-      "blatant maneuver用于描述那些不道德、不正当且毫不掩饰的行为策略"
+      "blatant maneuver 用于描述那些不道德、不正当且毫不掩饰的手段"
     ]
   },
   {
@@ -62,7 +61,7 @@
     "speaker": "Alice",
     "content": "But mostly she was furious with herself for not having thought of it first.",
     "readable": true,
-    "mark": null
+    "mark": ["not having thought of 当初本该先想到，却之前没有想到"]
   },
   {
     "id": "e02p2508",
@@ -70,7 +69,9 @@
     "content": "so, you know what? I'm gonna go get the desserts.",
     "readable": true,
     "mark": [
-      "go get sth 去拿某物，去取某物；两个动词连用更加简洁、直接，口语化"
+      "so, you know what? 你知道吗：用于引起某人的注意，然后宣布某事。",
+      "go get sth 去拿某物，去取某物；go + 动词原形 是美语高频口语结构，表去做某事",
+      "dessert n.甜点 desert 沙漠"
     ]
   },
   {
@@ -78,7 +79,10 @@
     "speaker": "Eddie",
     "content": "You are such a smart boy!",
     "readable": true,
-    "mark": null
+    "mark": [
+      "such a/an + adj + 单数名词， such修饰名词",
+      "You are so smart (a boy)! so + adj (+ a/an + 单数名词) so修饰形容词"
+    ]
   },
   {
     "id": "e02p2510",
@@ -86,10 +90,10 @@
     "content": "I can barely get him to sit. I've never seen him walk on two legs.",
     "readable": true,
     "mark": [
-      "barely adv. 勉强才能；几乎不，几乎没有；刚刚；仅仅，只有；",
+      "barely adv. 勉强才能；几乎不，几乎没有；刚刚；仅仅，只有；= hardly 几乎不，侧重难度",
+      "rarely adv. 罕有，很少；异乎寻常地，极度 = seldom 很少，侧重频率",
       "I can barely get him to sit 我几乎没办法让他坐下。get sb. to do sth 强调通过某种努力、办法或手段去促使某人做某事",
       "I can barely let him sit 我几乎不太愿意让他坐下。let sb. do sth. 更侧重于表达一种许可、准许的态度",
-      "have never done和haven't done虽然都表示没有做某事，但have never done 侧重于强调从来没有，而haven't done更注重说明当下事情的未完成状态。",
       "see sb do sth 看见某人做某事"
     ]
   },
@@ -119,18 +123,21 @@
     "speaker": "Mike",
     "content": "Oh, look at that, it’s like Bongo's finally warming up to Susan.",
     "readable": true,
-    "mark": ["warm up to 逐渐接受或喜欢某人或某事物"]
+    "mark": [
+      "it’s like (that)… 口语用法，好像、看样子、仿佛。",
+      "warm up to 慢慢对某人产生好感、变得亲近，放下戒备"
+    ]
   },
   {
     "id": "e02p2515",
     "speaker": "Susan",
-    "content": "Oh, we just got off on the wrong foot, we're best buddies now. Oh, what a good boy! Bongo, are you OK?",
+    "content": "Oh, we just got off on the wrong foot; we're best buddies now. Oh, what a good boy! Bongo, are you OK?",
     "readable": true,
     "mark": [
       "get off on the wrong foot 一开始就做错；一开始就不顺利；出师不利",
       "buddy n. 伙伴，好朋友",
-      "what a good boy! what引导的感叹句: What + (a/an) + 形容词 + 名词 (+ 主语 + 谓语)! == what a good boy (he is)!",
-      "可以转换为how引导的感叹句: How + (形容词 / 副词) + 主语 + 谓语！ == how good the boy is."
+      "what a good boy (he is)! what引导的感叹句",
+      "how引导的感叹句: how good the boy is."
     ]
   },
   {
@@ -152,14 +159,18 @@
     "speaker": "Julie",
     "content": "Mom? Where is your earring?",
     "readable": false,
-    "mark": null
+    "mark": ["necklace项链 earring耳环 watch手表 ring戒指"]
   },
   {
     "id": "e02p2519",
     "speaker": "Mike",
     "content": "Call the vet, the number's on the fridge, tell him I'll be right there.",
     "readable": true,
-    "mark": ["vet n. 兽医", "fridge n. 冰箱", "I'll be right there. 我马上就到"]
+    "mark": [
+      "vet n. 兽医",
+      "fridge n. 冰箱",
+      "I'll be right there. 我马上就到那儿 I'll be right over. 我马上就过来。"
+    ]
   },
   {
     "id": "e02p2520",
@@ -168,7 +179,7 @@
     "readable": true,
     "mark": [
       "Don't worry about a thing 别担心任何事，什么都不用担心。== Don't worry about anything",
-      "get sth done 完成某事；使某事被做"
+      "clean up 收拾、清理残局"
     ]
   },
   {

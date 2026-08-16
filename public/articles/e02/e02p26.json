@@ -4,24 +4,23 @@
     "speaker": "Susan",
     "content": "How's Bongo doing?",
     "readable": true,
-    "mark": null
+    "mark": [
+      "问人过得好不好用 how are/is sb doing；问事情进展用 how is sth going。"
+    ]
   },
   {
     "id": "e02p2602",
     "speaker": "Mike",
     "content": "I'm waiting to see if they'll have to operate.",
     "readable": true,
-    "mark": [
-      "I’m waiting to see ... 我正等着看……",
-      "operate v. 操纵，操作；开刀，动手术；"
-    ]
+    "mark": ["operate v. 操纵，操作；开刀，动手术；"]
   },
   {
     "id": "e02p2603",
     "speaker": "Susan",
     "content": "Oh, god. I stopped and I got this for... I'm just so sorry for this.",
     "readable": true,
-    "mark": null
+    "mark": ["stop：行进途中特意停下。"]
   },
   {
     "id": "e02p2604",
@@ -29,7 +28,7 @@
     "content": "I'm really sorry I snapped at you. I just...",
     "readable": true,
     "mark": [
-      "snap at sb 对人厉声说 snap v. 厉声说,怒气冲冲地说；断裂,绷断；突然失控"
+      "snap at sb 对人厉声说 snap v. 厉声说,怒气冲冲地说；断裂,绷断；突然失控 yell at 大多带着愤怒情绪吼叫"
     ]
   },
   {
@@ -58,14 +57,18 @@
     "speaker": "Vet",
     "content": "We've given Bongo something to help pass the earring. When he does, would you like us to retrieve it for you?",
     "readable": true,
-    "mark": ["help do sth 帮助做某事 == help to do sth"]
+    "mark": [
+      "help do sth 帮助做某事 == help to do sth",
+      "pass v. 排泄；经过，穿过；传递",
+      "When he does = When he passes the earring 可用 do/does/did 替代前文重复的动词"
+    ]
   },
   {
     "id": "e02p2609",
     "speaker": "Susan",
     "content": "I'm gonna say no.",
     "readable": true,
-    "mark": ["I'm gonna say no. 我要说不；我打算拒绝"]
+    "mark": ["I'm gonna say no. 那我还是算了吧，我这边就不用了"]
   },
   {
     "id": "e02p2610",
@@ -86,14 +89,14 @@
     "speaker": "Mike",
     "content": "I'm sorry, I was just really worried.",
     "readable": true,
-    "mark": null
+    "mark": ["be worried (about sb) 表示担忧的状态"]
   },
   {
     "id": "e02p2613",
     "speaker": "Susan",
     "content": "It was your dog, I get it.",
     "readable": true,
-    "mark": null
+    "mark": ["狗现在依旧属于对方，was 只是回溯刚刚那个场景。"]
   },
   {
     "id": "e02p2614",
@@ -101,9 +104,10 @@
     "content": "Actually, he was my wife's dog, and one of the last things she said to me in the hospital before she died was to be sure I looked after him, and I promised her I would.",
     "readable": true,
     "mark": [
-      "one of the last things she said to me was to be sure I looked after him. 整个句子在描述过去的事，she said 和 looked要保持时态一致性。",
+      "One of the last things … was to do …某人临终 / 临走交代的几件事之一就是去做…",
       "be sure that... 确保……；务必……",
-      "look after sb 照顾、照料某人"
+      "look after sb 照顾、照料某人/动物/植物 = take care of sb",
+      "take care of 还有处理活儿、解决麻烦、办妥事情的意思，此时不能替换为look after"
     ]
   },
   {
@@ -113,7 +117,7 @@
     "readable": true,
     "mark": [
       "be in love with sb 爱上某人；与某人相爱",
-      "late adj.已故的；晚期的，末期的；晚的，迟的；近日暮的，近深夜的"
+      "late adj.已故的；晚期的，末期的；晚的，迟的。委婉提及已经去世的家人 → late + 亲属名词"
     ]
   },
   {
@@ -123,8 +127,7 @@
     "readable": true,
     "mark": [
       "mean so much to sb 对某人来说意义重大；对某人非常重要",
-      "If something happened, I would feel that I failed her. 如果发生了什么事情，我会觉得我辜负了她",
-      "If something had happened, I would've felt like I had failed her. 要是当时发生了什么事情的话，我就会觉得我已经辜负了她",
+      "If something had happened, I would've felt like I had failed her. 要是当时发生了什么事情的话，我就会觉得我已经辜负了她。对过去的虚拟",
       "fail sb 让某人失望；有负于某人"
     ]
   },
@@ -135,10 +138,10 @@
     "readable": true,
     "mark": [
       "right then 就在那时；当时",
-      "neither nor 既不……也不……",
+      "neither A nor B：A 和 B 两者都不,谓语就近原则 both A and B：A 和 B 两者都,谓语用复数",
       "would be doing 过去将来进行时，在过去的时间点看将来正在进行的动作",
       "claim n/v. 声称，断言；索要，索赔",
-      "lay claim to... 宣称对…拥有权利；主张…是自己的 lay claim to his heart 宣称赢得他的芳心；声称占据他的感情",
+      "lay claim to sth 宣称对某物拥有所有权 lay claim to his heart 宣称赢得他的芳心；声称占据他的感情",
       "anytime soon 很快的任何时候；近期内：表示事情不会很快改善或发生。"
     ]
   },
@@ -149,7 +152,7 @@
     "readable": true,
     "mark": [
       "for now 目前；暂时",
-      "settle for sth 妥协接受某事物 settle v. 解决，结束；确定，决定；定居"
+      "settle for sth 将就，勉强接受，妥协接受某事物 settle v. 解决，结束；确定，决定；定居"
     ]
   },
   {
@@ -165,21 +168,21 @@
     "content": "Yes, as I look back at the world I left behind, it's all so clear to me, the beauty that waits to be unveiled, the mysteries that long to be uncovered.",
     "readable": true,
     "mark": [
-      "look back at sth 回顾，回忆（某事）；回头看，再看（某物） look back at the world 回望这个世界；回首看世界",
+      "look back at/on sth 回顾，回忆（某事）；回头看，再看（某物） look back at the world 回望这个世界；回首看世界",
       "unveil v. （首次）公开，揭示；为…揭幕，揭去…上的覆盖物；除去面纱，显露",
       "mystery n. 难以理解的事物，奥秘；神秘的人",
-      "uncover v. 揭露，发现；"
+      "uncover v. 揭露，发现；揭开盖子，移开覆盖物；发掘，挖出"
     ]
   },
   {
     "id": "e02p2621",
     "speaker": "Alice",
-    "content": "But people so rarely stop to take a look, they just keep moving. It's a shame, really, There's so much to see.",
+    "content": "But people so rarely stop to take a look, they just keep moving. It's a shame, really, there's so much to see.",
     "readable": true,
     "mark": [
       "rarely adv. 罕有，很少；异乎寻常地，极度",
       "stop to take a look 停下来看一眼",
-      "It's a shame 这是一件憾事 shame n. 令人惋惜的事；羞耻，羞愧；"
+      "It's a shame 这是一件憾事 shame n. 令人惋惜的事；羞耻，羞愧；What a shame."
     ]
   }
 ]

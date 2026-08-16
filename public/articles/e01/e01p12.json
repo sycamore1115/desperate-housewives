@@ -71,7 +71,11 @@
     "speaker": "Carlos",
     "content": "I don't want to hear your excuses. Just take care of it.",
     "readable": true,
-    "mark": ["excuse n. 借口，托词；正当理由"]
+    "mark": [
+      "excuse n. 借口，托词；正当理由",
+      "take care of 处理、办妥、搞定（任务、麻烦、事务），这里不是照顾照料的意思",
+      "take care of it it 指代前面 dig up the bush 这件事"
+    ]
   },
   {
     "id": "e01p1210",

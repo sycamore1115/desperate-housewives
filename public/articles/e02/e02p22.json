@@ -11,7 +11,10 @@
     "speaker": "Eddie",
     "content": "Hey, Susan, don't worry, Mike and I have got everything under control.",
     "readable": true,
-    "mark": ["under control 处于控制之下；情况正常"]
+    "mark": [
+      "get 造成/进入某种状态 have got/gotten 现在完成时 I've got everything under control.一切尽在我掌握；我已经把局面稳住了。",
+      "under control 处于控制之下；情况正常"
+    ]
   },
   {
     "id": "e02p2203",
@@ -23,10 +26,10 @@
   {
     "id": "e02p2204",
     "speaker": "Eddie",
-    "content": "I wouldn't take it personally, dogs are very sensitive.",
+    "content": "I wouldn't take it personally； dogs are very sensitive.",
     "readable": true,
     "mark": [
-      "I wouldn't take it personally 我不会为此而往心里去的。",
+      "I wouldn't take it personally 你别往心里去；别把这件事当成针对你个人的。",
       "sensitive adj. 过敏的，易受影响的；灵敏的；善解人意的，体恤的；敏感的"
     ]
   },
@@ -46,7 +49,9 @@
     "readable": true,
     "mark": [
       "In the distance 在远处 distance n. 远处；疏远，隔阂；差距；进展；距离 v. 疏远，远离",
-      "bell n. 钟，铃；钟声，铃声"
+      "hear->heard->heard 听到 listen 听 sound 听起来 / see 看见的结果 look 主动看的动作",
+      "bell n. 钟，铃；钟声，铃声 ring v.敲钟，按铃 hear + 物 + do：听见某物做了某个动作",
+      "她听见铃铛响了。she heard a bell/ring. 她听见了铃声"
     ]
   },
   {
