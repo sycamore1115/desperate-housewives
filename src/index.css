@@ -174,7 +174,7 @@ body {
 }
 
 .en-line-blur {
-  filter: blur(4px);
+  /* filter: blur(4px); */
 }
 
 .cn-line {
