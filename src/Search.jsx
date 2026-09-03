@@ -1,4 +1,6 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
+import { Button, Input, Loading, Title } from "animal-island-ui";
 import SearchParagraph from "./SearchParagraph";
 import URL from "../public/config";
 
@@ -90,26 +92,36 @@ function Search() {
     return titleMap[`${match[1]}/${match[2]}`] || "";
   }
 
-  if (loading) return <div>加载中...</div>;
-  if (error) return <div>错误：{error}</div>;
+  if (loading) return <Loading active />;
+  if (error) return <div className="status-text">错误：{error}</div>;
 
   return (
-    <>
+    <div className="page-shell">
       <header className="header">
-        <h1>全文搜索</h1>
+        <Title size="large" color="app-blue">
+          全文搜索
+        </Title>
+        <Link to="/">
+          <Button type="default" size="small">
+            返回首页
+          </Button>
+        </Link>
         <form className="search-form" onSubmit={handleSearch}>
-          <input
-            className="search-input"
-            type="search"
+          <Input
+            size="large"
             value={query}
-            onChange={(e) => setQuery(e.target.value)}
+            allowClear
+            shadow
             placeholder="输入台词关键词..."
+            onChange={(e) => setQuery(e.target.value)}
+            onClear={() => setQuery("")}
           />
-          <button className="search-submit" type="submit">
+          <Button type="primary" htmlType="submit">
             搜索
-          </button>
+          </Button>
         </form>
       </header>
+
       <div className="container">
         {!hasSearched ? (
           <p className="search-empty">输入关键词后，结果会显示在这里</p>
@@ -127,7 +139,7 @@ function Search() {
           ))
         )}
       </div>
-    </>
+    </div>
   );
 }
 

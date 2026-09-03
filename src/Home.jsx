@@ -1,16 +1,25 @@
 import { Link } from "react-router-dom";
 import { useState, useEffect } from "react";
+import { Button, Card, Loading, Title } from "animal-island-ui";
 import URL from "../public/config";
+
+const CARD_COLORS = [
+  "app-teal",
+  "app-yellow",
+  "app-pink",
+  "app-blue",
+  "app-orange",
+  "app-green",
+  "warm-peach-pink",
+  "brown",
+];
 
 function Home() {
   const jsonFilePath = `${URL}/articles/home.json`;
-
-  // 定义状态存储 JSON 数据
   const [jsonData, setJsonData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  // 异步读取 public/articles 中的 JSON 文件
   useEffect(() => {
     fetch(jsonFilePath)
       .then((response) => {
@@ -22,36 +31,56 @@ function Home() {
         return response.json();
       })
       .then((data) => {
-        setJsonData(data); // 存储解析后的数据
+        setJsonData(data);
       })
       .catch((err) => {
-        setError(err.message); // 捕获错误
+        setError(err.message);
       })
       .finally(() => {
         setLoading(false);
       });
-  }, [jsonFilePath]); // 空依赖数组：仅组件挂载时执行一次
-  if (loading) return <div>加载中...</div>;
-  if (error) return <div>错误：{error}</div>;
-  if (!jsonData) return <div>无数据</div>;
+  }, [jsonFilePath]);
+
+  if (loading) return <Loading active />;
+  if (error) return <div className="status-text">错误：{error}</div>;
+  if (!jsonData) return <div className="status-text">无数据</div>;
+
   return (
-    <div className="App">
-      <h1>绝望主妇第一季台词本</h1>
-      <Link to="/search" className="search-entry">
-        搜索
-      </Link>
-      <a
-        href="https://www.bilibili.com/video/BV19GM36GE7Z"
-        target="_blank"
-        rel="noopener noreferrer"
-        style={{ padding: "0 20px", color: "cornflowerblue" }}
-      >
-        点击打开B站陪伴学习视频
-      </a>
-      <ul className="home-content">
-        {jsonData.map((episode) => (
+    <div className="page-shell">
+      <div className="page-hero">
+        <Title size="large" color="app-teal">
+          绝望主妇第一季台词本
+        </Title>
+        <div className="page-actions">
+          <Link to="/search" className="search-cta-link">
+            <Button type="primary" size="large">
+              🔍 搜索台词
+            </Button>
+          </Link>
+          <a
+            href="https://www.bilibili.com/video/BV19GM36GE7Z"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button type="default" size="middle">
+              B站陪伴学习
+            </Button>
+          </a>
+        </div>
+      </div>
+
+      <ul className="page-list">
+        {jsonData.map((episode, index) => (
           <li key={episode.id}>
-            <Link to={`/${episode.id}`}>{episode.title}</Link>
+            <Link className="episode-card-link" to={`/${episode.id}`}>
+              <Card
+                color={CARD_COLORS[index % CARD_COLORS.length]}
+                pattern={CARD_COLORS[index % CARD_COLORS.length]}
+                hoverable
+              >
+                <div className="episode-card-title">{episode.title}</div>
+              </Card>
+            </Link>
           </li>
         ))}
       </ul>

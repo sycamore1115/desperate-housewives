@@ -1,23 +1,22 @@
 import { useState, useEffect } from "react";
-import { useParams, useSearchParams } from "react-router-dom";
+import { Link, useParams, useSearchParams } from "react-router-dom";
+import { Button, Title } from "animal-island-ui";
 import Paragraph from "./Paragraph";
 import URL from "../public/config";
 
 function Part() {
   const { eid, pid } = useParams();
-  const [searchParams, setSearchParams] = useSearchParams();
+  const [searchParams] = useSearchParams();
   const title = searchParams.get("title");
   const id = `${eid}${pid}`;
   const jsonFilePath = `${URL}/articles/${eid}/${id}.json`;
   const audioFilePath = `${URL}/audios/${eid}/${id}s.mp3`;
-  // 定义状态存储 JSON 数据
   const [jsonData, setJsonData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [mode, setMode] = useState("read");
   const [focusId, setFocusId] = useState("");
 
-  // 异步读取 public/articles 中的 JSON 文件
   useEffect(() => {
     fetch(jsonFilePath)
       .then((response) => {
@@ -29,15 +28,15 @@ function Part() {
         return response.json();
       })
       .then((data) => {
-        setJsonData(data); // 存储解析后的数据
+        setJsonData(data);
       })
       .catch((err) => {
-        setError(err.message); // 捕获错误
+        setError(err.message);
       })
       .finally(() => {
         setLoading(false);
       });
-  }, [jsonFilePath]); // 空依赖数组：仅组件挂载时执行一次
+  }, [jsonFilePath]);
 
   useEffect(() => {
     if (!jsonData) return;
@@ -64,29 +63,37 @@ function Part() {
     };
   }, [jsonData]);
 
-  // 渲染加载、错误、数据状态
-  if (loading) return <div>加载中...</div>;
-  if (error) return <div>错误：{error}</div>;
-  if (!jsonData) return <div>无数据</div>;
+  if (loading) return <div className="status-text">加载中...</div>;
+  if (error) return <div className="status-text">错误：{error}</div>;
+  if (!jsonData) return <div className="status-text">无数据</div>;
 
   return (
-    <>
+    <div className="page-shell">
       <header className="header">
-        <h1>{title}</h1>
+        <Title size="middle" color="app-orange">
+          {title || "台词阅读"}
+        </Title>
         <div className="subtitle">
           <audio src={audioFilePath} controls></audio>
-          <div
-            className={`modeBtn ${mode === "read" ? "modeActive" : ""}`}
+          <Button
+            type={mode === "read" ? "primary" : "default"}
+            size="small"
             onClick={() => setMode("read")}
           >
             阅读
-          </div>
-          <div
-            className={`modeBtn ${mode === "write" ? "modeActive" : ""}`}
+          </Button>
+          <Button
+            type={mode === "write" ? "primary" : "default"}
+            size="small"
             onClick={() => setMode("write")}
           >
             听写
-          </div>
+          </Button>
+          <Link to={`/${eid}`}>
+            <Button type="dashed" size="small">
+              返回章节
+            </Button>
+          </Link>
         </div>
       </header>
       <audio id="audioPlayer"></audio>
@@ -106,9 +113,10 @@ function Part() {
         ))}
       </div>
       <div className="footer">
-        <p>怕什么真理无穷，进一寸有一寸的欢喜 🍀</p>
+        <p>怕什么真理无穷，进一寸有一寸的欢喜</p>
       </div>
-    </>
+    </div>
   );
 }
+
 export default Part;

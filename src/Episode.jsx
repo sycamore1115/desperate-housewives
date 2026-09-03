@@ -1,19 +1,26 @@
 import { Link, useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
+import { Button, Card, Loading, Title } from "animal-island-ui";
 import URL from "../public/config";
+
+const CARD_COLORS = [
+  "app-yellow",
+  "app-teal",
+  "app-blue",
+  "app-pink",
+  "app-green",
+  "app-orange",
+  "lime-green",
+  "brown",
+];
 
 function Episode() {
   const { eid } = useParams();
-
   const jsonFilePath = `${URL}/articles/${eid}/episode.json`;
-  console.log(jsonFilePath);
-
-  // 定义状态存储 JSON 数据
   const [jsonData, setJsonData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  // 异步读取 public/articles 中的 JSON 文件
   useEffect(() => {
     fetch(jsonFilePath)
       .then((response) => {
@@ -25,25 +32,49 @@ function Episode() {
         return response.json();
       })
       .then((data) => {
-        setJsonData(data); // 存储解析后的数据
+        setJsonData(data);
       })
       .catch((err) => {
-        setError(err.message); // 捕获错误
+        setError(err.message);
       })
       .finally(() => {
         setLoading(false);
       });
-  }, [jsonFilePath]); // 空依赖数组：仅组件挂载时执行一次
-  if (loading) return <div>加载中...</div>;
-  if (error) return <div>错误：{error}</div>;
-  if (!jsonData) return <div>无数据</div>;
+  }, [jsonFilePath]);
+
+  if (loading) return <Loading active />;
+  if (error) return <div className="status-text">错误：{error}</div>;
+  if (!jsonData) return <div className="status-text">无数据</div>;
+
   return (
-    <div>
-      <ul className="home-content">
-        {jsonData.map((part) => (
+    <div className="page-shell">
+      <div className="page-hero">
+        <Title size="large" color="app-yellow">
+          {eid.toUpperCase()} 章节
+        </Title>
+        <Link to="/">
+          <Button type="default" size="small">
+            返回首页
+          </Button>
+        </Link>
+      </div>
+
+      <ul className="page-list">
+        {jsonData.map((part, index) => (
           <li key={part.id}>
-            <Link to={`/${eid}/${part.id}?title=${part.title}`}>
-              {part.id.slice(-2)} {part.title}
+            <Link
+              className="part-card-link"
+              to={`/${eid}/${part.id}?title=${encodeURIComponent(part.title)}`}
+            >
+              <Card
+                color={CARD_COLORS[index % CARD_COLORS.length]}
+                hoverable
+              >
+                <div className="part-card-title">
+                  <span className="part-card-index">{part.id.slice(-2)}</span>
+                  {part.title}
+                </div>
+              </Card>
             </Link>
           </li>
         ))}

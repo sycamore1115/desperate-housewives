@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import URL from "../public/config";
-import { use } from "react";
+
 function Paragraph({
   episode,
   id,
@@ -40,12 +40,12 @@ function Paragraph({
   useEffect(() => {
     setIsBlur(mode === "write");
   }, [mode]);
-  function toggleMark(e, paragraphId) {
-    // if (mark.length === 0) return;
+
+  function toggleMark() {
     setShowMark(!showMark);
   }
 
-  function toggleAudio(e, paragraphId) {
+  function toggleAudio() {
     if (!readable) return;
     const audioPlayer = document.getElementById("audioPlayer");
     if (audioPlayer.src.includes(audioSrc)) {
@@ -62,12 +62,12 @@ function Paragraph({
 
   return (
     <div
-      className={`line-card paragraph${highlighted ? " paragraph-highlight" : ""}`}
+      className={`paragraph${highlighted ? " paragraph-highlight" : ""}`}
       id={id}
     >
       <button
         className="play-btn audio-icon"
-        onClick={(e) => toggleAudio(e, id)}
+        onClick={toggleAudio}
         style={readable ? { opacity: 1 } : { opacity: 0 }}
       >
         {isPlaying ? "⏸" : "▶"}
@@ -79,7 +79,7 @@ function Paragraph({
         {content}
       </p>
       {mark?.length > 0 && (
-        <div onClick={(e) => toggleMark(e, id)} className="more">
+        <div onClick={toggleMark} className="more">
           👇
         </div>
       )}

@@ -40,7 +40,7 @@ function SearchParagraph({ id, content, title, keyword }) {
 
   return (
     <div
-      className="line-card paragraph search-paragraph"
+      className="paragraph search-paragraph"
       id={id}
       onClick={handleOpenPart}
     >
