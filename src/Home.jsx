@@ -40,6 +40,14 @@ function Home() {
       <Link to="/search" className="search-entry">
         搜索
       </Link>
+      <a
+        href="https://www.bilibili.com/video/BV19GM36GE7Z"
+        target="_blank"
+        rel="noopener noreferrer"
+        style={{ padding: "0 20px", color: "cornflowerblue" }}
+      >
+        点击打开B站陪伴学习视频
+      </a>
       <ul className="home-content">
         {jsonData.map((episode) => (
           <li key={episode.id}>
