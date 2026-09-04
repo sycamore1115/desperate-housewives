@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Link, useParams, useSearchParams } from "react-router-dom";
-import { Button, Title } from "animal-island-ui";
+import { Button } from "animal-island-ui";
 import Paragraph from "./Paragraph";
 import URL from "../public/config";
 
@@ -70,9 +70,7 @@ function Part() {
   return (
     <div className="page-shell">
       <header className="header">
-        <Title size="middle" color="app-orange">
-          {title || "台词阅读"}
-        </Title>
+        <h1 className="part-title">{title || "台词阅读"}</h1>
         <div className="subtitle">
           <audio src={audioFilePath} controls></audio>
           <Button
@@ -113,7 +111,10 @@ function Part() {
         ))}
       </div>
       <div className="footer">
-        <p>怕什么真理无穷，进一寸有一寸的欢喜</p>
+        <p>
+          怕什么真理无穷，进一寸有一寸的欢喜
+          <span className="footer-clover">🍀</span>
+        </p>
       </div>
     </div>
   );
